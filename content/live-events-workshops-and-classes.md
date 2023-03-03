@@ -8,7 +8,7 @@ Live Events are important because they help students overcome technical or caree
 
 You will be able to find the events in your dashboard:
 
-<!-- Animated screenshots of the app and text explanation on were to find the vents -->
+![How to access events](https://breathecode.herokuapp.com/v1/media/file/screen-recording-2023-02-21-at-4-33-11-pm-adobeexpress-gif)
 
 ## What events formats are available?
 
