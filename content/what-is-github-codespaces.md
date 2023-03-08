@@ -75,4 +75,4 @@ Every computer has a terminal, and you use it to do almost everything you want: 
 
 You don't have to learn the terminal command's yet, but **[we strongly recommend reading this lesson](https://4geeks.com/en/lesson/the-command-line-the-terminal)** to get familiar and know its functions and limitations.
 
-![the terminal](https://storage.googleapis.com/breathecode-asset-images/e7094b073128ec4ae46e3fd9568cbb7c85d860ef7bd28375fdd5a06041d22e2c.png?raw=true)
+![the terminal](https://github.com/breatheco-de/knowledge-base/blob/main/images/e7094b073128ec4ae46e3fd9568cbb7c85d860ef7bd28375fdd5a06041d22e2c.png?raw=true)
