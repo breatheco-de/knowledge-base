@@ -33,6 +33,16 @@ You can also manually delete users on Github, but the system will probably add t
 
 ![sync github users](https://storage.googleapis.com/breathecode-asset-images/bcfa2f990e94bb6d13f293926956d37f86b2778248bcb9e804d43a97c1272d6b.gif?raw=true)
 
+## What actions are needed by the academy
+
+### Make sure students accept invites 
+
+Students will get invitations to join our Github organization, if they don't accept the invite they will never be a part of your organization, and won't have access to features like: Accessing private repositories, free usage of Github Codespaces at the academy repositories, etc.
+
+### Keep watch on the users
+
+4Geeks.com will automatically add/remove users based on cohort activity but you should always be aware of the changes being made and make sure your students are proparly being added and removed.
+
 ## Asynchronous synch
 
 For logistical reasons and because a student can belong to several academies, we have decided to avoid synchronizing in real-time; the synchronization will occur in a batch process every few minutes. The exact interval is to be determined.
