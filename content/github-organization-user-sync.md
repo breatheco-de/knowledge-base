@@ -1,5 +1,3 @@
-# GitHub User Organization Sync
-
 [4Geeks.com](http://4Geeks.com) academy portal can now automatically and optionally sync students as users of your Github organization.
 
 > 🐞 This is a beta feature that will be tested within the following weeks.
@@ -33,7 +31,7 @@ You can also manually delete users on Github, but the system will probably add t
 
 > ⚠️ Cohorts that `never end` are also considered; as long as the student is active, they will be allowed into the academy organization.
 
-!(https://github.com/breatheco-de/knowledge-base/blob/main/images/9uHxjUl3C8.gif?raw=true)
+!(https://storage.googleapis.com/breathecode-asset-images/bcfa2f990e94bb6d13f293926956d37f86b2778248bcb9e804d43a97c1272d6b.gif?raw=true)
 
 ## Asynchronous synch
 
