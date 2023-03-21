@@ -31,7 +31,7 @@ You can also manually delete users on Github, but the system will probably add t
 
 > ⚠️ Cohorts that `never end` are also considered; as long as the student is active, they will be allowed into the academy organization.
 
-!(https://storage.googleapis.com/breathecode-asset-images/bcfa2f990e94bb6d13f293926956d37f86b2778248bcb9e804d43a97c1272d6b.gif?raw=true)
+![sync github users](https://storage.googleapis.com/breathecode-asset-images/bcfa2f990e94bb6d13f293926956d37f86b2778248bcb9e804d43a97c1272d6b.gif?raw=true)
 
 ## Asynchronous synch
 
