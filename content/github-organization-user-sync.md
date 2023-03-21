@@ -1,0 +1,50 @@
+# GitHub User Organization Sync
+
+[4Geeks.com](http://4Geeks.com) academy portal can now automatically and optionally sync students as users of your Github organization.
+
+> 🐞 This is a beta feature that will be tested within the following weeks.
+
+## How does Github Organization Sync work?
+
+### Activating or deactivating the GitHub Sync
+
+We have taken steps to activate the GitHub sync in the current 4Geeks Academy locations in the system. This can be disabled at any time in the [admin Github settings](https://admin.4geeks.com/admin/github).
+
+### Adding users
+
+Students are automatically `added` to the GitHub organization in the following situations:
+
+1. When a student is added to a cohort. 
+2. Every time the education status becomes `active`.
+
+You can also manually invite students to the organization from [Github.com](http://Github.com) and [4Geeks.com](http://4Geeks.com) will notice them when synching with Github; it will try fetching their cohorts and connecting them to your academy.
+
+![4Geeks-Developers-Community-Admin (5).png](https://github.com/breatheco-de/knowledge-base/blob/main/images/4Geeks-Developers-Community-Admin_(5).png?raw=true)
+
+> ⚠️ If a user is found in a Github organization but is not reflected as a [4geeks.com](http://4geeks.com) user and does not belong to any cohort, the system will mark the user as ignored.
+
+### Deleting users
+
+Students that were `removed` from the GitHub organization in the following situation:
+
+1. When a student loses `active` status in a cohort.
+
+You can also manually delete users on Github, but the system will probably add them back. It is recommended to mark them as deleted on the GitHub admin page and wait for the system to delete them from the GitHub Organization.
+
+> ⚠️ Cohorts that `never end` are also considered; as long as the student is active, they will be allowed into the academy organization.
+
+!(https://github.com/breatheco-de/knowledge-base/blob/main/images/9uHxjUl3C8.gif?raw=true)
+
+## Asynchronous synch
+
+For logistical reasons and because a student can belong to several academies, we have decided to avoid synchronizing in real-time; the synchronization will occur in a batch process every few minutes. The exact interval is to be determined.
+
+## FAQ
+
+- What if the user is in multiple cohorts but gets deleted from one?
+    
+    The system will ensure it only gets deleted from the GitHub organization if it loses the status as `active` in all the cohorts.
+    
+- What if the user is in multiple academies?
+    
+    If the user is in multiple cohorts in multiple academies, we will only consider those cohorts where the student is still active.
