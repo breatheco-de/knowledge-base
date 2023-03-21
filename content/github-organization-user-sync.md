@@ -50,14 +50,14 @@ For logistical reasons and because a student can belong to several academies, we
 ## FAQ
 
 
-- What if students in never ending cohorts don't graduate and stay `active` forever?
+- **What if students in never ending cohorts don't graduate and stay `active` forever?**
 
     The system will keep asuming the student belongs to your academy. It will stay forever inside your github organization. You can always manually deleted the student from the [administration panel](https://admin.4geeks.com/admin/github).
     
-- What if the user is in multiple cohorts but gets deleted from one?
+- **What if the user is in multiple cohorts but gets deleted from one?**
     
     The system will ensure it only gets deleted from the GitHub organization if it loses the status as `active` in all the cohorts.
     
-- What if the user is in multiple academies?
+- **What if the user is in multiple academies?**
     
     If the user is in multiple cohorts in multiple academies, we will only consider those cohorts where the student is still active.
