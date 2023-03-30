@@ -1,4 +1,4 @@
-How to start a coding project
+# How to start a coding project
 
 At 4Geeks we understand that starting a project is one of the hardest things to do. There are many ways to start coding a new project, so many that it is tough to know the best or the "recommended way". 
 
