@@ -46,8 +46,10 @@ You can find very detailed explanations [on this article](https://4geeks.com/how
 - Find your computer terminal or power shell (for windows).
 - Navigate to the folder you want to download the files using the `cd` command.
 - Run the following command that will download the code:
+
 ```sh
 $ git clone https://github.com/4GeeksAcademy/html-hello
-````
-- Once the project has finished downloading, you can open the VSCode editor in that folder, usually by typing `$ code .` on your terminal (notice the dot `.` at the end. If that command does not work, you can still open VSCode, click on "open folder" and find your project folder.
+```
+
+- Once the project has finished downloading, you can open the VSCode editor in that folder, usually by typing `$ code .` on your terminal (notice the dot `.` at the end). If that command does not work, you can still open VSCode, click on "open folder" and find your project folder.
 
