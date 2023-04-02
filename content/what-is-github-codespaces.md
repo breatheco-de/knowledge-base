@@ -15,7 +15,7 @@ One of the most significant issues when learning a new coding-related skill is *
 Following online tutorials is tricky because everyone has a different computer, with different configurations, operating systems, languages, etc.
 
 
-### Focus on learning instead of configurations.
+### Focus on learning instead of configurations
 
 When you open a GitHub repository using Github Codespaces instead of your local computer, you will use a perfectly-configured environment to run your tutorial or project.
 
@@ -64,10 +64,7 @@ Let’s follow the process exactly like a real-life software developer will do. 
 
 To work on your projects you will need access to the terminal, you can always find or open the terminal by clicking on the hamburger menu on the top left and selecting the `”terminal” => “new terminal”` option.
 
-
 ![open terminal on github codespace](https://github.com/breatheco-de/content/blob/master/src/assets/images/terminal.png?raw=true)
-
-
 
 ### What is the terminal or command line?
 
