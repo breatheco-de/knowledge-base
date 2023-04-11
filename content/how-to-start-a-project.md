@@ -14,7 +14,7 @@ Ensure you understand the URL of the repository you need to open.
 
 ## 2) The repository is a template? (only for templates)
 
-Once you know precisely the repository you need to open, navigate to that repository and keep in mind the process will be a little different if the repository is a template. If your repository its not a template, move to `step 3`.
+Once you know precisely the repository you need to open, navigate to that repository, and keep in mind the process will be a little different if the repository is a template. If your repository its not a template, move to `step 3`.
 
 Some repositories are meant to be re-used every time you start a new project, at 4Geeks we have created several templates for HTML/CSS, React, Python, etc. [Here is the full list.](https://github.com/4GeeksAcademy/Templates-Boilerplates). 
 
@@ -22,13 +22,13 @@ You can tell if the repository is a template because it contains a button to `Us
 
 ![](https://raw.githubusercontent.com/breatheco-de/knowledge-base/main/images/template.png)
 
-If the repository is a template you will start by creating a new repository based on the template. Click on the button button that says `Use this template`; a dropdown menu will be dispayed. You have to click the option that says `Create a new repository`: 
+If the repository is a template, you will start by creating a new repository based on the template. Click on the button button that says `Use this template`; a dropdown menu will be dispayed. You have to click the option that says `Create a new repository`: 
 
 ![image](https://user-images.githubusercontent.com/109599459/230989999-aeba16c4-c1c1-460a-b1bb-94631de6ccc4.png)
 
 You'll be redirected to a new view where you'll create your new repository. Click the `Select an owner` button; a dropdown menu will be desplayed. 
 
-> ⚠️ Important: If you are currently part of the 4Geeks Academy coding bootcamp, make sure to select it on this dropdown, otherwise you will not get free hourse of Github Codespaces. 
+> ⚠️ Important: If you are currently part of the 4Geeks Academy coding bootcamp, make sure to select it on this dropdown, otherwise you will not get free hours of Github Codespaces. 
 
 You have to give your repository a name: We strongly recommend prepending your github username followed by the name of the project you'll be working on. For example `githubusername-my-project-name`:
 
@@ -38,11 +38,12 @@ Make sure you select the `public` option, and after that click the `Create repos
 
 ![image](https://user-images.githubusercontent.com/109599459/230991967-9c08afca-1355-41a5-8a12-0464b98d7bbd.png)
 
-You'll be redirected to the repository URL. The first thing you need to do, is to star the repository, so you'll be able to find it easier. You have to click the `Star` button:
+You'll be redirected to the repository URL. The first thing you need to do is to star the repository, so you'll be able to find it easier. You have to click the `Star` button:
 
 ![image](https://user-images.githubusercontent.com/109599459/230993816-8f404028-b109-40d5-a47c-e149ae6c17ae.png)
 
-> Note: You can see your starred repositories by clicking on your profile button (where's your picture or avatar): a dropdown menu will be desplayed, and you have to click the `Your stars`option.
+> Note: You can see your starred repositories by clicking on your profile button (where's your picture or avatar): a dropdown menu will be displayed, and you have to click the `Your stars` option.
+
 ![image](https://user-images.githubusercontent.com/109599459/230994342-567b1526-c1fb-4d05-b108-f6f3ec4d4208.png)
 
 ## 3) Open the repository
@@ -55,7 +56,7 @@ There are 3 ways you can open a repository, please choose only one:
 
 ### If you are using Codespaces (takes 10 seconds)
 
-Currently, this is recommended way to open the repo.
+Currently, this is the recommended way to open the repo.
 
 Then, you'll click the `<> Code` green button, and after that, the `Create codespace on main` button:
 ![image](https://user-images.githubusercontent.com/109599459/230995122-1c00d010-b6d4-4810-852e-1e1524797a34.png)
