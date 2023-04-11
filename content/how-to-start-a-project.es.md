@@ -12,9 +12,9 @@ El paso más crítico es reconocer qué repositorio desea abrir; hay dos opcione
 
 Asegúrate de entender la URL del repositorio que necesitas abrir.
 
-## 2) Abrir el repositorio (solo para plantillas)
+## 2) El repositorio es una plantilla (template)?
 
-Una vez que sepas exactamente el repositorio que necesitas abrir, navega a ese repositorio y ten en cuenta que el proceso será un poco diferente si el repositorio es una plantilla. Si tu repositorio no es una plantilla, ve a `paso 3`.
+Una vez que sepas exactamente el repositorio que necesitas abrir, navega a ese repositorio y ten en cuenta que el proceso será un poco diferente si el repositorio es una plantilla. Si tu repositorio **NO** es una plantilla, salta directo al `paso 3`.
 
 Algunos repositorios están destinados a ser reutilizados cada vez que comiences un nuevo proyecto, en 4Geeks hemos creado varias plantillas para HTML/CSS, React, Python, etc. [Aquí está la lista completa.](https://github.com/4GeeksAcademy/Templates-Boilerplates).
 
