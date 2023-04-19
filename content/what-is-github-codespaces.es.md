@@ -1,6 +1,6 @@
 # Tutorial de Github Codespaces
 
-En esta guía, proporcionaremos una explicación muy directa sobre Github Codespaces y por qué creemos que es una excelente herramienta para aprender habilidades relacionadas con la codificación, por eso es una de las principales [herramientas de enseñanza](https://github.com/breatheco-de/content/blob/master/lesson/4geeks-teaching-tools) que usamos en 4Geeks.
+En esta guía, proporcionaremos una explicación muy directa sobre Github Codespaces y por qué creemos que es una excelente herramienta para aprender habilidades relacionadas con la codificación, por eso es una de las principales [herramientas de enseñanza](https://github.com/breatheco-de/knowledge-base/blob/main/content/4geeks-teaching-tools.md) que usamos en 4Geeks.
 
 ## ¿Qué es GitHub Codespaces?
 
