@@ -26,7 +26,7 @@ When you open a GitHub repository using Github Codespaces instead of your local 
 
 ## What are Codespace's disadvantages?
 
-* Being a cloud-based solution, if you lose your internet connection, you won’t be able to continue working on your project.
+* Being a cloud-based solution, if you lose your Internet connection, you won’t be able to continue working on your project.
 * Additional cost: You have to pay for the remote computers additionally; Instead of working for free on your own local computer.
 
 ## How does Github Codespaces work?
@@ -35,7 +35,7 @@ Are you familiar with GitHub and what a Git Repository is? If you already know w
 
 ### What are GitHub and Git?
 
-**Git**: You can think of GIT like “google docs but for code”. Software developers don’t like to save their progress on their own personal computers. Saving your code in your local hard drive makes it hard to share with your teammates; everyone in your team should have access to the code almost in real-time. Git was created to help share your project code among the team, track changes from everyone and help merge and synch those changes back into every single developer in the team. 
+**Git**: You can think of GIT like “Google Docs but for code”. Software developers don’t like to save their progress on their own personal computers. Saving your code in your local hard drive makes it hard to share with your teammates; everyone in your team should have access to the code almost in real-time. Git was created to help share your project code among the team, track changes from everyone and help merge and sync those changes back into every single developer in the team. 
 
 **Github**: On the other hand, you can think about GitHub as a social network for coders and development teams; instead of sharing images like Instagram or videos like Tiktok you will be sharing code; people can review and comment on your code, and you can invite people to contribute to your code, etc. 
 
