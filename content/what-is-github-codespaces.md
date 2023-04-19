@@ -51,25 +51,25 @@ With codespaces, your code will still be saved on Github (using git), but instea
 
 ## How to open a GitHub Codespace
 
-Let’s follow the process exactly like a real-life software developer will do. For example:
+Let’s follow the process exactly like a real-life software developer would do. For example:
 
-**_Maria_** gets hired as a developer to join an ongoing project; during the first day of work she needs to get access to the code so he asks the project leader for the project URL within github.com.
+**_Maria_** gets hired as a developer to join an ongoing project; during the first day of work she needs to get access to the code, so she asks the project leader for the project URL within github.com.
 
 1. Team leader said that the code is located on the following website: [https://github.com/breatheco-de/exercise-postcard](https://github.com/breatheco-de/exercise-postcard).
-2. Maria opens her browser and navigates to that website; [Here is an explanation on how what you will see once you open the website.](https://github.com/breatheco-de/knowledge-base/blob/main/images/breatheco-de-exercise-postcard-The-ideal-first-project-for-anyone-interested-in-practicing-HTML-CSS-with-a-real-life-example-.png?raw=true)
+2. Maria opens her browser and navigates to that website; [Here is an explanation on what you will see once you open the website](https://github.com/breatheco-de/knowledge-base/blob/main/images/breatheco-de-exercise-postcard-The-ideal-first-project-for-anyone-interested-in-practicing-HTML-CSS-with-a-real-life-example-.png?raw=true).
 3. Maria then looks for the “code” button, and creates the new codespace. 
-4. Once the codespace is opened, Maria will see a the vscode coding editor open with a copy of he project code.
+4. Once the codespace is opened, Maria will see the VS-Code coding editor open with a copy of the project code.
 
 ### The terminal
 
-To work on your projects you will need access to the terminal, you can always find or open the terminal by clicking on the hamburger menu on the top left and selecting the `”terminal” => “new terminal”` option.
+To work on your projects you will need access to the terminal, you can always find or open the terminal by clicking on the hamburger menu on the top left and selecting the `“terminal” => “new terminal”` option.
 
 ![open terminal on github codespace](https://github.com/breatheco-de/content/blob/master/src/assets/images/terminal.png?raw=true)
 
 ### What is the terminal or command line?
 
-Every computer has a terminal, and you use it to do almost everything you want: open an application, create a file, folder, etc. However, in Gitpod, the terminal will only control the virtual computer.
+Every computer has a terminal, and you use it to do almost everything you want: open an application, create a file, folder, etc. However, in Codespaces, the terminal will only control the virtual computer.
 
-You don't have to learn the terminal command's yet, but **[we strongly recommend reading this lesson](https://4geeks.com/en/lesson/the-command-line-the-terminal)** to get familiar and know its functions and limitations.
+You don't have to learn the terminal's commands yet, but **[we strongly recommend reading this lesson](https://4geeks.com/en/lesson/the-command-line-the-terminal)** to get familiar and know its functions and limitations.
 
 ![the terminal](https://github.com/breatheco-de/knowledge-base/blob/main/images/e7094b073128ec4ae46e3fd9568cbb7c85d860ef7bd28375fdd5a06041d22e2c.png?raw=true)
