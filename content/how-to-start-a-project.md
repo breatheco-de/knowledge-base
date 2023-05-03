@@ -7,7 +7,7 @@ After a lot of hard work, we came up with the following alternatives; please rea
 ## 1) What Github repository are you trying to open?
 
 The most critical step is recognizing which repository you want to open; there are two options:
-- Some projects require starting from scratch using one of 4Geeks' templates.
+- Some projects require starting from scratch by using one of 4Geeks' templates.
 - Other projects come with pre-written code; you need to fork and clone the project's main repository before opening it.
 
 Ensure you understand the URL of the repository you need to open.
