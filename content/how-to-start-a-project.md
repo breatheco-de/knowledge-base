@@ -80,7 +80,7 @@ We don't recommend working on your local computer, but here are the instructions
 You can find very detailed explanations [in this article](https://4geeks.com/how-to/github-clone-repository), but here is a summary:
 
 - Make sure you have git installed.
-- Find your computer terminal or power shell (for Windows).
+- Find your computer terminal or PowerShell (for Windows).
 - Navigate to the folder you want to download the files using the `cd` command.
 - Run the following command that will download the code:
 
