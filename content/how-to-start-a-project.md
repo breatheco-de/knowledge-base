@@ -42,7 +42,7 @@ You'll be redirected to the repository URL. The first thing you need to do is to
 
 ![image](https://user-images.githubusercontent.com/109599459/230993816-8f404028-b109-40d5-a47c-e149ae6c17ae.png)
 
-> Note: You can see your starred repositories by clicking on your profile button (where your picture or avatar is): a dropdown menu will be displayed, and you have to click the `Your stars` option.
+> 👉 Note: You can see your starred repositories by clicking on your profile button (where your picture or avatar is): a dropdown menu will be displayed, and you have to click the `Your stars` option.
 
 ![image](https://user-images.githubusercontent.com/109599459/230994342-567b1526-c1fb-4d05-b108-f6f3ec4d4208.png)
 
