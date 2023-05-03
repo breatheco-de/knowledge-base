@@ -61,7 +61,7 @@ Currently, this is the recommended way to open the repo.
 Then, you'll click the `<> Code` green button, and after that, the `Create codespace on main` button:
 ![image](https://user-images.githubusercontent.com/109599459/230995122-1c00d010-b6d4-4810-852e-1e1524797a34.png)
 
-A new tab will be opened with your codespace ready for work! Start coding!
+A new tab will be opened with your Codespace ready for work! Start coding!
 
 > 💻 Note: here are more details about [opening repositories with Codespaces](https://4geeks.com/lesson/how-to-use-github-codespaces).
 
