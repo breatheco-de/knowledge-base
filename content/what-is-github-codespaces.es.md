@@ -1,16 +1,16 @@
 # Tutorial de Github Codespaces
 
-En esta guía, proporcionaremos una explicación muy directa sobre Github Codespaces y por qué creemos que es una excelente herramienta para aprender habilidades relacionadas con la codificación, por eso es una de las principales [herramientas de enseñanza](https://github.com/breatheco-de/knowledge-base/blob/main/content/4geeks-teaching-tools.md) que usamos en 4Geeks.
+En esta guía, proporcionaremos una explicación sobre Github Codespaces y por qué creemos que es una excelente herramienta para aprender habilidades relacionadas con la programación, por eso es una de las principales [herramientas de enseñanza](https://github.com/breatheco-de/knowledge-base/blob/main/content/4geeks-teaching-tools.md) que usamos en 4Geeks.
 
 ## ¿Qué es GitHub Codespaces?
 
 En simples palabras: Github Codespaces es un constructor de computadoras "sobre la marcha". En lugar de usar tu propia computadora o trabajar en tu código localmente; en su lugar, puedes pedirle a Github Codespaces que cree una computadora remota y te dé acceso a ella; puedes usar esa computadora remota para trabajar en tu proyecto o código.
 
-![what is a github codespace](https://github.com/breatheco-de/knowledge-base/blob/main/images/github-codespaces-explanation.png?raw=true)
+![Qué es un codespace github?](https://github.com/breatheco-de/knowledge-base/blob/main/images/github-codespaces-explanation.png?raw=true)
 
 ## ¿Por qué usar GitHub Codespaces?
 
-Uno de los problemas más importantes al aprender una nueva habilidad relacionada con la codificación es **la configuración**. Por ejemplo: cuando comencé a aprender PHP (un lenguaje de codificación) me tomó 1 semana instalarlo correctamente en mi computadora.
+Uno de los problemas más importantes al aprender una nueva habilidad relacionada con la codificación es **la configuración**. Por ejemplo: cuando comencé a aprender PHP (un lenguaje de programación) me tomó 1 semana instalarlo correctamente en mi computadora.
 
 Seguir tutoriales en línea es complicado porque todos tienen una computadora diferente, con diferentes configuraciones, sistemas operativos, lenguajes, etc.
 
@@ -40,13 +40,13 @@ Cuando abres un repositorio de GitHub usando Github Codespaces en lugar de tu co
 
 GitHub es un sitio web que complementa significativamente a Git; Github te proporcionará un sitio web o URL en línea donde puedes cargar tu código (usando Git) e invitar a otras personas a revisarlo.
 
-![github explanation](https://github.com/breatheco-de/knowledge-base/blob/main/images/github-exaplantion.png?raw=true)
+![Explicación de GitHub](https://github.com/breatheco-de/knowledge-base/blob/main/images/github-exaplantion.png?raw=true)
 
 ### Trabaja en un "codespace" en lugar de tu computadora
 
 Con los codespaces, tu código todavía se guardará en Github (usando git), pero en lugar de descargar el código para trabajar en tu computadora, presionas un botón para abrir una computadora remota llamada "Codespace" que contendrá la última versión de su código.
 
-![github codespaces workflow](https://github.com/breatheco-de/knowledge-base/blob/main/images/codespaces.png?raw=true)
+![Flujo de Trabajo con GitHub Codespaces](https://github.com/breatheco-de/knowledge-base/blob/main/images/codespaces.png?raw=true)
 
 ## Cómo abrir un GitHub Codespace
 
@@ -72,36 +72,3 @@ Todas las computadoras tienen una terminal, y la usas para hacer casi todo lo qu
 No tienes que aprender los comandos de la terminal todavía, pero **[recomendamos encarecidamente leer esta lección](https://4geeks.com/es/lesson/the-command-line-the-terminal-es)** para familiarizarse y conocer sus funciones y limitaciones.
 
 ![la terminal](https://github.com/breatheco-de/knowledge-base/blob/main/images/e7094b073128ec4ae46e3fd9568cbb7c85d860ef7bd28375fdd5a06041d22e2c.png?raw=true)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
