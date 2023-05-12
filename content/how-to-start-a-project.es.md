@@ -1,92 +1,103 @@
-# Cómo comenzar un proyecto de programación
+# Cómo empezar un proyecto de programación  
 
-En 4Geeks entendemos que comenzar un proyecto es una de las cosas más difíciles de hacer. Hay muchas formas de comenzar a codificar un nuevo proyecto, tantas que es difícil saber cuál es la mejor o la "forma recomendada".
+En 4Geeks entendemos que empezar un proyecto es una de las cosas más difíciles de hacer.
+Hay muchas maneras diferentes de empezar, tantas que es difícil saber cuál es la mejor o la "forma recomendada".
 
-Después de mucho trabajo duro, llegamos a las siguientes alternativas; lee cuidadosamente y elige la mejor que se adapte a tus necesidades:
+Después de arduo trabajo, llegamos las siguientes alternativas; por favor, lee cuidadosamente y elige la primera que se adecue a tus necesidades:
 
-## 1) ¿Qué repositorio de Github estás tratando de abrir?
+## 1) Qué repositorio de Github estás intentando abrir?
 
-El paso más crítico es reconocer qué repositorio deseas abrir; hay dos opciones:
-- Algunos proyectos requieren comenzar desde cero pero usando una de las plantillas de 4Geeks.
-- Otros proyectos vienen con código prescrito; necesitas hacerle fork y clonar el repositorio principal del proyecto antes de abrirlo.
+El paso más crítico es reconocer cuál repositorio quieres abrir; hay dos opciones:
+
+- Algunos proyectos requieren empezar de cero utilizando una de las plantillas de 4Geeks.
+- Otros proyectos vienen con código ya pre-escrito; necesitarás hacerle fork y clonar el repositorio principal del proyecto antes de abrirlo.
 
 Asegúrate de entender la URL del repositorio que necesitas abrir.
 
-## 2) El repositorio es una plantilla (template)?
+## 2) ¿El repositorio es una plantilla? (solo para plantillas)
 
-Una vez que sepas exactamente el repositorio que necesitas abrir, navega a ese repositorio y ten en cuenta que el proceso será un poco diferente si el repositorio es una plantilla. Si tu repositorio **NO** es una plantilla, salta directo al `paso 3`.
+Una vez que sepas exactamente cuál es el repositorio que necesitas abrir, navega al repositorio, y mantén en cuenta que el proceso será un poco diferente si el repositorio es una plantilla. Si el repositorio no es una plantilla, sigue al paso  `step 3`.
 
-Algunos repositorios están destinados a ser reutilizados cada vez que comiences un nuevo proyecto, en 4Geeks hemos creado varias plantillas para HTML/CSS, React, Python, etc. [Aquí está la lista completa](https://github.com/4GeeksAcademy/Templates-Boilerplates).
+Algunos repositorios están hechos para ser reutilizados cada vez que empiezas un nuevo proyecto. En 4Geeks hemos creado múltiples plantillas para HTML/CSS, React, Python, etc. [Aquí está la lista completa](https://github.com/4GeeksAcademy/Templates-Boilerplates).
 
-Puedes saber si el repositorio es una plantilla porque contiene un botón de `Use this template`.
+Puedes saber si el repositorio es una plantilla porque contiene un botón que dice `Use this template`.
 
-![](https://raw.githubusercontent.com/breatheco-de/knowledge-base/main/images/template.png)
+![Usar esta plantilla](https://raw.githubusercontent.com/breatheco-de/knowledge-base/main/images/template.png)
 
-Si el repositorio es una plantilla, comenzarás creando un nuevo repositorio basado en la plantilla. Haz clic en el botón que dice `Use this template`; se mostrará un menú desplegable. Debes hacer clic en la opción que dice `Create a new repository`:
+Si el repositorio es una plantilla, vas a empezar creando un nuevo repositorio basado en la plantilla. Haz clic al botón que dice `Use this template` (usar esta plantilla); se mostrará un menú desplegable. Debes que hacer clic en la opción que dice `Create a new repository` (crear un nuevo repositorio):
 
-![image](https://user-images.githubusercontent.com/109599459/230989999-aeba16c4-c1c1-460a-b1bb-94631de6ccc4.png)
+![Usar esta plantilla](https://user-images.githubusercontent.com/109599459/230989999-aeba16c4-c1c1-460a-b1bb-94631de6ccc4.png)
 
-Serás redirigido a una nueva vista donde crearás tu nuevo repositorio. Haz clic en el botón `Select an owner`; se mostrará un menú desplegable.
+Serás redirigido a una nueva vista donde vas a crear tu nuevo repositorio. Haz clic en el botón que dice `Select an owner`; se mostrará un menú desplegable.
 
-> ⚠️ Importante: Si actualmente eres parte del bootcamp de programación de 4Geeks Academy, asegúrate de seleccionarlo en este menú desplegable, de lo contrario no obtendrás horas gratuitas de Github Codespaces.
+> ⚠️ Importante: Si eres actualmente parte de coding bootcamp de 4Geeks Academy, asegúrate de seleccionarlo en este menú desplegable, de lo contrario no obtendrás horas gratuitas de Github Codespaces.
 
-Debes darle a tu repositorio un nombre: recomendamos encarecidamente que antepongas tu nombre de usuario de Github seguido del nombre del proyecto en el que estarás trabajando. Por ejemplo `githubusername-my-project-name`:
+Le tienes que dar a tu repositorio un nombre: Nosotros recomendamos anteponer tu nombre de usuario de Github seguido por el nombre del proyecto en el que vas a estar trabajando. Por ejemplo, `githubusername-my-project-name`:
 
-![image](https://user-images.githubusercontent.com/109599459/230991453-38566874-f844-4027-9e7d-3662c7548c66.png)
+![Nombre del repositorio](https://user-images.githubusercontent.com/109599459/230991453-38566874-f844-4027-9e7d-3662c7548c66.png)
 
-Asegúrate de seleccionar la opción `public` y luego haz clic en el botón que dice `Create repository from template`:
 
-![image](https://user-images.githubusercontent.com/109599459/230991967-9c08afca-1355-41a5-8a12-0464b98d7bbd.png)
+Asegúrate de seleccionar la opción `public`, y luego de eso haz clic en el botón `Create repository from template` (crear repositorio de la plantilla)
 
-Serás redirigido a la URL del repositorio. Lo primero que necesitas hacer es marcar el repositorio como favorito para poder encontrarlo más fácilmente. Para ello, haz clic en el botón `Star`:
+![Crear repositorio de la plantilla](https://user-images.githubusercontent.com/109599459/230991967-9c08afca-1355-41a5-8a12-0464b98d7bbd.png)
 
-![image](https://user-images.githubusercontent.com/109599459/230993816-8f404028-b109-40d5-a47c-e149ae6c17ae.png)
+Serás redirigido a la URL del repositorio. La primera cosa que necesitas hacer es destacar el repositorio, de esta marera lo podrás encontrar más fácil. Tienes que darle clic al botón que dice `star` (destacar):
 
-> 👉 Nota: Puedes ver tus repositorios marcados haciendo clic en el botón de tu perfil (donde está tu foto o avatar): se desplegará un menú desplegable y tendrás que hacer clic en la opción `Your stars`.
+![Destacar](https://user-images.githubusercontent.com/109599459/230993816-8f404028-b109-40d5-a47c-e149ae6c17ae.png)
 
-![image](https://user-images.githubusercontent.com/109599459/230994342-567b1526-c1fb-4d05-b108-f6f3ec4d4208.png)
+> 👉 Nota: Puedes ver tus repositorios destacados haciendo clic en el botón de tu perfil (donde está tu foto o tu avatar); se mostrará un menú desplegable, y tienes que darle clic la opción `Your stars`
 
-## 3) Abrir el repositorio
+![Tus destacados](https://user-images.githubusercontent.com/109599459/230994342-567b1526-c1fb-4d05-b108-f6f3ec4d4208.png)
 
-Hay 3 formas de abrir un repositorio, por favor elige solo una:
+## 3) Abre el repositorio
+
+Hay 3 maneras de las que puedes abrir un repositorio, por favor elige una:
 
 - Usando una computadora en la nube en Codespaces (recomendado).
 - Usando una computadora en la nube en Gitpod.
-- Trabajando en tu máquina local.
+- Trabajando en tu computador local.
 
 ### Si estás usando Codespaces (toma 10 segundos)
 
-Actualmente, esta es la forma recomendada de abrir el repositorio.
+Actualmente, esta es la manera recomendada para abrir el repo.
 
-Después, haz clic en el botón verde `<> Code` y luego en el botón que dice `Create codespace on main`:
-![image](https://user-images.githubusercontent.com/109599459/230995122-1c00d010-b6d4-4810-852e-1e1524797a34.png)
+Vas a darle clic al botón verde que dice `<> Code`, y luego de ese, al botón que dice `Create codespace on main` (Crear codespace en Main):
 
-¡Se abrirá una nueva pestaña con tu *Codespace* listo para trabajar! ¡Comienza a programar!
+![Crear codespace en Main](https://user-images.githubusercontent.com/109599459/230995122-1c00d010-b6d4-4810-852e-1e1524797a34.png)
 
-> 💻 Nota: aquí hay más detalles sobre [cómo abrir repositorios con Codespaces](https://4geeks.com/es/lesson/como-usar-los-codespaces-de-github).
+¡Una nueva ventana será abierta con tu Codespace listo para trabajar!¡Empieza a programar!
 
-### Si estás usando Gitpod (para usuarios antiguos)
+> 💻 Nota: aquí hay mas detalles sobre [cómo abrir repositorios con codespaces](https://4geeks.com/es/lesson/como-usar-los-codespaces-de-github).
 
-Por favor descarga la extensión de Gitpod [para Chrome](https://chrome.google.com/webstore/detail/gitpod-always-ready-to-co/dodmmooeoklaejobgleioelladacbeki) o [para Firefox](https://addons.mozilla.org/en-US/firefox/addon/gitpod/).
+### Si estás usando Gitpod (Para usuarios heredados)
 
-Una vez que navegues a la página del repositorio, encontrarás un botón verde que dice `Gitpod`, aquí hay [una captura de pantalla que muestra cómo debe mostrarse el botón en el repositorio](https://storage.googleapis.com/breathecode-asset-images/15d7c805161244a5a38d7bbf82fb8d355073ad7ac195088a453fba5777c3ef99.png). Presiona el botón y el proyecto se abrirá inmediatamente.
+Por favor, descarga la extensión de Github [para Chrome](https://chrome.google.com/webstore/detail/gitpod-always-ready-to-co/dodmmooeoklaejobgleioelladacbeki) o [para Firefox](https://addons.mozilla.org/en-US/firefox/addon/gitpod/).
 
-> 🍊 Nota: aquí hay más detalles sobre [cómo abrir repositorios con Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod).
+Una vez que navegues a la página del repositorio, vas a encontrar un botón verde que dice `Gitpod`. Aquí hay una captura de pantalla que enseña [cómo debe mostrarse el botón en el repositorio](https://storage.googleapis.com/breathecode-asset-images/15d7c805161244a5a38d7bbf82fb8d355073ad7ac195088a453fba5777c3ef99.png). Presiona el botón y el proyecto empezará a abrirse inmediatamente.
 
-### Si está trabajando localmente en su computadora
+> 🍊 Nota: aquí hay mas detalles sobre [abrir repositorios con Gitpod](https://4geeks.com/lesson/how-to-use-gitpod).
 
-No recomendamos trabajar en su computadora local, pero aquí están las instrucciones si insistes.
+### Si estás trabajando localmente en tu computadora
 
-Puedes encontrar explicaciones muy detalladas [en este artículo](https://4geeks.com/es/how-to/Como-clonar-un-repositorio-de-github), pero aquí hay un resumen:
+No recomendamos trabajar localmente en tu computadora, pero aquí están las instrucciones por si insistes.
 
-- Asegúrate de tener git instalado.
-- Encuentra tu terminal o PowerShell (para Windows).
-- Navega hasta la carpeta donde quieres descargar los archivos usando el comando `cd`.
-- Ejecuta el siguiente comando que descargará el código:
+Puedes encontrar explicaciones detalladas [en este artículo](https://4geeks.com/es/how-to/como-clonar-un-repositorio-de-github), pero aquí está el resumen:
+
+- Asegúrate de que tienes git instalado.
+- Encuentra tu terminal de computadora o PowerShell (para Windows).
+- Navega a la carpeta en la que quieres descargar los archivos usando el comando `cd`.
+- Corre el siguiente comando que va a descargar el código.
 
 ```sh
 $ git clone https://github.com/4GeeksAcademy/html-hello
 ```
 
-- Una vez que el proyecto haya terminado de descargarse, puedes abrir el editor de VSCode en esa carpeta, generalmente escribiendo `$ code .` en tu terminal (notese el punto `.` al final). Si ese comando no funciona, todavía puedes abrir VSCode, hacer clic en "abrir carpeta" y encontrar tu carpeta de proyecto.
+- Una vez que el proyecto haya terminado de descargarse, puedes abrir el editor VScode en esa carpeta, usualmente escribiendo `$ code .` en tú terminal (nota el punto al final `.`). Si ese comando no funciona, todavía puedes abrir VSCode, haz clic en "open folder" y busca la carpeta de tu proyecto.
+
+
+
+
+
+
+
 
