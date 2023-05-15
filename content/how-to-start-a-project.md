@@ -1,13 +1,13 @@
 # How to start a coding project
 
-At 4Geeks we understand that starting a project is one of the hardest things to do. There are many ways to start coding a new project, so many that it is tough to know the best or the "recommended way". 
+At 4Geeks we understand that starting a project is one of the hardest things to do. There are many ways to start coding a new project, so many that it is tough to know the best or the "recommended way".
 
 After a lot of hard work, we came up with the following alternatives; please read carefully and choose the best that fits your needs:
 
 ## 1) What Github repository are you trying to open?
 
 The most critical step is recognizing which repository you want to open; there are two options:
-- Some projects require starting from scratch by using one of 4Geeks' templates.
+- Some projects require starting from scratch using one of 4Geeks' templates.
 - Other projects come with pre-written code; you need to fork and clone the project's main repository before opening it.
 
 Ensure you understand the URL of the repository you need to open.
@@ -16,19 +16,19 @@ Ensure you understand the URL of the repository you need to open.
 
 Once you know precisely the repository you need to open, navigate to that repository, and keep in mind the process will be a little different if the repository is a template. If your repository is not a template, move to `step 3`.
 
-Some repositories are meant to be re-used every time you start a new project, at 4Geeks we have created several templates for HTML/CSS, React, Python, etc. [Here is the full list](https://github.com/4GeeksAcademy/Templates-Boilerplates). 
+Some repositories are meant to be re-used every time you start a new project, at 4Geeks we have created several templates for HTML/CSS, React, Python, etc. [Here is the full list](https://github.com/4GeeksAcademy/Templates-Boilerplates).
 
-You can tell if the repository is a template because it contains a button to `Use this template`.
+You can tell if the repository is a template because it contains a `Use this template` button.
 
 ![](https://raw.githubusercontent.com/breatheco-de/knowledge-base/main/images/template.png)
 
-If the repository is a template, you will start by creating a new repository based on the template. Click on the button that says `Use this template`; a dropdown menu will be displayed. You have to click the option that says `Create a new repository`: 
+If the repository is a template, you will start by creating a new repository based on the template. Click on the button that says `Use this template`; a dropdown menu will be displayed. You have to click the option that says `Create a new repository:
 
 ![image](https://user-images.githubusercontent.com/109599459/230989999-aeba16c4-c1c1-460a-b1bb-94631de6ccc4.png)
 
-You'll be redirected to a new view where you'll create your new repository. Click the `Select an owner` button; a dropdown menu will be displayed. 
+You'll be redirected to a new view where you'll create your new repository. Click the `Select an owner` button; a dropdown menu will be displayed.
 
-> ⚠️ Important: If you are currently part of the 4Geeks Academy coding bootcamp, make sure to select it on this dropdown, otherwise you will not get free hours of Github Codespaces. 
+> ⚠️ Important: If you are currently part of the 4Geeks Academy coding bootcamp, make sure to select it on this dropdown, otherwise you will not get free hours of Github Codespaces.
 
 You have to give your repository a name: We strongly recommend prepending your Github username followed by the name of the project you'll be working on. For example `githubusername-my-project-name`:
 
@@ -75,7 +75,7 @@ Once you navigate to the repository page, you will find a green button that says
 
 ### If you are working locally on your computer
 
-We don't recommend working on your local computer, but here are the instructions if you insist. 
+We don't recommend working on your local computer, but here are the instructions if you insist.
 
 You can find very detailed explanations [in this article](https://4geeks.com/how-to/github-clone-repository), but here is a summary:
 
@@ -89,4 +89,9 @@ $ git clone https://github.com/4GeeksAcademy/html-hello
 ```
 
 - Once the project has finished downloading, you can open the VSCode editor in that folder, usually by typing `$ code .` on your terminal (notice the dot `.` at the end). If that command does not work, you can still open VSCode, click on "open folder" and find your project folder.
+
+
+
+
+
 
