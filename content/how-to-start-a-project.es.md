@@ -1,7 +1,6 @@
 # Cómo empezar un proyecto de programación  
 
-En 4Geeks entendemos que empezar un proyecto es una de las cosas más difíciles de hacer.
-Hay muchas maneras diferentes de empezar, tantas que es difícil saber cuál es la mejor o la "forma recomendada".
+En 4Geeks entendemos que empezar un proyecto es una de las cosas más difíciles de hacer. Hay muchas maneras diferentes de empezar, tantas que es difícil saber cuál es la mejor o la "forma recomendada".
 
 Después de arduo trabajo, llegamos las siguientes alternativas; por favor, lee cuidadosamente y elige la primera que se adecue a tus necesidades:
 
@@ -93,11 +92,3 @@ $ git clone https://github.com/4GeeksAcademy/html-hello
 ```
 
 - Una vez que el proyecto haya terminado de descargarse, puedes abrir el editor VScode en esa carpeta, usualmente escribiendo `$ code .` en tú terminal (nota el punto al final `.`). Si ese comando no funciona, todavía puedes abrir VSCode, haz clic en "open folder" y busca la carpeta de tu proyecto.
-
-
-
-
-
-
-
-
