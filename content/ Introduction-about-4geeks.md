@@ -8,7 +8,7 @@ Our courses are designed to give you an exciting and immersive learning adventur
 
 ## What will you be facing?
 
-During this tour you will be facing different challenges to make this a little more interesting...😉 You will have to go through quizzes, interactive exercises, practices, and projects! But don't worry, you won't be alone at any time.
+During this journey you will be facing different challenges to make this a little more interesting...😉 You will have to go through quizzes, interactive exercises, practices, and projects! But don't worry, you won't be alone at any time.
 
 You will have different tools that will help you along the way, such as:
 
