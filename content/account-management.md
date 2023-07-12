@@ -26,9 +26,9 @@ To ensure the privacy and security of your account on 4Geeks.com, here are some 
 - Include a combination of uppercase and lowercase letters, numbers, and special characters to you password.
 - As an optional step, you can change regurarly your password to minimize the risk of unauthorized access.
 
-Finally, familiarize yourself with our [Terms and conditions](https://4geeks.com/terms-and-conditions). There you can find out how we handle your personal information how we are committed to guaranteeing the safety of each user. 
+Finally, familiarize yourself with our [Terms and conditions](https://4geeks.com/terms-and-conditions). There you can find out how we handle your personal information and how we guarantee the safety of each user. 
 
 ## Support and Assistance:
 
-If you have any questions or account-related issues, please do not hesitate to contact us at our [Slack Channel](https://4geeksacademy.slack.com/) or via E-mail to tgonzalez@4geeksacademy.com
+If you have any questions or account-related issues, please do not hesitate to contact us at our [Slack Channel](https://4geeksacademy.slack.com/) or via E-mail to tgonzalez@4geeksacademy.com.
 
