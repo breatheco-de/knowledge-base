@@ -16,3 +16,5 @@ You will have different tools that will help you along the way, such as:
 - Asynchronous content (to include recorded sessions) delivered via the BreatheCode course portal.
 - Interactive Handouts/Attachments, tutorials, and videos.
 - Plenty of articles on the 4Geeks blog that clarify common doubts of students while programming.
+
+In conclusion, choosing one of our programs is a great decision for your coding journey. With a friendly and supportive learning environment, you'll have the opportunity to develop your coding skills and expand your horizons in the tech world. The hands-on approach, practical projects, and access to a cool community will empower you to learn, grow, and succeed. Whether you're a beginner looking to kickstart your career or an experienced coder seeking to level up, we offer the resources and guidance you need.
