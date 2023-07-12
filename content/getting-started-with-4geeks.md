@@ -6,7 +6,7 @@ If you're interested in learning programming and developing tech skills, 4Geeks 
 
 ### 1. Signing up for 4Geeks:
 
-The first step to getting started with 4Geeks is to sign up. Visit our official website [4geeks.com](https://4geeks.com) and look for the registration option. Provide the required information and create an account.
+The first step to getting started with 4Geeks is to sign up. Visit our official website [4geeks.com](https://4geeks.com/login?tab=register) and look for the registration option. Provide the required information and create an account.
 
 > *Remember to keep your login credentials in a secure place.*
 
