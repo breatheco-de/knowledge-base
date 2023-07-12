@@ -10,7 +10,7 @@ Once signed in, in the upper right part of the screen you will find your profile
 
 ![profile](../images/my.profile.png)
 
-Also once you enter the settings of your profile, you will see on the left a menu where you can see the certificates you have obtained and your subscriptions.
+Additionally once you enter the settings of your profile, you will see on the left a menu where you can see the certificates you have obtained and your subscriptions.
 
 ## Dashboard Overview:
 
@@ -23,8 +23,8 @@ Familiarize yourself with the dashboard! The dashboard is your control center. I
 To ensure the privacy and security of your account on 4Geeks.com, here are some tips you can take:
 - Create a strong, unique password for your account. 
 - Avoid using common passwords or personal information that can be easily guessed. 
-- Include a combination of uppercase and lowercase letters, numbers, and special characters to you password.
-- As an optional step, you can change regurarly your password to minimize the risk of unauthorized access.
+- Include a combination of uppercase and lowercase letters, numbers, and special characters in your password.
+- As an optional step, you can change your password regularly to minimize the risk of unauthorized access.
 
 Finally, familiarize yourself with our [Terms and conditions](https://4geeks.com/terms-and-conditions). There you can find out how we handle your personal information and how we guarantee the safety of each user. 
 
