@@ -31,6 +31,6 @@ You will have access to:
 
 ## 🌱 Code Will Set You Free
 
-At 4Geeks, we truly believe that "code will set you free." Learning to code opens up a world of endless possibilities and opportunities. It empowers you to create, innovate, and solve problems in ways you never thought possible. With the power of code, you can shape your future, unleash your creativity, and pursue a fulfilling career in the ever-evolving tech industry. So, join us on this exciting journey, and let's unlock the freedom that coding brings together. Get ready to unleash your potential and discover a whole new world of possibilities with us!
+At 4Geeks, we truly believe that "code will set you free." Learning to code opens up a world of endless possibilities and opportunities. It empowers you to create, innovate, and solve problems in ways you never thought possible. With the power of code, you can shape your future, unleash your creativity, and pursue a fulfilling career in the ever-evolving tech industry. So, join us on this exciting journey, and let's unlock the freedom that coding brings together!
 
 
