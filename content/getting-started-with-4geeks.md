@@ -20,7 +20,7 @@ The first step to getting started with 4Geeks is to sign up. Visit our official 
 
 ### 2. Exploring the Learning Library:
 
-Once you have created your account, you'll gain access to the Learning Library. This section is like a collection of knowledge waiting to be explored! It's your go-to place for a wide range of learning resources that cover various topics and technologies. Whether you're looking for tutorials, articles, excercises, or even coding challenges, we've got you covered. You can dive into the materials at your own pace, pick up new skills, and expand your understanding of programming concepts. So, grab a cup of coffee, settle into your favorite learning spot, and let your curiosity guide you.
+Once you have created your account, you'll gain access to the Learning Library. This section is like a collection of knowledge waiting to be explored! It's your go-to place for a wide range of learning resources that cover various topics and technologies. Whether you're looking for tutorials, articles, exercises, or even coding challenges, we've got you covered. You can dive into the materials at your own pace, pick up new skills, and expand your understanding of programming concepts. So, grab a cup of coffee, settle into your favorite learning spot, and let your curiosity guide you.
 
 ![explore4geeks](../images/explore4geeks.png)
 
@@ -28,7 +28,7 @@ Once you have created your account, you'll gain access to the Learning Library. 
 
 At [4Geeks](https://4geeks.com/about-us#4geekscom-platform) we understand that everyone has an agenda and a learning style, so it is important take the time 🕓 to explore the available options and choose a learning path that aligns with your interests and goals. 
 
-That's why we offer different learning paths to suit your needs. For example, if your are looking for more flexibility, our **Open Learning** option is the best for you! It provides a flexible and self-paced journey with small courses in various technologies. You can join courses for free, access live workshops, and receive 1-on-1 mentorship as needed. Learn anywhere, anytime with your chosen methodology.
+That's why we offer different learning paths to suit your needs. For example, if you are looking for more flexibility, our **Open Learning** option is the best for you! It provides a flexible and self-paced journey with small courses in various technologies. You can join courses for free, access live workshops, and receive 1-on-1 mentorship as needed. Learn anywhere, anytime with your chosen methodology.
 
 On the other hand, if you're seeking a career-focused experience, our [Bootcamps](https://4geeksacademy.com/us/programs) are perfect for a fast-paced career change. Dive into courses like:
 - [Full Stack Web Development](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer).
@@ -44,7 +44,7 @@ Be part of our big community with over 15,000 members who come together on 4Geek
 
 As a premium member, you'll also gain access to our exclusive [Slack channel](https://4geeksacademy.slack.com/), where you can receive 12-hour chat support and interact with experts who are ready to answer your questions. 
 
-> 👀 Exciting news is on the horizon! Soon we're opening offices around the world, providing even more opportunities for in-person workshops, coding weekends, and engaging activities!
+> 👀 Exciting news is coming! Soon we're opening offices around the world, providing even more opportunities for in-person workshops, coding weekends, and engaging activities!
 
 ## Are You Ready? 😎 
 
