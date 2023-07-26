@@ -14,7 +14,7 @@ So, let's show you what you will find along this journey 😎
 ## Basic structure
 
 
-The first thing that you need to know is that our courses are divided into modules, making it super easy for you to navigate through the material. Once you're all set and click the "start course" button, you'll be away to the next screen:
+The first thing that you need to know is that our courses are divided into modules, making it super easy for you to navigate through the material. Once you're all set and click the "start course" button, you'll be taken to the next screen:
 
 
 ![Course Structure](../images/course.structure.png)
