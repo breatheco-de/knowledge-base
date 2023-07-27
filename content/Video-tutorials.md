@@ -16,10 +16,12 @@ Imagine you're trying out one of our interactive exercises. Sometimes, you might
 
 ![video exercises](../images/video.exercises.png)
 
-> Here is the link of the video if you want to watch it and see how is it like: https://www.youtube.com/watch?v=gMe0ZOHaYQw
-
 Another place where you can find these types of videos is in our lessons! They are intended to help you form better bases on a specific topic.
 
 ![video lessons](../images/video.lessons.png)
+
+### When To Use These Videos
+
+For example, when it comes to interactive exercises, we've got a tip for you! We suggest keeping these videos as a backup plan, like a secret weapon. 😉 First, give Google a shot and do some research to see if you can figure things out on your own. If you still find yourself stuck, that's when you can turn to the videos for help. This way, you'll get the most benefit out of them and ensure they add to your learning journey instead of taking away from it.
 
 Whether you're stuck on something, unsure how to proceed, or simply want a complete explanation on a specific topic, our videos are here for you! They're super handy and readily available whenever you need them, especially during practical exercises or projects. So, never hesitate to dive into our collection of helpful videos to level up your skills and conquer any challenge that comes your way.

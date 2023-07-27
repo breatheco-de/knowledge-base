@@ -6,12 +6,12 @@ At 4Geeks, we're all about making learning a fun and fulfilling experience! We b
 
 ## 🥇 Certifications and Courses
 
-Hey! We totally get it, life can get pretty busy sometimes, right? That's why we've designed two types of experiences: **Open Learning** and **premium Bootcamps**.
-Let's break it down and explore the benefits of each option, so you can choose the best fit for your goals and needs. Whether you prefer a flexible and self-paced learning journey or a more immersive and structured experience, we have something for you.
+Hey! We totally get it, life can get pretty busy sometimes, right? That's why we've designed two types of experiences: **Open Learning** and **Immersive Bootcamps**.
+Let's break it down and explore the benefits of each option, so you can choose the best fit for your goals and needs. Whether you prefer a flexible and self-paced learning journey or a more premiun and structured experience, we have something for you.
 
 ### 1) Open Learning:
 
-This experience is perfect for those who do not have much time on their agenda but still want to have complete learning about a specific topic. These are small courses that last between 1 and 2 weeks. You will be able to join any of them for free in different technologies like Java, Python, Node, etc.
+This experience is perfect for those who do not have much time on their agenda but still want to have complete learning about a specific topic. You will be able to join any of them for free in different technologies like Javascript, Python, ChatGPT, etc.
 
 We have listed some benefits that this type of experience has to offer:
  
@@ -19,11 +19,11 @@ We have listed some benefits that this type of experience has to offer:
 - **Variety of Courses**: Explore diverse topics and choose the courses that align with your interests and career goals.
 - **Self-Paced Learning**: Freedom to progress at your own speed, ensuring that you thoroughly grasp the concepts before moving on to the next topic.
 - **Workshops**: Access to live workshops from industry experts every week (included with subscription)
-- **1-1 Mentorship**: Personalized support that provides you guidance and feedback tailored to your needs.
+- **1-1 Mentorship**: A truly game-changer! Picture this, you get to meet with experienced tech industry experts who will guide you through those tough concepts, assist you when you're feeling stuck, and help you level up your skills. These [sessions](https://4geeks.com/mentorships) are with real everyday developers who know their stuff and can answer all your burning questions. The best part? You have the flexibility to choose a time that suits your schedule perfectly.
 
-### 2) Bootcamps:
+### 2) Immersive Bootcamps:
 
-Bootcamps are focused on those seeking a premium experience and fast-paced career change! These comprehensive programs typically last 16 weeks, and they are designed to equip you with top-notch skills. This experience includes everything offered in **open learning**, but with an added advantage: *no limitations*. Choose from specialized tracks like: [Full Stack Web Development](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), [Software Engineering](https://4geeksacademy.com/us/coding-bootcamps/software-engineer-bootcamp), [Data Science Engineering](https://4geeksacademy.com/us/coding-bootcamps/data-science-engineer) and [Machine Learning and AI Engineering](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering).
+Bootcamps are focused on those seeking a premium experience and fast-paced career change! These comprehensive programs typically last 18 weeks, and they are designed to equip you with top-notch skills. This experience includes everything offered in **open learning**, but with an added advantage: *no limitations*. Choose from specialized tracks like: [Full Stack Web Development](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science and ML](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
 
 But what do we really mean when we say that this premium experience has no limitations? Well, this package has:
 
@@ -31,6 +31,8 @@ But what do we really mean when we say that this premium experience has no limit
 - **Networking Opportunities**: Connect and collaborate with like-minded individuals and industry professionals.
 - **Practical Projects**: Gain experience with real-world projects that helps build your portfolio and prepares you for the challenges of the job market.
 - **Specialized Tracks**: Specialized tracks in high-demand fields that will help you develop expertise in specific areas.
+- **Job Guarantee Program**: With this program, we've got your back in landing a job related to your studies! Wondering how we do it? Simple. We'll equip you with all the essential skills for workplace success. You'll learn from experts, master the art of interviews, and create a top-notch portfolio and resume, plus loads of tips to make you shine. Together, we'll make sure you stand out and nail that dream job.
+- **Lifelong Unlimited Mentorships**: Designed to support your journey in the tech world. Our commitment to your success goes beyond the bootcamp duration. With our unique program, you'll have access to experienced mentors who will guide and assist you at any stage of your career!
 
 So... Whether you prefer the flexibility of **open learning** or the immersive experience of **bootcamps**, at 4Geeks we will provide you with excellent opportunities to enhance your knowledge and skills in the ever-evolving world of technology and programming.
 
@@ -52,7 +54,7 @@ We want to equip you with the necessary tools and insights so that you can confi
 
 ### 🏋️ Exercises:
 
-Exercises help you truly understand concepts, build confidence, and develop problem-solving abilities. By getting hands-on with coding challenges, you reinforce what you've learned, tackle real-world problems, and build your coding muscle! Plus, it's loads of fun and makes you a better programmer in the long run.
+Exercises help you truly understand concepts, build confidence, and develop problem-solving abilities. By getting hands-on with coding challenges, you reinforce what you've learned, tackle real-world problems, and build your coding muscle! Plus, it's load of fun and makes you a better programmer in the long run.
 
 ![exercises](../images/exercises.png)
 
@@ -68,7 +70,7 @@ In this section, we've got you covered with answers to the most common questions
 
 ![how to's](../images/how.to's.png)
 
-### 🕊️ Let Coding Set You Free 
+### 🕊️ Code will Set You Free!
 
 There you have it! We hope this gives you a glimpse of all the exciting opportunities that await you. We're here to help you unlock the potential that lies within you. Get ready to learn, grow, and achieve great things. We can't wait to see what you'll accomplish! 
 
