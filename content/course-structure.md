@@ -13,7 +13,7 @@ The first thing that you need to know is that our courses are divided into modul
 
 ![Course Structure](../images/course.structure.png)
 
-Up at the top of your screen, you'll find some really helpful information. It'll show you the percentage of progress you've made in the program, how many tasks you've already completed, and how many more exciting tasks you have ahead. It's like your personal progress tracker!
+Up at the top of your screen will be shown the percentage of progress you've made in the program, how many tasks you've already completed, and how many more exciting tasks you have ahead. It's like your personal progress tracker!
 
 ### Our Modules
 
@@ -25,23 +25,23 @@ Here is an example of a module from one of our bootcamps:
 
 ### 🤔 What do our modules contain?
 
-When you start each module, the first thing you will find are the 📖 ***Reading Lessons***. These will provide detailed explanations about specific topics before you start putting them into practice. You can see them as the columns of a building, forming a solid foundation for your learning journey.
+When you start each module, the first thing you will find are the 📖 **Reading Lessons**. These will provide detailed explanations about specific topics before you start putting them into practice. You can see them as the columns of a building, forming a solid foundation for your learning journey.
 
 These lessons are carefully curated to provide you with additional insights, real-life examples, and different perspectives on the subject. Reading them carefully is crucial because they give you the knowledge you need to succeed. So, take your time, grab a cup of coffee, and get ready to absorb the information!
 
 ![Lessons](../images/lessons.course.png)
 
-So, once you have understood a subject (theoretically), you are ready to put your knowledge into practice through the 💻 *** Interactive Exercises***. They are like short challenges that will increase in difficulty so that in the end you can master the whole subject. These have an automatic evaluation mode along the way that tells you if you are doing it right or if there is a mistake in your code. They also have video tutorials in case you get stuck at some point, so don't worry! Although, we recommend that you try to solve it first on your own, to develop critical thinking.
+So, once you have understood a subject (theoretically), you are ready to put your knowledge into practice through the 💻 **Interactive Exercises**. They are like short challenges that will increase in difficulty so that in the end you can master the whole subject. These have an automatic evaluation mode along the way that tells you if you are doing it right or if there is a mistake in your code. They also have video tutorials in case you get stuck at some point, so don't worry! Although, we recommend that you try to solve it first on your own, to develop critical thinking.
 
 ![Exercises Course](../images/exercises.course.png)
 
-Also, in some modules, there will be 🌱 ***Projects***. Think of them as big challenges rather than short tasks. They come with complete instructions, from opening the project repository to step-by-step details on what needs to be done. It's like having a roadmap to complete them successfully!
+Also, in some modules, there will be 🌱 **Projects**. Think of them as big challenges rather than short tasks. They come with complete instructions, from opening the project repository to step-by-step details on what needs to be done. It's like having a roadmap to complete them successfully!
 
 These projects will provide you an opportunity to put your newly acquired skills into practice and work on practical scenarios. You get to collaborate with classmates, solve coding challenges, and build impressive portfolio-worthy projects. It's an exciting way to learn by doing and gaining experience that will help you in the future.
 
 ![Projects Course](../images/projects.course.png)
 
-Finally, during your course, you will find some ⌛ ***Quizzes*** lined up to test how much attention you've been paying so far. These quizzes are a series of multiple-choice questions, and they're super quick and enjoyable. No excuses, they won't take up much of your time! While they're not mandatory, we highly recommend giving them a shot. It's a great way to exercise your mind and see just how much you've learned along the way.
+Finally, during your course, you will find some ⌛ **Quizzes** lined up to test how much attention you've been paying so far. These quizzes are a series of multiple-choice questions, and they're super quick and enjoyable. No excuses, they won't take up much of your time! While they're not mandatory, we highly recommend giving them a shot. It's a great way to exercise your mind and see just how much you've learned along the way.
 
-...And there you have it! All the tools that will help you in this process! We invite you to explore all this and experience how far you will go as a programmer.
+...And there you have it! All the tools that will help you in this process! We invite you to explore all of them and experience how far you will go as a programmer.
 
