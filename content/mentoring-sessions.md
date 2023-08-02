@@ -14,7 +14,7 @@ That's why we've made sure you can have these mentoring sessions whenever it sui
 
 ![Mentoring Sessions](../images/mentoring.sessions.png)
 
-2. When you click on the blue button that says **Schedule mentoring session**, you'll see two options on the screen. Just click on the one that says **GeekPal 1-1 Coding Mentorship**.
+2. When you click on the blue button that says **Schedule mentoring session**, you'll see different options on the screen. Just click on the one that says **GeekPal 1-1 Coding Mentorship**.
 
 ![Coding Mentorship](../images/coding.mentorship.png)
 
