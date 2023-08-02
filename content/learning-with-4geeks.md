@@ -23,7 +23,7 @@ We have listed some benefits that this type of experience has to offer:
 
 ### 2) Immersive Bootcamps:
 
-Bootcamps are focused on those seeking a immersive experience and fast-paced career change! These comprehensive programs typically last 18 weeks, and they are designed to equip you with top-notch skills. This experience includes everything offered in **open learning**, but with an added advantage: *no limitations*. Choose from specialized tracks like: [Full Stack Web Development](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science and ML](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
+Bootcamps are focused on those seeking an immersive experience and fast-paced career change! These comprehensive programs typically last 18 weeks, and they are designed to equip you with top-notch skills. This experience includes everything offered in **open learning**, but with an added advantage: *no limitations*. Choose from specialized tracks like: [Full Stack Web Development](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science and ML](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
 
 But what do we really mean when we say that this premium experience has no limitations? Well, this package has:
 
