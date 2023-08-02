@@ -12,7 +12,7 @@ We know that learning online can be challenging and even more when we are talkin
 
 These videos are distributed in different parts of the course. For example:
 
-Imagine you're trying out one of our interactive exercises. Sometimes, you might feel a bit stuck or unsure about what to do. But don't worry! Just look at the top of the screen, and you'll see a symbol of a mortarboard, like a graduation cap. Click on it, and voila! You'll find a video tutorial that guides you through the task, explaining each step in a simple and short way.
+Imagine you're trying out one of our interactive exercises. Sometimes, you might feel a bit stuck or unsure about what to do. But don't worry! Just look at the top of the screen, and you'll see a symbol of a mortarboard, like a graduation cap🎓. Click on it, and voila! You'll find a video tutorial that guides you through the task, explaining each step in a simple and short way.
 
 ![video exercises](../images/video.exercises.png)
 
