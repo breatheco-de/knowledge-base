@@ -4,7 +4,7 @@ In Mentoring sessions you get the opportunity to meet and learn from experienced
 
 What's even better is that these sessions are conducted with real everyday developers who know what they are doing and are trained to be able to teach you in the clearest way possible. So, any burning questions you have, they've got the answers! Plus, you have the freedom to choose a time that perfectly fits your schedule. 🤓
 
-## 1-1 On-Demand Mentoring Scheduling a Session
+## Scheduling a Mentoring Session
 
 No matter which modality you go for, you have the chance to clarify any doubts you may have with a real pro in the field! We care deeply about your learning journey, and we believe that when you can get all your questions answered, it'll help you build rock-solid foundations.
 
