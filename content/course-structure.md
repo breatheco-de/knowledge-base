@@ -1,7 +1,6 @@
 # Course Structure
 
-Our courses are followed by a well-organized framework that combines interactive lessons, hands-on projects, and personalized support. It doesn't matter if you are a beginner or already have some knowledge in the field. We assure you that we will make it as simple and entertaining as possible.
-How will we do that?? You may be wondering... Well, don't worry! In this article, we will briefly explain how our system works.
+Our courses are followed by a well-organized framework that combines interactive lessons, hands-on projects, and personalized support. It doesn't matter if you are a beginner or already have some knowledge in the field. We assure you that we will make it as simple and entertaining as possible! In this article, we will briefly explain how our system works.
 
 Whether you choose one of our bootcamps or short courses, we have worked based on our ***[special formula](https://4geeksacademy.notion.site/4geeksacademy/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06)*** in order to guarantee an exponential learning curve 📈. You will see that it will be entertaining, and you will learn things all the time without even realizing it!
 
@@ -25,9 +24,9 @@ Here is an example of a module from one of our bootcamps:
 
 ### 🤔 What do our modules contain?
 
-When you start each module, the first thing you will find are the 📖 **Reading Lessons**. These will provide detailed explanations about specific topics before you start putting them into practice. You can see them as the columns of a building, forming a solid foundation for your learning journey.
+When you start each module, the first thing you will find is the 📖 **Reading Lessons**. These will provide detailed explanations about specific topics before you start putting them into practice. You can see them as the columns of a building, forming a solid foundation for your learning journey.
 
-These lessons are carefully curated to provide you with additional insights, real-life examples, and different perspectives on the subject. Reading them carefully is crucial because they give you the knowledge you need to succeed. So, take your time, grab a cup of coffee, and get ready to absorb the information!
+These lessons are carefully curated to provide you with additional insights, real-life examples, and different perspectives on the subject. Reading them carefully is crucial because they give you the knowledge you need to succeed. So, take your time, and get ready to absorb the information!
 
 ![Lessons](../images/lessons.course.png)
 
