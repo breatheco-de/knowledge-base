@@ -5,7 +5,7 @@
 Workshops are all about getting hands-on and putting that theory into action! You'll have the chance to see these pros live in action, doing what they do best – working on projects and tackling challenges like a piece of cake.
 If you're ready to take your skills to the next level and see how the pros do it, these workshops are where it's at! 😎
 
-![Workshop Tips](../images/workshop.tips.gif)
+![Workshop Tips](https://breathecode.herokuapp.com/v1/media/file/workshop-tips-gif?raw=true)
 
 ## How to Get the Best Out of It?
 
