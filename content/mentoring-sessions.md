@@ -12,19 +12,19 @@ That's why we've made sure you can have these mentoring sessions whenever it sui
 
 1. Once you're in your program, look to the right-hand side. There, you'll find the **cohort** section. Right below it, you'll see a block titled **Schedule a 1-1 mentoring session**. That's where you can set up a personal mentoring session.
 
-![Mentoring Sessions](../images/mentoring.sessions.png)
+![Mentoring Sessions](https://breathecode.herokuapp.com/v1/media/file/mentoring-sessions-png?raw=true)
 
 2. When you click on the blue button that says **Schedule mentoring session**, you'll see different options on the screen. Just click on the one that says **GeekPal 1-1 Coding Mentorship**.
 
-![Coding Mentorship](../images/coding.mentorship.png)
+![Coding Mentorship](https://breathecode.herokuapp.com/v1/media/file/coding-mentorship-png?raw=true)
 
 3. On the screen, you'll see a list of all our mentors who are ready to help you out. Take your time and pick the one you feel most comfortable with. Once you've made your choice, just click on "Book Now", and you can then select the day and time that works best for you.
 
-![Mentors](../images/mentors.png)
+![Mentors](https://breathecode.herokuapp.com/v1/media/file/mentors-png?raw=true)
 
 4. You're almost there! Now, all you have to do is check your mentor's availability in their agenda. Once you find a suitable time, you can go ahead and book the mentoring session you need. It's as simple as that.
 
-![Agenda](../images/agenda.png)
+![Agenda](https://breathecode.herokuapp.com/v1/media/file/agenda-png?raw=true)
 
 So, there you go! Now you have an incredibly useful tool to help you learn to code. Feel free to use it as often as you need. And remember, we'll be here supporting you every step of the way. 😉
 
