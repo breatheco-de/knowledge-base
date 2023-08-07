@@ -4,7 +4,7 @@ Before we dive into the [Mentoring Sessions](), there are a few things you shoul
 
 In this article, we'll share some tips on how you can make the most out of your time with the mentors and supercharge your learning experience. Are you ready to level up your skills?!
 
-![Let's Get Started](../images/lets.get.started.gif)
+![Let's Get Started](https://breathecode.herokuapp.com/v1/media/file/lets-get-started-gif?raw=true)
 
 ## Before a Session
 
@@ -18,7 +18,7 @@ This is perhaps the most important part. Before your session, take some time to 
 
 4. **Check Your Equipment** 💻: Make sure your computer, internet connection, and any necessary software are working smoothly. Being well-prepared technically will save time during the session.
 
-![Questions](../images/questions.jpg)
+![Questions](https://breathecode.herokuapp.com/v1/media/file/questions-jpg?raw=true)
 
 ## During a Session 
 
@@ -30,7 +30,7 @@ Once you're in the mentoring session, you're already halfway there! These sessio
 
 3. **Mistakes Are Okay** 😉: Making mistakes is part of the learning process, and it's completely okay. Don't feel ashamed or embarrassed if you mess up while you're with your mentor. We're here to guide you every step of the way, and we want you to feel comfortable and confident when learning new things. So, don't worry about slip-ups; they're opportunities for growth and improvement! 
 
-![Mentorship](../images/mentorship.jpg)
+![Mentorship](https://breathecode.herokuapp.com/v1/media/file/mentorship-jpg?raw=true)
 
 ## After a Session
 
