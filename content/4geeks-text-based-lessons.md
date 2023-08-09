@@ -1,6 +1,6 @@
 # Text-Based Lessons
 
-With the internet giving us so much information, sometimes it's hard to know what's accurate. This info overload can be confusing, especially if we're new to something. Because of this, text-based lessons tend to be an useful tool for many successful online learning platforms, and for good reasons. They provide a structured, in-depth, and flexible approach to learning, that accommodates a wide range of learners. Especially in programming, topics can become quite large and complex.
+With the internet giving us so much information, sometimes it's hard to know what's accurate. This info overload can be confusing, especially if we're new to something. Because of this, text-based lessons tend to be a valuable tool for many successful online learning platforms, and for good reasons. They provide a structured, in-depth, and flexible learning approach, accommodating a wide range of learners. Especially in programming, topics can become quite large and complex.
 
 ## Lessons at 4Geeks 📖
 
