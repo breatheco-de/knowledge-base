@@ -36,7 +36,7 @@ So, once you have understood a subject (theoretically), you are ready to put you
 
 Also, in some modules, there will be 🌱 **Projects**. Think of them as big challenges rather than short tasks. They come with complete instructions, from opening the project repository to step-by-step details on what needs to be done. It's like having a roadmap to complete them successfully!
 
-These projects will provide you an opportunity to put your newly acquired skills into practice and work on practical scenarios. You get to collaborate with classmates, solve coding challenges, and build impressive portfolio-worthy projects. It's an exciting way to learn by doing and gaining experience that will help you in the future.
+This is the most crucial aspect of the learning process, as it showcases your programming skills in real-life projects. These projects allow you to apply your newly learned skills to practical situations. You'll collaborate with classmates, tackle coding challenges, and create remarkable portfolio projects. It's an exciting way to learn by doing and gaining experience that will help you in the future
 
 ![Projects Course](https://breathecode.herokuapp.com/v1/media/file/projects-course-png?raw=true)
 
