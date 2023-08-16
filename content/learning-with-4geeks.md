@@ -31,7 +31,7 @@ Bootcamps also offer all the benefits of **open learning**, but with a few added
 - **Networking Opportunities**: Connect and collaborate with like-minded individuals and industry professionals.
 - **Practical Projects**: Gain experience with real-world projects that helps build your portfolio and prepares you for the challenges of the job market.
 - **Specialized Tracks**: Specialized tracks in high-demand fields that will help you develop expertise in specific areas.
-- **Job Guarantee Program**: With this program, we've got your back in landing a job related to your studies! Wondering how we do it? Simple. We'll equip you with all the essential skills for workplace success. You'll learn from experts, master the art of interviews, and create a top-notch portfolio and resume, plus loads of tips to make you shine. Together, we'll ensure you stand out and nail that dream job.
+- **Job Guarantee Program**:  We are all in with you, every step of the way! Secure a job within 6 months of graduation or receive a full refund!
 - **Lifelong Unlimited Mentorships**: Designed to support your journey in the tech world. Our commitment to your success goes beyond the bootcamp duration. With our unique program, you'll have access to experienced mentors who will guide and assist you at any stage of your career!
 
 So... Whether you prefer the flexibility of **open learning** or the immersive experience of **bootcamps**, at 4Geeks we will provide you with excellent opportunities to enhance your knowledge and skills in the ever-evolving world of technology and programming.
