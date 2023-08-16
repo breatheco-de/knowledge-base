@@ -14,7 +14,7 @@ That's why we've made sure you can have these mentoring sessions whenever it sui
 
 ![Mentoring Sessions](https://breathecode.herokuapp.com/v1/media/file/mentoring-sessions-png?raw=true)
 
-2. When you click on the blue button that says **Schedule mentoring session**, you'll see different options on the screen. Just click on the one that says **GeekPal 1-1 Coding Mentorship**.
+2. To get the help you need, simply click on the mentorship that suits your requirements. Each mentorship service is tailored for specific purposes, whether it's related to a particular technology or career guidance. When you see the blue button that reads **Schedule mentoring session**, click on it and choose the **GeekPal 1-1 Coding Mentorship** option.
 
 ![Coding Mentorship](https://breathecode.herokuapp.com/v1/media/file/coding-mentorship-png?raw=true)
 
