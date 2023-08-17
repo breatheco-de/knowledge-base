@@ -30,7 +30,7 @@ Once you're in the mentoring session, you're already halfway there! These sessio
 
 3. **Mistakes Are Okay** 😉: Making mistakes is part of the learning process, and it's completely okay. Don't feel ashamed or embarrassed if you mess up while you're with your mentor. We're here to guide you every step of the way, and we want you to feel comfortable and confident when learning new things. So, don't worry about slip-ups; they're opportunities for growth and improvement! 
 
-![Mentorship](https://breathecode.herokuapp.com/v1/media/file/mentorship-jpg?raw=true)
+![Mentorship](https://breathecode.herokuapp.com/v1/media/file/mentoring-sessions-png-ii?raw=true)
 
 ## After a Session
 
