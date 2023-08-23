@@ -20,6 +20,6 @@ Also, it's important that you know that you can find all our lessons for free on
 
 ![Text-based Lessons](https://breathecode.herokuapp.com/v1/media/file/text-based-lessons-png?raw=true)
 
-> *To learn more about everything you can access from the dashboard [click here]()* ;)
+> *To learn more about everything you can access from the dashboard [click here](https://github.com/breatheco-de/knowledge-base/blob/main/content/account-management.md)* ;)
 
 Our main goal is to make learning entertaining and simple for you. Whether you're in our **Bootcamps** or taking part in **Open Learning**, we've got these lessons ready for you. They provide essential info to help you get started and keep progressing smoothly with your practices. So, whether you're a beginner or an experienced coder, our text-based lessons are here to help you succeed
