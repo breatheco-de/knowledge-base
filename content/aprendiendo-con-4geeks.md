@@ -31,7 +31,7 @@ Los Bootcamps también ofrecen todos los beneficios del **aprendizaje abierto**,
 - **Oportunidades de networking**: Conéctate y colabora con personas afines y profesionales de la industria.
 - **Proyectos prácticos**: Obtén experiencia con proyectos del mundo real que te ayuden a construir tu portafolio y te preparen para los desafíos del mercado laboral.
 - **Trayectos especializados**: Trayectos especializados en campos de alta demanda que te ayudarán a desarrollar experiencia en áreas específicas.
-- **Programa de garantía de empleo**: Estamos contigo en cada paso del camino. Asegura un trabajo dentro de los 6 meses posteriores a la graduación o ¡recibe un reembolso completo!
+- **Programa de empleo garantizado**: Estamos contigo en cada paso del camino. Asegura un trabajo dentro de los 6 meses posteriores a la graduación o ¡recibe un reembolso completo!
 - **Mentorías ilimitadas de por vida**: Diseñadas para apoyar tu viaje en el mundo tecnológico. Nuestro compromiso con tu éxito va más allá de la duración del bootcamp. Con nuestro programa único, tendrás acceso a mentores experimentados que te guiarán y ayudarán en cualquier etapa de tu carrera.
 
 Así que... Ya sea que prefieras la flexibilidad del aprendizaje abierto o la experiencia inmersiva de los bootcamps, en 4Geeks te brindaremos excelentes oportunidades para mejorar tus conocimientos y habilidades en el mundo en constante evolución de la tecnología y la programación.
