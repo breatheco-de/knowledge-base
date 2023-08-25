@@ -10,7 +10,7 @@ Entonces, vamos a mostrarte qué encontrarás durante este recorrido 😎
 
 Lo primero que necesitas saber es que nuestros cursos se dividen en módulos, lo que facilita mucho la navegación por el material. Una vez que estés listo y hagas clic en el botón "iniciar curso", pasarás a la siguiente pantalla:
 
-![Course Structure](https://breathecode.herokuapp.com/v1/media/file/course-structure-png?raw=true)
+![Estructura del curso](https://breathecode.herokuapp.com/v1/media/file/bootcamp-png?raw=true)
 
 Arriba, en la parte superior de tu pantalla, se mostrará el porcentaje de progreso que has hecho en el programa, cuántas tareas has completado y cuántas más tienes por delante. Es como tu propio rastreador de progreso personal.
 
@@ -20,7 +20,7 @@ Arriba, en la parte superior de tu pantalla, se mostrará el porcentaje de progr
 
 Aquí tienes un ejemplo de cómo se ve un módulo de nuestros bootcamps:
 
-![Modules](https://breathecode.herokuapp.com/v1/media/file/modules-png?raw=true)
+![Módulos](https://breathecode.herokuapp.com/v1/media/file/modulo-png?raw=true)
 
 ### 🤔 ¿Qué contienen nuestros módulos?
 
@@ -28,7 +28,7 @@ Cuando comiences cada módulo, lo primero que encontrarás son las 📖 Leccione
 
 Estas lecciones están cuidadosamente seleccionadas para brindarte ideas adicionales, ejemplos de la vida real y diferentes perspectivas sobre el tema. Leerlas detenidamente es crucial porque te brindan el conocimiento que necesitas para tener éxito. Así que tómate tu tiempo y prepárate para absorber la información.
 
-![Lessons](https://breathecode.herokuapp.com/v1/media/file/lessons-course-png?raw=true)
+![Lecciones](https://breathecode.herokuapp.com/v1/media/file/lectura-bootcamp-png?raw=true)
 
 Una vez que hayas comprendido un tema (teóricamente), estás listo para poner tu conocimiento en práctica a través de los 💻 **Ejercicios Interactivos**. Son como desafíos cortos que aumentarán en dificultad para que al final puedas dominar todo el tema. Estos tienen un modo de evaluación automático que te dice si lo estás haciendo bien o si hay un error en tu código. También tienen tutoriales en video en caso de que te quedes atascado en algún punto, ¡así que no te preocupes! (Aunque recomendamos que primero intentes resolverlo por ti mismo para desarrollar el pensamiento crítico).
 
@@ -38,7 +38,7 @@ Además, en algunos módulos, habrán 🌱 **Proyectos**. Piensa en ellos como g
 
 Este es el aspecto más crucial del proceso de aprendizaje, ya que muestra tus habilidades de programación en proyectos de la vida real. Estos proyectos te permiten aplicar tus habilidades recién aprendidas a situaciones prácticas. Colaborarás con compañeros de clase, abordarás desafíos de programación y crearás proyectos impresionantes para tu portafolio. Es una forma emocionante de aprender *haciendo* y adquirir experiencia.
 
-![Projects Course](https://breathecode.herokuapp.com/v1/media/file/projects-course-png?raw=true)
+![Proyectos del Curso](https://breathecode.herokuapp.com/v1/media/file/proyecto-bootcamp-png?raw=true)
 
 Finalmente, durante tu curso, encontrarás algunos ⌛ **Quizzes** (cuestionarios) listos para poner a prueba cuánta atención has estado prestando hasta ahora. Estos cuestionarios son una serie de preguntas de opción múltiple, súper rápidos y divertidos. ¡Sin excusas, no te llevarán mucho tiempo! Aunque no son obligatorios, te recomendamos que los pruebes. Es una excelente manera de ejercitar tu mente y ver cuánto has aprendido en el camino.
 
