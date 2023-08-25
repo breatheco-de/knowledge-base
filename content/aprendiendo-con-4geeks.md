@@ -50,25 +50,25 @@ En tu **[catálogo de contenidos](https://4geeks.com/es)**, tendrás acceso a la
 
 Queremos equiparte con las herramientas e ideas necesarias para que puedas explorar y profundizar en el tema con confianza. Nuestro objetivo es brindarte una idea completa y una base sólida en los temas que cubrimos.
 
-![lessons](https://breathecode.herokuapp.com/v1/media/file/lessons-png?raw=true)
+![lecciones](https://breathecode.herokuapp.com/v1/media/file/lecciones-dashboard-png?raw=true)
 
 ### 🏋️ Ejercicios:
 
 Los ejercicios te ayudan a comprender realmente los conceptos, a construir confianza y a desarrollar habilidades para resolver problemas. Al enfrentar desafíos prácticos, refuerzas lo que has aprendido, abordas problemas del mundo real y ¡fortaleces tus habilidades de programación! Además, es muy divertido y te convierte en un mejor programador a largo plazo.
 
-![exercises](https://breathecode.herokuapp.com/v1/media/file/exercises-png?raw=true)
+![ejercicios](https://breathecode.herokuapp.com/v1/media/file/ejercicios-dashboard-png?raw=true)
 
 ### 🌱 Proyectos:
 
 Nuestros proyectos son justo lo que necesitas cuando buscas más complejidad. Estos desafíos están especialmente diseñados para poner a prueba todo lo que has aprendido sobre un tema específico. Una vez que te sientas seguro con tus bases, ¡sumérgete en estos proyectos y observa cómo creces! Y no te preocupes, estamos aquí para ayudarte con herramientas útiles como videos, instrucciones, soluciones y más, ¡para que no te quedes atascado en el camino!
 
-![projects](https://breathecode.herokuapp.com/v1/media/file/projects-png?raw=true)
+![proyectos](https://breathecode.herokuapp.com/v1/media/file/proyectos-dashboard-png?raw=true)
 
 ### 🔍 Preguntas frecuentes:
 
 En esta sección, encontrarás respuestas a las preguntas más comunes que surgen al aprender programación. Estos artículos están diseñados para abordar temas específicos y guiarte paso a paso para superar esos obstáculos complicados. Queremos asegurarnos de que nunca te sientas solo mientras programas, por lo que hemos preparado explicaciones detalladas y soluciones para mantenerte en el camino correcto.
 
-![how to's](https://breathecode.herokuapp.com/v1/media/file/how-to-s-png?raw=true)
+![preguntas frecuentes](https://breathecode.herokuapp.com/v1/media/file/preguntas-frecuentes-dashboard-png?raw=true)
 
 ### 🕊️ ¡El código te hace libre!
 
