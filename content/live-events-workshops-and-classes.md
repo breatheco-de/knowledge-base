@@ -10,6 +10,13 @@ You will be able to find the events in your dashboard:
 
 ![How to access events](https://storage.googleapis.com/media-breathecode/121e4a50f21f28d7d431419a3aa3c921c48b4c3690336518e199a9972626494b)
 
+### How To Reserve Your Spot
+
+1. In your dashboard, at the top right of the screen, there is a box showing the closest upcoming workshop. Below that, click on **Other Upcoming Live Events** to see more options.
+2. Check out the list of all upcoming workshops we offer, and see which ones interest you the most.
+3. When you find a workshop you like, click on its name. A new window will pop up with all the details about that workshop.
+4. On the right side, you'll see a counter for the next closest workshop. Under it, click on **Reserve Your Spot** in the blue box, and you're good to go!
+
 ## What events formats are available?
 
 1. What is a live workshop: A Live Workshop is an event where a mentor will go through technical or career challenges that students commonly have.
