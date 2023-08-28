@@ -27,8 +27,10 @@ That's why we offer different learning paths to suit your needs. For example, if
 On the other hand, if you're seeking a career-focused experience, our [Bootcamps](https://4geeksacademy.com/us/programs) are perfect for a fast-paced career upgrade. Dive into courses like:
 - [Full Stack Web Development](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer).
 - [Data Science and ML](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering).
-- 
+
 Enjoy all the benefits of Open Learning plus lifelong [career support](https://4geeks.com/about-us#career-support-geekpal). Choose the path that fits your goals and thrive in the tech industry with 4Geeks!
+
+> *You can read more about all the benefits and the different modalities [here](https://github.com/breatheco-de/knowledge-base/blob/main/content/learning-with-4geeks.md)*
 
 ### 3. Join the 4Geeks Community 👨‍👩‍👦‍👦:
 
