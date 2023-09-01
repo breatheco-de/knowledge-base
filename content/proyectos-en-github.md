@@ -4,9 +4,9 @@ Los proyectos son absolutamente cruciales, ya que representan trabajos que forma
 
 Por este motivo es FUNDAMENTAL que leas este artículo ya que no queremos que pierdas la oportunidad de guardar tus proyectos.
 
-## 🚫 Eliminación de Proyectos 🚫
+## 🚫 Eliminación de Proyectos al Graduarse 🚫
 
-**Aquí viene la parte crucial**: los proyectos que hayas creado en nuestros programas se eliminarán si no los has configurado como **repositorios públicos** en GitHub. Esta eliminación se lleva a cabo como parte de nuestro proceso de limpieza de datos y no se puede **revertir**.
+**Aquí viene la parte crucial**: Al graduarte en 4Geeks, los proyectos que hayas creado en nuestros programas se eliminarán si no los has configurado como **repositorios públicos** en GitHub. Esta eliminación se lleva a cabo como parte de nuestro proceso de limpieza de datos y no se puede **revertir**.
 
 Entendemos que está la posibilidad que prefieres mantener algún proyecto privado. Esa es una elección completamente válida, pero es importante que comprendas las implicaciones. Si decides mantener tus proyectos como repositorios privados, ten en cuenta que **perderás acceso** a ellos.
 
