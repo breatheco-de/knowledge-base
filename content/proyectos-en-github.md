@@ -12,7 +12,22 @@ Entendemos que está la posibilidad que prefieres mantener algún proyecto priva
 
 ## Cómo Hacer tus Proyectos Públicos
 
-Si aún no has trabajado con GitHub o no estás seguro de cómo hacer que tus proyectos sean públicos, no te preocupes. Estamos aquí para ayudarte. Puedes encontrar tutoriales y guías sobre cómo hacer que tus repositorios sean públicos en el sitio web de [GitHub](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop).
+Si aún no has trabajado con GitHub o no estás seguro de cómo hacer que tus proyectos sean públicos, no te preocupes. Simplemente asegúrate de hacer lo siguiente:
+
+### Acción Requerida
+
+- Hacer una **fork** de cada uno de tus repositorios: Al hacer un fork, crearás una copia bajo tu cuenta personal de GitHub, convirtiéndote en el único propietario.
+
+### Pasos:
+
+1. Inicia sesión en tu cuenta de GitHub.
+
+2. Visita el repositorio que deseas hacerle fork (por ejemplo, https://github.com/4GeeksAcademy/Tu-Repositorio).
+
+3. Haz clic en el botón "Fork" en la esquina superior derecha.
+Encuentra tu repositorio forkeado en https://github.com/Tu-NombreDeUsuario/Tu-Repositorio
+
+Estamos aquí para ayudarte. Puedes encontrar tutoriales y guías sobre cómo hacer que tus repositorios sean públicos en el sitio web de [GitHub](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop).
 
 En resumen, hacer tus proyectos públicos en GitHub es esencial para tu éxito tanto durante como después de tu tiempo en 4Geeks. Te alentamos a considerar esta decisión con cuidado y a aprovechar al máximo esta oportunidad para mostrar tu trabajo y aprender de la comunidad de desarrolladores.
 
