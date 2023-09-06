@@ -27,7 +27,9 @@ Si aún no has trabajado con GitHub o no estás seguro de cómo hacer que tus pr
 > Nota: debes reemplazar <tu-repostiorio> por el verdadero nombre de tu repositorio.
 
 3. Haz clic en el botón "Fork" en la esquina superior derecha.
-Encuentra tu repositorio forkeado en `https://github.com/Tu-NombreDeUsuario/<Tu-Repositorio>`
+Encuentra tu repositorio forkeado en `https://github.com/<Tu-NombreDeUsuario>/<Tu-Repositorio>`
+
+> Nota: debes reemplazar <Tu-NombreDeUsuario> y <tu-repostiorio> por tu verdadero nombre de usuario y repositorio.
 
 Estamos aquí para ayudarte. Puedes encontrar tutoriales y guías sobre cómo hacer que tus repositorios sean públicos en el sitio web de [GitHub](https://docs.github.com/es/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop).
 
