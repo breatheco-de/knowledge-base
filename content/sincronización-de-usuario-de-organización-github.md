@@ -1,4 +1,4 @@
-El portal de la academia [4Geeks.com](http://4Geeks.com) ahora puede sincronizar automáticamente y opcionalmente a los estudiantes como usuarios de su organización de Github.
+El portal de la academia [4Geeks.com](http://4Geeks.com/es) ahora puede sincronizar automáticamente y opcionalmente a los estudiantes como usuarios de su organización de Github.
 
 > 🐞 Esta es una función beta que será probada en las próximas semanas.
 
@@ -17,9 +17,9 @@ Los estudiantes son automáticamente `agregados` a la organización de GitHub en
 
 También puedes invitar manualmente a estudiantes a la organización desde [Github.com](http://Github.com) y [4Geeks.com](http://4Geeks.com los reconocerá cuando se sincronicen con Github; intentará obtener información sobre sus cohortes y conectarlos con su academia.
 
-![4Geeks-Desarrolladores-Comunidad-Administrador (5).png](https://github.com/breatheco-de/knowledge-base/blob/main/images/4Geeks-Developers-Community-Admin_(5).png?raw=true)
+![Comunidad de Desarrolladores](https://github.com/breatheco-de/knowledge-base/blob/main/images/4Geeks-Developers-Community-Admin_(5).png?raw=true)
 
-> ⚠️ Si se encuentra a un usuario en una organización de Github pero no se refleja como usuario de [4geeks.com](http://4geeks.com) y no pertenece a ninguna cohorte, el sistema marcará al usuario como ignorado
+> ⚠️ Si se encuentra a un usuario en una organización de Github pero no se refleja como usuario de [4geeks.com](http://4geeks.com/es) y no pertenece a ninguna cohorte, el sistema marcará al usuario como ignorado.
 
 ### Eliminar usuarios
 
