@@ -12,7 +12,7 @@ En este artículo, te guiaremos a través de los pasos necesarios para comenzar 
 
 ### 1. Registrarse en 4Geeks:
 
-El primer paso para comenzar con 4Geeks es registrarte. Visita nuestro sitio web oficial [4geeks.com](https://4geeks.com/login?tab=register) y busca la opción de registro. Proporciona la información requerida y crea una cuenta.
+El primer paso para comenzar con 4Geeks es registrarte. Visita nuestro sitio web oficial [4geeks.com](https://4geeks.com/es/login?tab=register) y busca la opción de registro. Proporciona la información requerida y crea una cuenta.
 
 > *Recuerda guardar tus credenciales de inicio de sesión en un lugar seguro.*
 
