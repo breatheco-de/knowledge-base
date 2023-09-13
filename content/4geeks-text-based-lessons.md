@@ -16,7 +16,7 @@ No matter if you're doing a **Bootcamp** or **Open Learning**, you'll receive le
 
 ![Lessons Modules](https://breathecode.herokuapp.com/v1/media/file/lesson-modules-png?raw=true)
 
-Also, it's important that you know that you can find all our lessons for free on our website [4Geeks.com](https://4geeks.com/choose-program). Just go to your dashboard, and at the top, there's a menu. Click on **Learning Library**, then choose **Search from all lessons**. A new screen will show you all the lessons available on different topics. Whenever you need to search or learn something specific, this tool is there for you! You'll find everything you need right there.
+Also, it's important that you know that you can find all our lessons for free on our website [4Geeks.com](https://4geeks.com/lessons). Go to the navbar and click on **Learning Library**, then choose **Search from all lessons**. A new screen will show you all the lessons available on different topics. Whenever you need to search or learn something specific, this tool is there for you! You'll find everything you need right there.
 
 ![Text-based Lessons](https://breathecode.herokuapp.com/v1/media/file/text-based-lessons-png?raw=true)
 
