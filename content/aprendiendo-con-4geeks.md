@@ -4,12 +4,12 @@ En 4Geeks nos esforzamos por hacer del aprendizaje una experiencia divertida y g
 
 ## 🥇 Certificaciones y Cursos
 
-Sabemos que la vida puede volverse bastante ocupada a veces... Por eso hemos diseñado dos tipos de experiencias: **Aprendizaje Abierto** y **Bootcamps Inmersivos**.
+Sabemos que la vida puede volverse bastante ocupada a veces... Por eso hemos diseñado dos tipos de experiencias: **Cursos** y **Bootcamps Inmersivos**.
 Vamos a desglosarlo y explorar los beneficios de cada opción, para que puedas elegir la que mejor se adapte a tus objetivos y necesidades. Ya sea que prefieras un aprendizaje flexible y a tu propio ritmo o una experiencia más inmersiva y estructurada ¡Tenemos algo para ti!
 
-### 1) Aprendizaje Abierto:
+### 1) Cursos:
 
-El **Aprendizaje Abierto** es perfecto para aquellos que no tienen mucho tiempo en su agenda pero aún quieren aprender todo sobre un tema específico. Podrás unirte a cualquiera de estos cursos de forma gratuita en diferentes tecnologías como JavaScript, Python, ChatGPT, etc.
+Los **Cursos** son perfectos para aquellos que no tienen mucho tiempo en su agenda pero aún quieren aprender todo sobre un tema específico. Podrás unirte a cualquiera de estos cursos de forma gratuita en diferentes tecnologías como JavaScript, Python, ChatGPT, etc.
 
 Hemos enumerado algunos beneficios que este tipo de experiencia tiene para ofrecer:
 
@@ -25,7 +25,7 @@ Los Bootcamps son para personas que desean realizar un cambio de carrera signifi
 
 Si buscas una experiencia inmersiva y un cambio de carrera rápido, ¡los Bootcamps son el camino a seguir! Estos programas exhaustivos duran alrededor de 18 semanas y requieren de un cierto nivel de compromiso. Están diseñados para brindarte habilidades de primer nivel, que te ayudarán mucho en el proceso de convertirte en un gran programador. Puedes elegir entre trayectos especializados como: [Desarrollo Web Full Stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack?lang=es), y [Data Science y ML](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning?lang=es)
 
-Los Bootcamps también ofrecen todos los beneficios del **aprendizaje abierto**, pero con algunas ventajas adicionales:
+Los Bootcamps también ofrecen todos los beneficios de los **Cursos**, pero con algunas ventajas adicionales:
 
 - **Apoyo profesional de por vida**: Una de las ventajas clave de nuestros Bootcamps es la incorporación de [apoyo profesional](https://4geeks.com/es/sobre-nosotros) de por vida.
 - **Oportunidades de networking**: Conéctate y colabora con personas afines y profesionales de la industria.
@@ -34,7 +34,7 @@ Los Bootcamps también ofrecen todos los beneficios del **aprendizaje abierto**,
 - **Programa de empleo garantizado**: Estamos contigo en cada paso del camino. Asegura un trabajo dentro de los 6 meses posteriores a la graduación o ¡recibe un reembolso completo!
 - **Mentorías ilimitadas de por vida**: Diseñadas para apoyar tu viaje en el mundo tecnológico. Nuestro compromiso con tu éxito va más allá de la duración del bootcamp. Con nuestro programa único, tendrás acceso a mentores experimentados que te guiarán y ayudarán en cualquier etapa de tu carrera.
 
-Así que... Ya sea que prefieras la flexibilidad del aprendizaje abierto o la experiencia inmersiva de los bootcamps, en 4Geeks te brindaremos excelentes oportunidades para mejorar tus conocimientos y habilidades en el mundo en constante evolución de la tecnología y la programación.
+Así que... Ya sea que prefieras la flexibilidad de los cursos o la experiencia inmersiva de los bootcamps, en 4Geeks te brindaremos excelentes oportunidades para mejorar tus conocimientos y habilidades en el mundo en constante evolución de la tecnología y la programación.
 
 ![coding](https://breathecode.herokuapp.com/v1/media/file/coding-gif?raw=true)
 
