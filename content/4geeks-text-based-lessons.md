@@ -12,7 +12,7 @@ We want to give you a reliable information source so you can learn more effectiv
 
 ## Where to find them? 🔍
 
-No matter if you're doing a **Bootcamp** or **Open Learning**, you'll receive lessons that explain everything about specific topics! Don't worry, these lessons are organized in your modules. As you move forward, you'll unlock new lessons. These will provide the foundation and knowledge you need to keep practicing with our interactive exercises and projects.                   
+No matter if you're doing a **Bootcamp** or a **Course**, you'll receive lessons that explain everything about specific topics! Don't worry, these lessons are organized in your modules. As you move forward, you'll unlock new lessons. These will provide the foundation and knowledge you need to keep practicing with our interactive exercises and projects.                   
 
 ![Lessons Modules](https://breathecode.herokuapp.com/v1/media/file/lesson-modules-png?raw=true)
 
