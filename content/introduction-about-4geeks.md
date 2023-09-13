@@ -1,6 +1,6 @@
 # Introduction about 4Geeks
 
-This time, we don't want to start the article by telling our whole story as 4geeks. Our purpose here is to bring you a little up-to-date on what we have been working on for many years, to offer you the best education from a different perspective ;). So grab a cup of coffee, and keep reading! I promise it wont be boring...
+This time, we don't want to start the article by telling our whole story as 4geeks. Our purpose here is to bring you a little up-to-date on what we have been working on for many years, to offer you the best education from a different perspective ;).
 
 From the very beginning, our mission at [4Geeks](https://4geeks.com/about-us) has been all about making a positive impact by shaking up the old-fashioned methods of teaching. We did our homework, and we came up to the conclusion that traditional education system was just not cutting it anymore. It wasn't giving students the hands-on experience, real-life applications, and the motivation they needed to thrive. That's when we knew it was time for a change!
 
