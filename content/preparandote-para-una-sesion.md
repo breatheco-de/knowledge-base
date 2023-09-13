@@ -1,6 +1,6 @@
 # Preparándote para una Sesión
 
-Antes de sumergirnos en las [Sesiones de Tutoría](https://github.com/breatheco-de/knowledge-base/blob/main/content/sesiones-de-tutoria.md), hay algunas cosas que debes tener en cuenta. No te preocupes, no te tomará mucho repasarlas, pero definitivamente te ahorrarán tiempo y harán que tu experiencia sea mucho más fluida.
+Antes de sumergirnos en las [Sesiones de Tutoría](https://4geeks.com/es/docs/sesiones-de-tutoria), hay algunas cosas que debes tener en cuenta. No te preocupes, no te tomará mucho repasarlas, pero definitivamente te ahorrarán tiempo y harán que tu experiencia sea mucho más fluida.
 
 En este artículo, compartiremos algunos consejos sobre cómo puedes aprovechar al máximo tu tiempo con los mentores y potenciar tu experiencia de aprendizaje. ¿Estás listo para mejorar tus habilidades?
 
