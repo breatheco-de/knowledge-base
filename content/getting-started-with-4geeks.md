@@ -30,7 +30,7 @@ On the other hand, if you're seeking a career-focused experience, our [Bootcamps
 
 Enjoy all the benefits of Open Learning plus lifelong [career support](https://4geeks.com/about-us#career-support-geekpal). Choose the path that fits your goals and thrive in the tech industry with 4Geeks!
 
-> *You can read more about all the benefits and the different modalities [here](https://4geeks.com/docs/learning-with-4geeks.md)*
+> *You can read more about all the benefits and the different modalities [here](https://4geeks.com/docs/learning-with-4geeks)*
 
 ### 3. Join the 4Geeks Community 👨‍👩‍👦‍👦:
 
