@@ -24,14 +24,14 @@ En [4Geeks](https://4geeks.com/es/sobre-nosotros) entendemos que todos tienen un
 
 Es por eso que ofrecemos diferentes modalidades de aprendizaje para satisfacer tus necesidades. Por ejemplo, si buscas más flexibilidad, ¡nuestra opción de **Cursos** es la mejor para ti! Ofrece un viaje flexible y a tu propio ritmo con pequeños cursos en varias tecnologías. Puedes unirte a cursos, acceder a talleres en vivo y recibir tutoría personalizada según sea necesario. Aprende en cualquier lugar y en cualquier momento con la metodología que elijas. 
 
-Por otro lado, si buscas una experiencia centrada en la carrera, nuestros [Bootcamps](https://4geeksacademy.com/es/programas?lang=es) son perfectos para un rápido ascenso en tu carrera. Sumérgete en cursos como:
+Por otro lado, si buscas una experiencia centrada en la carrera, nuestros [Bootcamps](https://4geeksacademy.com/es/inicio?lang=es) son perfectos para un rápido ascenso en tu carrera. Sumérgete en cursos como:
 
 - [Desarrollo Web Full Stack](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack?lang=es).
 - [Data Science y ML](https://4geeksacademy.com/es/coding-bootcamps/curso-inteligencia-artificial?lang=es).
 
 Disfruta de todos los beneficios de los **Cursos** además de [soporte de carrera](https://4geeks.com/es/sobre-nosotros) de por vida. Elige el camino que se adapte a tus objetivos y prospera en la industria tecnológica con 4Geeks!
 
-> *Puedes leer más acerca de todos los beneficios y las diferentes modalidades [aquí](https://github.com/breatheco-de/knowledge-base/blob/main/content/learning-with-4geeks.md)*
+> *Puedes leer más acerca de todos los beneficios y las diferentes modalidades [aquí](https://4geeks.com/es/docs/learning-with-4geeks)*
 
 ### 3. Únete a la Comunidad 4Geeks 👨‍👩‍👦‍👦:
 
