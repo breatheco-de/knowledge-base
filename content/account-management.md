@@ -2,13 +2,13 @@
 
 If you are reading, this is because you decided to join our geek's community! We're happy to have you on board. To make sure you have a full experience, we're here to guide you through managing your 4Geeks account. In this article, we'll walk you through all the important steps and features that will help you navigate your coding journey like a pro 😎. So, let's get started and make the most out of it!
 
-> *Before getting started if you haven't created an account already, you can read the article [Getting Started With 4Geeks](url); here we explain step by step how to create it ;)*
+> *Before getting started if you haven't created an account already, you can read the article [Getting Started With 4Geeks](https://github.com/breatheco-de/knowledge-base/blob/main/content/getting-started-with-4geeks.md); here we explain step by step how to create it ;)*
 
 ## ⚙️ Account Settings:
 
 Once signed in, in the upper right part of the screen you will find your profile picture; if you click there you will see the account settings. Here, you can personalize your profile, update contact information, and manage your preferences.
 
-![profile](../images/my.profile.png)
+![profile](https://breathecode.herokuapp.com/v1/media/file/profile-png?raw=true)
 
 Additionally, once you enter the settings of your profile, you will see on the left a menu where you can see the certificates you have obtained and your subscriptions.
 
@@ -18,11 +18,11 @@ Familiarize yourself with the dashboard! The dashboard is your control center. I
 
 There will be shown all the available **active programs** that you have. Each program is clearly displayed, allowing you to quickly access the information you need. You can easily navigate through the dashboard to explore program details, such as how much of the course you have done so far, and keep track of how many quizzes, lessons, projects and exercises you have completed.
 
-![dashboard](../images/dashboard.png)
+![dashboard](https://breathecode.herokuapp.com/v1/media/file/dasboard-png?raw=true)
 
 Also, we've got you covered with an interactive menu located at the bottom of the page. It's your one-stop shop for accessing all the information you need about 4Geeks! With this user-friendly menu, you'll never have to worry about getting lost while conducting your research. Everything you need is just a scroll away, making it convenient and hassle-free for you to explore and find what you're looking for.
 
-![interactive menu](../images/interactive.menu.png)
+![interactive menu](https://breathecode.herokuapp.com/v1/media/file/interactive-menu-png?raw=true)
 
 ## 🔐 Privacy and Security:
 
