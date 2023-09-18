@@ -14,7 +14,7 @@ You will be able to find the events in your dashboard:
 
 1. In your dashboard, at the top right of the screen, there is a box showing the closest upcoming workshop. Below that, click on **Other Upcoming Live Events** to see more options.
 2. Check out the list of all upcoming workshops we offer, and see which ones interest you the most.
-3. When you find a workshop you like, click on its name. A new window will pop up with all the details about that workshop.
+3. When you find a workshop you like, click on it's name. A new window will pop up with all the details about that workshop.
 4. On the right side, you'll see a counter for the next closest workshop. Under it, click on **Reserve Your Spot** in the blue box, and you're good to go!
 
 ## What events formats are available?
