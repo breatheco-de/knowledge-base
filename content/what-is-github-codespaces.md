@@ -31,7 +31,7 @@ When you open a GitHub repository using Github Codespaces instead of your local 
 
 ## How does Github Codespaces work?
 
-Are you familiar with GitHub and what a Git Repository is? If you already know what Github and Git are please skip this next 3 paragraphs, otherwise read it carefully:
+Are you familiar with GitHub and what a Git Repository is? If you already know what Github and Git are please skip the next 3 paragraphs, otherwise read it carefully:
 
 ### What are GitHub and Git?
 
