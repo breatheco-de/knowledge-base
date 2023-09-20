@@ -4,12 +4,12 @@ At 4Geek we're all about making learning a fun and fulfilling experience! We bel
 
 ## 🥇 Certifications and Courses
 
-We know life can get pretty busy sometimes... That's why we've designed two types of experiences: **Open Learning** and **Immersive Bootcamps**.
+We know life can get pretty busy sometimes... That's why we've designed two types of experiences: **Courses** and **Immersive Bootcamps**.
 Let's break it down and explore the benefits of each option, so you can choose the best fit for your goals and needs. Whether you prefer a flexible and self-paced learning journey or a more immersive and structured experience, we have something for you.
 
-### 1) Open Learning:
+### 1) Courses:
 
-Open Learning is perfect for those who do not have much time on their agenda but still want to have complete learning about a specific topic. You will be able to join any of them for free in different technologies like Javascript, Python, ChatGPT, etc.
+Courses are perfect for those who do not have much time on their agenda but still want to have complete learning about a specific topic. You will be able to join any of them for free in different technologies like Javascript, Python, ChatGPT, etc.
 
 We have listed some benefits that this type of experience has to offer:
  
@@ -21,11 +21,11 @@ We have listed some benefits that this type of experience has to offer:
 
 ### 2) Immersive Bootcamps:
 
-Bootcamps are for people who want to make a significant career change and improve their lives. They are programs that fully train you in a specific area, preparing you for successful job placement in the future.
+[Bootcamps](https://4geeksacademy.com/us/index?lang=en) are for people who want to make a significant career change and improve their lives. They are programs that fully train you in a specific area, preparing you for successful job placement in the future.
 
 If you're seeking an immersive experience and a fast-paced career shift, Bootcamps are the way to go! These comprehensive programs last for about 18 weeks and require a certain level of commitment. They're designed to provide you with top-notch skills, that will help you a lot in your coding journey! You can choose from specialized tracks like: [Full Stack Web Development](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science and ML](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
 
-Bootcamps also offer all the benefits of **open learning**, but with a few added advantages:
+Bootcamps also offer all the benefits of **Courses**, but with a few added advantages:
 
 - **Lifelong Career Support**: One of the key advantages of our Bootcamps is the addition of [career support](https://4geeks.com/about-us#career-support-geekpal) for life.
 - **Networking Opportunities**: Connect and collaborate with like-minded individuals and industry professionals.
@@ -34,7 +34,7 @@ Bootcamps also offer all the benefits of **open learning**, but with a few added
 - **Job Guarantee Program**:  We are all in with you, every step of the way! Secure a job within 6 months of graduation or receive a full refund!
 - **Lifelong Unlimited Mentorships**: Designed to support your journey in the tech world. Our commitment to your success goes beyond the bootcamp duration. With our unique program, you'll have access to experienced mentors who will guide and assist you at any stage of your career!
 
-So... Whether you prefer the flexibility of **open learning** or the immersive experience of **bootcamps**, at 4Geeks we will provide you with excellent opportunities to enhance your knowledge and skills in the ever-evolving world of technology and programming.
+So... Whether you prefer the flexibility of **Courses** or the immersive experience of **bootcamps**, at 4Geeks we will provide you with excellent opportunities to enhance your knowledge and skills in the ever-evolving world of technology and programming.
 
 ![coding](https://breathecode.herokuapp.com/v1/media/file/coding-gif?raw=true)
 

@@ -22,13 +22,13 @@ The first step to get started with 4Geeks is to sign up. Visit our official webs
 
 At [4Geeks](https://4geeks.com/about-us#4geekscom-platform) we understand that everyone has an agenda and a learning style, so it is important to take the time 🕓 to explore the available options and choose a learning path that aligns with your interests and goals. 
 
-That's why we offer different learning paths to suit your needs. For example, if you are looking for more flexibility, our **Open Learning** option is the best for you! It provides a flexible and self-paced journey with small courses in various technologies. You can join courses, access live workshops, and receive 1-on-1 mentorship as needed. Learn anywhere, anytime with your chosen methodology.
+That's why we offer different learning paths to suit your needs. For example, if you are looking for more flexibility, our **Courses** are the best for you! They provide a flexible and self-paced journey in various technologies. You can join courses, access live workshops, and receive 1-on-1 mentorship as needed. Learn anywhere, anytime with your chosen methodology.
 
-On the other hand, if you're seeking a career-focused experience, our [Bootcamps](https://4geeksacademy.com/us/programs) are perfect for a fast-paced career upgrade. Dive into courses like:
+On the other hand, if you're seeking a career-focused experience, our [Bootcamps](https://4geeksacademy.com/us/index?lang=en) are perfect for a fast-paced career upgrade. Dive into courses like:
 - [Full Stack Web Development](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer).
 - [Data Science and ML](https://4geeksacademy.com/us/coding-bootcamps/machine-learning-engineering).
 
-Enjoy all the benefits of Open Learning plus lifelong [career support](https://4geeks.com/about-us#career-support-geekpal). Choose the path that fits your goals and thrive in the tech industry with 4Geeks!
+Enjoy all the benefits of the Courses plus lifelong [career support](https://4geeks.com/about-us#career-support-geekpal). Choose the path that fits your goals and thrive in the tech industry with 4Geeks!
 
 > *You can read more about all the benefits and the different modalities [here](https://4geeks.com/docs/learning-with-4geeks)*
 
