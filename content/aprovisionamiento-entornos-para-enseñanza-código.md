@@ -40,7 +40,7 @@ Cuando se inicia un nuevo ejercicio, las prioridades son diferentes; los ejercic
 
 Por eso, en lugar de darles la URL del repositorio, procedemos a comenzar la provisión de la computadora en la nube para ellos; solo tienen que decidir si quieren "empezar desde cero" o "continuar con los ejercicios anteriores".
 
-![](https://github.com/breatheco-de/knowledge-base/blob/main/images/open-exercise.png?raw=true)
+![Empezar ejercicio](https://github.com/breatheco-de/knowledge-base/blob/main/images/open-exercise.png?raw=true)
 
 ## Proveedores de provisión
 
