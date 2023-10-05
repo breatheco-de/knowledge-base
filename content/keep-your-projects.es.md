@@ -1,63 +1,59 @@
-# Keeping your projects on GitHub after you graduate from the bootcamp
+# Mantener tus proyectos en GitHub después de graduarte del bootcamp
 
-Projects represent the work and experience in your professional portfolio. These projects showcase your skills as a programmer and are a powerful tool to demonstrate what you can achieve in the professional field. They are your introduction to potential employers or clients.
+Los proyectos representan el trabajo y la experiencia en tu portafolio profesional. Estos proyectos muestran tus habilidades como programador y son una poderosa herramienta para demostrar lo que puedes lograr en el campo profesional. Son tu carta de presentación ante posibles empleadores o clientes.
 
-Once you graduate from one of [4Geeks Academy bootcamps](https://4geeksacademy.com/us/programs) you will have access to the community and most of your benefits for life:
+Una vez que te gradúes en uno de los [bootcamps de la Academia 4Geeks](https://4geeksacademy.com/es/inicio?lang=es) tendrás acceso a la comunidad y a la mayoría de sus beneficios de por vida:
 
-- Career Support (Geekforce)
-- Mentorships (GeekPal)
-- Slack workspace and `#public-support` channels (GeekPal)
-- Online platform for lessons, exercises, and projects.
-- LearnPack exercise engine
+- Apoyo profesional (Geekforce)
+- Tutorías (GeekPal)
+- Espacio de trabajo Slack y canales `#public-support` (GeekPal)
+- Plataforma en línea para lecciones, ejercicios y proyectos.
+- Motor de ejercicios LearnPack
 
-But, as you will understand after reading this article, we cannot keep giving you access to 4Geeks Academy's Github Organization as a member, which comes with several limitations.
+Pero, como comprenderás después de leer este artículo, no podemos seguir dándote acceso a la Organización Github de 4Geeks Academy como miembro, lo que conlleva varias limitaciones.
 
-1. You will lose access to the private projects you created during your bootcamp.
-2. Any project you didn't fork into your personal account will be deleted soon.
+1. Perderás el acceso a los proyectos privados que hayas creado durante tu bootcamp.
+2. Cualquier proyecto que no hyas hecho "Fork" en tu cuenta personal será borrado pronto.
 
-But don't worry, this is entirely fixable.
+Pero no te preocupes, esto es totalmente solucionable.
 
-## Why do we delete your projects?
+## ¿Por qué borramos tus proyectos?
 
-Github limits the number of repositories an organization can have; we cannot keep copies of every project every student ever made; we will have to delete them at some point. 
+Github limita el número de repositorios que puede tener una organización; no podemos guardar copias de todos los proyectos que hayan hecho todos los estudiantes; tendremos que borrarlos en algún momento. 
 
-We decided to keep students' project for up to 30 days after graduation, which gives you plenty of time to backup all your code because the process takes no more than 2 minutes
+Decidimos mantener los proyectos de los estudiantes hasta 30 días después de la graduación, lo que te da tiempo de sobra para hacer copias de seguridad de todo tu código porque el proceso no lleva más de 2 minutos.
 
-## Start by making your projects public
+## Empieza por hacer públicos tus proyectos
 
-We understand that you may prefer to keep some projects private. That is a completely valid choice, but it is important that you understand the implications. If you decide to keep your projects as **private repositories**, you will lose access to them once you are no longer a member of the organization.
+Entendemos que prefieras mantener algunos proyectos en privado. Es una opción completamente válida, pero es importante que entiendas las implicaciones. Si decides mantener tus proyectos como **repositorios privados**, perderás el acceso a ellos cuando dejes de ser miembro de la organización.
 
-> 🔥 We strongly recommend making all your repositories public from day one.
+> Te recomendamos encarecidamente que hagas públicos todos tus repositorios desde el primer día.
 
-### How to Make Your Projects Public
+### Cómo hacer públicos tus proyectos
 
-1. Log in to [your GitHub account](https://github.com/settings/profile).
-2. Go to 4Geeks Academy's [organization repository page](https://github.com/orgs/4GeeksAcademy/repositories).
-3. Find your project [by typing on the search bar](https://github.com/breatheco-de/knowledge-base/blob/main/images/search-for-repo.png?raw=true).
-4. Click on your repository name to take you to the repository page.
-5. Once on your repo page, look for the settings tab and click on it.
-6. Once inside settings, scroll down until you find the "make public" button and click on it.
+1. Inicia sesión en [tu cuenta de GitHub](https://github.com/settings/profile).
+2. Ve a [página del repositorio de la organización] de 4Geeks Academy(https://github.com/orgs/4GeeksAcademy/repositories).
+3. Encuentra tu proyecto [escribiendo en la barra de búsqueda](https://github.com/breatheco-de/knowledge-base/blob/main/images/search-for-repo.png?raw=true).
+4. Haz clic en el nombre de tu repositorio para ir a la página del repositorio.
+5. Una vez en la página de tu repositorio, busca la pestaña de configuración y haz clic en ella.
+6. Una vez dentro de ajustes, desplázate hacia abajo hasta encontrar el botón "hacer público" y haz clic en él.
 
-Note: You may find that the button says "make private" instead, which means your repo was already public and you don't need to do anything in order to make it public.
+> 🔥 Inmediatamente después de graduarte, los proyectos que hayas creado durante el bootcamp serán **programados para borrarse** en 30 días. Debes bifurcarlos en tu cuenta de Github para evitar perderlos.
 
-## 🚫 Avoid deletion of your projects upon graduation
+### Cómo hacer un fork de tus proyectos
 
-> 🔥 Immediately after you graduate, the projects you have created during the bootcamp will be **scheduled to delete** in 30 days. You must fork them into your Github account to avoid losing them.
+Para evitar perder el código de tus proyectos, puedes crear una copia en tu cuenta personal de GitHub, convirtiéndote en el único propietario de esta nueva copia que nadie podrá borrar ni a la que nadie tendrá acceso.
 
-### How to fork your projects
+### Pasos:
 
-To avoid losing your project code, you can create a copy under your personal GitHub account, becoming the sole owner of this new copy that no one will ever delete or have access to.
+1. Accede a tu cuenta de GitHub.
 
-### Steps:
+2. Visita el repositorio que quieres crear (por ejemplo, `https://github.com/4GeeksAcademy/<Tu-Repositorio>`).
 
-1. Log in to your GitHub account.
+> Nota: Debes sustituir `<tu-repositorio>` por el nombre real de tu repositorio.
 
-2. Visit the repository you want to fork (for example, `https://github.com/4GeeksAcademy/<Your-Repository>`).
+3. Haz clic en el botón "Fork" en la esquina superior derecha.
 
-> Note: You should replace `<your-repository>` with the actual name of your repository.
+4. Encuentra tu repositorio bifurcado en `https://github.com/<Tu-Nombre-de-Usuario>/<Tu-Repositorio>`.
 
-3. Click the "Fork" button in the top right corner.
-
-4. Find your forked repository at `https://github.com/<Your-Username>/<Your-Repository>`.
-
-> Note: You should replace `<Your-Username>` and `<your-repository>` with your actual username and repository name.
+> Nota: Debes reemplazar `<Tu-nombre-deusuario>` y `<Tu-repositorio>` con Tu nombre de usuario y nombre de repositorio reales.
