@@ -10,7 +10,7 @@ Once you graduate from one of [4Geeks Academy bootcamps](https://4geeksacademy.c
 - Online platform for lessons, exercises, and projects.
 - LearnPack exercise engine
 
-But, as you will understand after reading this article, we cannot keep giving you access to 4Geeks Academy's Github Organization as a member, which comes with several limitations.
+But, as you will understand after reading this article, we cannot keep giving you access to [4Geeks Academy's Github Organization as a member](https://github.com/4GeeksAcademy), which comes with several limitations.
 
 1. You will lose access to the private projects you created during your bootcamp.
 2. Any project you didn't fork into your personal account will be deleted soon.
@@ -21,11 +21,11 @@ But don't worry, this is entirely fixable.
 
 Github limits the number of repositories an organization can have; we cannot keep copies of every project every student ever made; we will have to delete them at some point. 
 
-We decided to keep students' project for up to 30 days after graduation, which gives you plenty of time to backup all your code because the process takes no more than 2 minutes
+We decided to keep students' projects for up to 30 days after graduation, which gives you plenty of time to backup all your code because the process takes no more than 2 minutes.
 
 ## Start by making your projects public
 
-We understand that you may prefer to keep some projects private. That is a completely valid choice, but it is important that you understand the implications. If you decide to keep your projects as **private repositories**, you will lose access to them once you are no longer a member of the organization.
+We understand that you may prefer to keep some projects private. That is a completely valid choice, but it is important that you understand the implications. If you decide to keep your projects as **private repositories**, you will lose access to them once you are no longer a member of the 4Geeks Academy organization.
 
 > 🔥 We strongly recommend making all your repositories public from day one.
 
@@ -38,7 +38,7 @@ We understand that you may prefer to keep some projects private. That is a compl
 5. Once on your repo page, look for the settings tab and click on it.
 6. Once inside settings, scroll down until you find the "make public" button and click on it.
 
-Note: You may find that the button says "make private" instead, which means your repo was already public and you don't need to do anything in order to make it public.
+Note: You may find that the button says "make private" instead, which means your repo was already public, and you don't need to do anything in order to make it public.
 
 ## 🚫 Avoid deletion of your projects upon graduation
 
