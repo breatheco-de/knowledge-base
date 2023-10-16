@@ -18,10 +18,6 @@ In this paper, we propose a framework that incorporates a series 4 metrics to ma
 
 We define environmental learning efficacy to the effectiveness of an educational institution to provide and environment, syllabus and tools that lead high learning efficacy and eventually to student’s technical proficiency.
 
-$$
-
-$$
-
 ![Learning Efficacy Formula (1).png](https://github.com/breatheco-de/knowledge-base/blob/main/images/learning-efficacy-formula.png?raw=true)
 
 > 📖 A highly efficient learning environment leads to ideal learning outcomes.
