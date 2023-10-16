@@ -10,14 +10,11 @@ By failing to provide a comprehensive and fast paced method to learning technica
 
 What is needed is a holistic approach that addresses both **motivation** and **time efficiency**, and implements a cost-effective solution that scales to thousands of users while remaining accessible to everyone.
 
-In this paper, we propose a framework that incorporates a series 4 metrics to mathematically score environments with higher learning and time efficacy: [Memory Retention](https://www.notion.so/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06?pvs=21), [Feedback Quality](https://www.notion.so/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06?pvs=21), [Learning Mastery](https://www.notion.so/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06?pvs=21) and [Motivation](https://www.notion.so/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06?pvs=21). Our proposed solution leverages cutting-edge technology and minimal human intervention to create a cost-effective approach to education that can be measured in real-time using these 4 metrics.
+In this paper, we propose a framework that incorporates a series 4 metrics to mathematically score environments with higher learning and time efficacy: [Memory Retention](#Memory-Retention), [Feedback Quality](#Feedback-Quality-and-Frequency), [Learning Mastery](#Incremental-Learning-or-Mastery-Learning) and [Motivation](#Motivation). Our proposed solution leverages cutting-edge technology and minimal human intervention to create a cost-effective approach to education that can be measured in real-time using these 4 metrics.
 
 ## Environmental Learning Efficacy
 
-<aside>
-⚠️ Instead of focusing on assessing the student’s learning ability, we focus on assessing the environment’s learning potential.
-
-</aside>
+> ⚠️ Instead of focusing on assessing the student’s learning ability, we focus on assessing the environment’s learning potential.
 
 We define environmental learning efficacy to the effectiveness of an educational institution to provide and environment, syllabus and tools that lead high learning efficacy and eventually to student’s technical proficiency.
 
@@ -25,12 +22,9 @@ $$
 
 $$
 
-![Learning Efficacy Formula (1).png](Mastering%20Technical%20Knowledge%20984d2df394c44aedb05987311ccfcf06/Learning_Efficacy_Formula_(1).png)
+![Learning Efficacy Formula (1).png](https://github.com/breatheco-de/knowledge-base/blob/main/images/learning-efficacy-formula.png?raw=true)
 
-<aside>
-📖 A highly efficient learning environment leads to ideal learning outcomes.
-
-</aside>
+> 📖 A highly efficient learning environment leads to ideal learning outcomes.
 
 ## Memory Retention
 
@@ -43,15 +37,16 @@ $$
 
 After receiving new information, the brain's medial temporal lobe can save that information in memory for a few days or weeks. But, without using methods such as spaced repetition or active recall, your brain cannot store that memory for long due to memory trace decay and interference – a process more commonly known as “forgetting.”
 
-![ebbinghaus-forgetting-curve.jpg](Mastering%20Technical%20Knowledge%20984d2df394c44aedb05987311ccfcf06/ebbinghaus-forgetting-curve.jpg)
+![ebbinghaus-forgetting-curve.jpg](https://github.com/breatheco-de/knowledge-base/blob/main/images/ebbinghaus-forgetting-curve.jpg?raw=true)
 
-[Forgetting Curve²](https://www.notion.so/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06?pvs=21)
+[Forgetting Curve²](#References)
 
-| Irepresents the initial retention rate | How easy was it to understand at first? |
+| Name | Description |
 | --- | --- |
-| S is the “stability factor” | It is influenced by internal factors like cognitive load, prior knowledge, emotional state, and external factors like complexity of materials, format and presentation style, practical applications, etc. |
-| n is how many times during time window | How many times you will repeat and practice the content material during the time window. For example: n=3 will be 3 times over the course of 1 week. |
-| t is the time window, | The time window has to remain consistent, if can be weeks or months, etc. For example: t=1 could mean “over one week”. The bigger the t the faster your memory will decay unless you increase stability and/or repetition. |
+| `I` represents the initial retention rate | How easy was it to understand at first? |
+| `S` is the “stability factor” | It is influenced by internal factors like cognitive load, prior knowledge, emotional state, and external factors like complexity of materials, format and presentation style, practical applications, etc. |
+| `n` is how many times during time window | How many times you will repeat and practice the content material during the time window. For example: n=3 will be 3 times over the course of 1 week. |
+| `t` is the time window, | The time window has to remain consistent, if can be weeks or months, etc. For example: t=1 could mean “over one week”. The bigger the t the faster your memory will decay unless you increase stability and/or repetition. |
 
 In a coding bootcamp where students practice daily with auto-graded exercises and projects but don't have exams, you can apply this formula to strategize the reinforcement of learning.
 
@@ -105,39 +100,33 @@ These are not the only factors, and their impact can be interrelated. For exampl
 
 ### How Active Recall Increases Stability
 
-<aside>
-📖 Active recall refers to reviewing materials in an active and self-directed manner.
-
-</aside>
+> 📖 Active recall refers to reviewing materials in an active and self-directed manner.
 
 Traditional learning materials mainly discourage self-direction.
 
-Students need a high level of self-direction [to achieve higher dopamine levels, confidence and motivation³](https://www.notion.so/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06?pvs=21).
+Students need a high level of self-direction [to achieve higher dopamine levels, confidence and motivation³](#References).
 
 Reducing cognitive load and improving the student's emotional state (very influential factors for stability). 
 
 Also, active recall improves the presentation style of the materials and a more practical hands-on learning path, which also strongly impacts learning stability.
 
-![Active Recall (1).png](Mastering%20Technical%20Knowledge%20984d2df394c44aedb05987311ccfcf06/Active_Recall_(1).png)
+![Active Recall (1).png](https://github.com/breatheco-de/knowledge-base/blob/main/images/active-recall.png?raw=true)
 
-Active learning, which involves engaging students in activities such as group work, problem-solving, and discussion, [can lead to increased motivation and learning efficacy⁴](https://www.notion.so/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06?pvs=21) compared to more passive forms of learning such as lectures.
+Active learning, which involves engaging students in activities such as group work, problem-solving, and discussion, [can lead to increased motivation and learning efficacy⁴](#References) compared to more passive forms of learning such as lectures.
 
 Active recall allows for a form of continuous, self-generated feedback. As learners review material, they gauge their understanding and performance, informing their learning path. This self-feedback loop can be incredibly powerful when paired with external feedback, making each round of external feedback more impactful.
 
 ### Using Spaced Repetition to Increase Memory Retention
 
-<aside>
-📖 Spaced repetition refers to the practice of repeating and recalling information at specific time intervals.
-
-</aside>
+> 📖 Spaced repetition refers to the practice of repeating and recalling information at specific time intervals.
 
 Ideal exercises contain **high frequency** with a very **active** and **self directed** approach.
 
 As a second priority, exercises containing medium frequency but still very self-directed are also recommended.
 
-Lastly, exercises with some degree of social interaction are also encouraged as they [increase dopamine levels**¹**](https://www.notion.so/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06?pvs=21),
+Lastly, exercises with some degree of social interaction are also encouraged as they [increase dopamine levels**¹**](#References),
 
-![Spaced Repetition.png](Mastering%20Technical%20Knowledge%20984d2df394c44aedb05987311ccfcf06/Spaced_Repetition.png)
+![Spaced Repetition.png](https://github.com/breatheco-de/knowledge-base/blob/main/images/spaced-repetition.png?raw=true)
 
 ## Feedback Quality and Frequency
 
@@ -153,10 +142,7 @@ By properly implementing frequent “micro-feedbacks” we can address frequency
 
 ### Micro Feedbacks
 
-<aside>
-🔥 Giving feedback very often achieves personalization, relevance, and frequency at once.
-
-</aside>
+> 🔥 Giving feedback very often achieves personalization, relevance, and frequency at once.
 
 Micro feedbacks are short, immediate responses given to learners to offer quick corrections, affirmations, or tips. Because they are immediate and frequent, they allow for high levels of personalization.
 
@@ -200,10 +186,7 @@ This value would suggest that the combination of clear feedback and frequent int
 
 Mastery learning is fundamentally built on cycles of instruction and feedback, focusing on ensuring that each learner attains a thorough understanding before progressing.
 
-<aside>
-💡 Mastery learning implements frequent assessments, but we have decided to use feedback as a replacement for assessments as it avoids scenarios were students may get discouraged by assessments results.
-
-</aside>
+> 💡 Mastery learning implements frequent assessments, but we have decided to use feedback as a replacement for assessments as it avoids scenarios were students may get discouraged by assessments results.
 
 The concept of "mastery" in the context of mastery learning is generally not defined strictly by the percentage of material retained. Instead, mastery often refers to the ability to apply knowledge or skills consistently, accurately, and independently in relevant contexts. It's about functional competence and deep understanding rather than just retention of information.
 
@@ -213,20 +196,8 @@ In our version of mastery learning, frequent feedback is used to identify areas 
 
 Learner motivation can be defined as the degree of willingness, drive, and interest that an individual has to engage in and persist with learning activities.
 
-![Motivation (1).png](Mastering%20Technical%20Knowledge%20984d2df394c44aedb05987311ccfcf06/Motivation_(1).png)
+![Motivation (1).png](https://github.com/breatheco-de/knowledge-base/blob/main/images/motivation.png?raw=true)
 
-## Biggest problems we need to solve
-
-1. 
-
-## Technical Challenges
-
-1. Store question information and answers: We want to make questions secure so a person that is taking the question cannot use a tool to search for the answer in the contract itself. 
-    1. On-chain: Store question and answer on chain, not sure we can guarantee the answer is not accesible
-    2. Off-chain: Stored off-chain ([IPFS](https://ipfs.io/)) Still needs to be secured, since the question contract itself has the reference to the question data off-chain.
-2. 
-    
-    
 
 ## References
 
