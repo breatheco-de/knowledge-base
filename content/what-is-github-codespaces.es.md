@@ -48,7 +48,7 @@ Con los codespaces, tu código todavía se guardará en Github (usando git), per
 
 ![Flujo de Trabajo con GitHub Codespaces](https://github.com/breatheco-de/knowledge-base/blob/main/images/codespaces.png?raw=true)
 
-## Cómo abrir un GitHub Codespace
+## ¿Cómo abrir un GitHub Codespace?
 
 Sigamos el proceso exactamente como lo haría un desarrollador de software real. Por ejemplo:
 
