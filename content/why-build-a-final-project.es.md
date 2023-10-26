@@ -62,7 +62,13 @@ Sin embargo, ya debes saber que la vida real es diferente.
 Tener problemas y contratiempos durante el proyecto final es bueno, te permite entrenarte en como resolver y prevenir esos problemas.
 Los empleadores valoran este tipo de conocimientos por encima de cualquier otro.
 
-### Empieza tu projecto, ¡Y hazlo en publico 💬 👨‍👩‍👧‍👦!
+## Pide ayuda y feedback
+
+Sin ánimos de ser repetitivos, te imploramos que utilices todos los mecanismos disponibles en 4Geeks para obtener feedback y ayuda.
+[Obtener feedback frequentemente](https://4geeks.com/mastering-technical-knowledge#feedback-quality-and-frequency) es como 4Geeks te garantiza que puedas tener un aprendizaje auto-determinado.
+Los [micro-feedbacks](https://4geeks.com/mastering-technical-knowledge#micro-feedbacks) incrementaran tu aprendizaje dramaticamente.
+
+## Empieza tu projecto, ¡Y hazlo en publico 💬 👨‍👩‍👧‍👦!
 
 Ya hemos discutido anteriormente [porqué es tan importante aprender en público](https://4geeks.com/es/lesson/learn-in-public-es#por-qu-es-esto-tan-importante).
 Comparte tu proyecto en línea para que más personas lo vean. Muestra tu compromiso y tus habilidades a lo largo de todo el proyecto.
