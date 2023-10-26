@@ -2,10 +2,12 @@
 
 En este artículo vamos a explicarte por qué los "Capstone Projects" en nuestros bootcamps son tan importantes.
 
-Para empezar, podemos definirlos como proyectos integrales y de gran magnitud que permiten a los estudiantes aplicar y demostrar todas las habilidades y conocimientos que han adquirido durante el curso. Estos proyectos son como la cereza del pastel al finalizar el bootcamp. 
+Para empezar, podemos definirlos como proyectos integrales y de gran magnitud que permiten a los estudiantes aplicar y demostrar todas las habilidades y conocimientos que han adquirido durante el curso. Estos proyectos son como 🍒 la cereza 🍰 del pastel al finalizar el bootcamp. 
 
-Imagina que la educación es como aprender a andar en bicicleta. Muchas veces, solo leyendo un manual no es suficiente. Necesitas practicar en una bicicleta real para realmente aprender.
-Lo mismo ocurre en nuestros bootcamps. No solo te damos teoría, sino que también te hacemos trabajar en proyectos reales. Aquí está la razón: cuando trabajas en un proyecto, recuerdas mejor lo que has aprendido. También, recibir retroalimentación constante y estar motivado es clave para aprender bien.
+Imagina que la educación es como aprender a andar en 🚴🏿‍♀️ bicicleta. Muchas veces, solo leyendo un manual no es suficiente. Necesitas practicar en una bicicleta real para realmente aprender.
+Lo mismo ocurre en nuestros bootcamps. Por eso te hacemos trabajar en proyectos reales. 
+
+> 🔥 Cuando trabajas en un proyecto, recuerdas mejor lo que has aprendido. También, recibir retroalimentación constante y estar motivado es clave para aprender bien.
 
 Después de muchos estudios llegamos a 4 métricas que abarcan los factores mas influyentes para tener el ambiente de [aprendizaje más efectivo](https://4geeksacademy.notion.site/4geeksacademy/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06). Dichas métricas son: **Retención de la Memoria** 🧠, **Calidad de Retroalimentación** 🗣️, **Dominio del Aprendizaje** 💡 y **Motivación** 💪. Todo esto se refleja en los "Capstone Projects" que haces. Te ayudan a aplicar lo que has aprendido, recibir retroalimentación útil y mantenerte motivado. Así, no solo aprendes, ¡sino que te conviertes en un verdadero profesional!
 
