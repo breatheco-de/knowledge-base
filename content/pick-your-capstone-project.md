@@ -1,51 +1,94 @@
-# ¿Qué son los Capstone Projects?
+# ¿Cómo elegir un proyecto final?
 
-En este artículo vamos a explicarte por qué los "Capstone Projects" en nuestros bootcamps son tan importantes.
+Probablemente estas aquí porque estas por empezar a construir tu proyecto final, ¡Qué emoción!
 
-Para empezar, podemos definirlos como proyectos integrales y de gran magnitud que permiten a los estudiantes aplicar y demostrar todas las habilidades y conocimientos que han adquirido durante el curso. Estos proyectos son como 🍒 la cereza 🍰 del pastel al finalizar el bootcamp. 
+> 👓 Si todavia no estas claro de [porque el proyecto final es tan importante](https://4geeks.com/es/lesson/porque-construir-un-proyecto-final), te recomendamos leer este otro artículo.
 
-Imagina que la educación es como aprender a andar en 🚴🏿‍♀️ bicicleta. Muchas veces, solo leyendo un manual no es suficiente. Necesitas practicar en una bicicleta real para realmente aprender.
-Lo mismo ocurre en nuestros bootcamps. Por eso te hacemos trabajar en proyectos reales. 
+Para ayudarte mejor a elegir, debes saber que tu proyecto final es un esfuerzo que integra y utiliza todas las habilidades y conocimientos que se han impartido durante el curso. 🍒 La cereza 🍰 del pastel al finalizar el bootcamp. 
+El proyecto capstone es un simulacro de un proyecto de la vida real, probablemente tu experiencia al desarrollarlo será similar a tu trabajo dentro de una empresa en el futuro.
 
-> 🔥 Cuando trabajas en un proyecto, recuerdas mejor lo que has aprendido. También, recibir retroalimentación constante y estar motivado es clave para aprender bien.
+Antes de hablarte de los requisitos del proyecto consideramos mas importante dejarte saber como evitar fracazar y garantizar que entregues a tiempo.
 
-Después de muchos estudios llegamos a 4 métricas que abarcan los factores mas influyentes para tener el ambiente de [aprendizaje más efectivo](https://4geeksacademy.notion.site/4geeksacademy/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06). Dichas métricas son: **Retención de la Memoria** 🧠, **Calidad de Retroalimentación** 🗣️, **Dominio del Aprendizaje** 💡 y **Motivación** 💪. Todo esto se refleja en los "Capstone Projects" que haces. Te ayudan a aplicar lo que has aprendido, recibir retroalimentación útil y mantenerte motivado. Así, no solo aprendes, ¡sino que te conviertes en un verdadero profesional!
+## ¿Razones que hacen a un proyecto de Full-Stack fracazar?
 
-## Puntos claves de los Capstone Projects
+Si estudias datascience salta a la proxima sección. Luego de 8 años viendo proyectos finales ser exitosos o fracasar, hemos compilado la siguiente lista de sugerencias:
 
-¡Los Capstone Projects son tu gran oportunidad para lucir y demostrar tus habilidades como programador! Como estudiante, lo principal es elegir un proyecto que te entusiasme. Concentra tus esfuerzos en resolver un problema real que te interese y pon metas claras desde el inicio.
+### No agregar demasiadas funionalidades
 
-El objetivo principal es crear algo que cause una impresión positiva en los posibles empleadores, destacándote entre los candidatos. Habla con tu equipo y mentores, mantén una buena comunicación, y asegúrate de cumplir los requisitos y hacer pruebas para que tu proyecto funcione sin problemas. Si manejas datos, aprende a presentarlos de manera visual para que todos puedan entenderlos fácilmente.
+El error mas común de un estudiante es pensar que la calidad de tu proyecto final esta determinada por el numero de funcionalidades que tiene. Nada puede ser mas falso, ¡¡Es todo lo contrario!! Mientras mas funcionalidades tengas peor sera la calidad de tu proyecto. Todas los grandes productos tienen solo unas pocas funcionalidades.
 
-Sé puntual con tus entregas y prepárate para una presentación que impacte. Si puedes, comparte tu proyecto en línea para que más personas lo vean. En resumen, muestra tu compromiso y tus habilidades a lo largo de todo el proyecto. ¡Tú puedes!
+- ¿Que hace netflix? Es proyecto de billones de dolares donde puedes encontrar una pelicula y reproducirla.
+- ¿Que hace uber? Pides un taxi.
+- ¿Que hacer instagram? Tiene un wall con todas las publicaciones de las personas que sigues.
 
-## Requisitos de los capstone projects
+¿Que vas a hacer tu? Elije una sola cosa que quieras hacer bien, luego te darás cuenta de que te va a tomar mucho trabajo cumplir esa funcionalidad al 100%. Recuerda que después de todo el proyecto más básico ya debe contar con autenticacion, integracion con API de terceros, signup, login, etc.
 
-- **Mantener el proyecto manejable**: Asegúrate de que el proyecto sea lo suficientemente realizable en el tiempo establecido, evitando que sea demasiado ambicioso.
+### No hagas otra red social
 
-- **Evitar la mala gestión de requisitos**: La gestión de los requisitos es clave; el 70% de los proyectos fallan debido a una mala gestión de lo que se necesita lograr.
+Para impresionar a un empleador es mejor realizar proyectos novedosos, no te dejes asustar, si es posible hacer proyectos novedosos que tengan un nivel de dificultad técnica relativamente bajo. 
 
-- **Consultar con tu mentor**: Apóyate con tu mentor para eliminar requisitos innecesarios y garantizar que el proyecto sea viable en el plazo estipulado.
+> 🔥 **Inspirarte en proyectos anteriores**: [Revisa esta lista](https://4geeksacademy.com/us/students-and-projects) para obtener ideas e inspiración sobre cómo hacer que tu proyecto sea asombroso.
 
-- **Cumplir con las solicitudes específicas**: Asegúrate de seguir todas las solicitudes del proyecto, como integraciones con terceros o el uso de tecnologías específicas.
+Hoy en día existen demasiadas API, paquetes y herramientas que te facilitan el trabajo. Por ejemplo:
 
-- **Inspirarte en proyectos anteriores**: Observa proyectos anteriores para obtener ideas e inspiración sobre cómo hacer que tu proyecto sea asombroso.
+- Puedes conectarte a la red de Etherium y construir tu propia moneda en blockchain o lanzar un NFT en pocas horas.
+- Puedes enviar y recibir SMS en python con 20 lineas de codigo.
+- Puedes utilizar un lector de codigo QR en un par de horas.
+- Puedes programar un drone para que vuele como tu codigo diga en unas pocas horas.
+- Puedes user un Raspberry PI con muy poco esfuerzo y tener acceso a sensores de temperatura, campo magnetico, etc.
 
-- **Desplegar el proyecto en línea**: Hacer que tu proyecto esté disponible en línea y proporcionar un enlace para que puedas incluirlo en tu currículum vitae como una muestra de tu trabajo.
+Debes tener mucho feedback de tus mentores para asegurarte de elegir un projecto novedoso pero que puedas realizar.
 
-## Indicaciones dependiendo del Bootcamp
+## ¿Razones que hacen a un proyecto de Data Science y Machine Learning?
 
-### Para Full-Stack: 
+Si estudias Full Stack Development salta a la próxima sección. Hemos compilado la siguiente lista de preguntas para ayudarte a elegir un buen projecto:
+
+### ¿Con que dataset cuentas? 
+
+La major razon por la que fracasa un proyecto de prediccion es la baja calidad o falta de datos. Te recomendamos revisar [Kaggle](https://www.kaggle.com/datasets) o [HuggingFace](https://huggingface.co/) para encontrar datasets interesantes. Tambien puedes preguntar a nuestros mentores por datasets que sean conocidos y puedan ayudarte. 
+
+Tambien es muy recomendado tener los datos de una empresa en la que trabajes o que esten dispuestos a entregarte los datos, esto seria muy beneficioso para tu perfil ya que contarias con un dataset de la vida real y un caso de prediccion de la vida real en tu hoja de vida / currículum.
+
+### Overfitting or Underfitting
+
+Engenieria de Ingeniería de características o "Feature Engineering" es una de las practicas mas difíciles, antes de elegir un dataset, discute con tu profesor los retos que puede con llevar utilizarlo.
+
+### Capacidad de procesamiento
+
+Dado que estamos en un ambiente educativo, tus recursos de procesamiento seran limitados, si eliges datasets grandes tendras que esperar horas y hasta dias antes de obtener algún resultado útil. Y esto te ocurrirá en reiteradas oportunidades. Te recomendamos validar el tamaño de tu dataset y otras posbiles consideraciones de procesamiento con tus mentores.
+
+## Requisitos generales de los capstone projects
+
+Dependiendo del programa que cursando vas a encontrar diferentes requisitos, pero, en general, todos los proyectos finales deben:
+
+- **Ser desplegados en línea**: Ya sea heroku.com, render.com, Vercel, Azure, AWS, etc. Debes hacer que tu proyecto quede disponible en línea bajo algun URL y proporcionar un enlace para que puedas incluirlo en tu currículum vitae como una muestra de tu trabajo.
+- **Ser realizados en grupos de 2 a 3 (recomendado) personas**: Si trabajas solo dejaras de aprender como trabajar de forma colaborativa, que es uno de los requisitos más importantes de las empresas. Tampoco seran necesarias muchas de las mejores practicas. En fín, tu experiencia no sera parecida a la vida real.
+
+> 🔥 Es importante trabajar en concenver a tus compañeros de unirse a tu proyecto, despues de todo los proyectos son en grupo y no todas las ideas se van a realizar, algunos alumnos deberan desistir de su ideal para unirse al equipo de un compañero.
+
+- **Ser subido a 4Geeks.com**: Cuando entres al dashboard de tu cohort, encontraras una seccion para subir la información de tu proyecto final.
+- **Ser presentado en un GeekTalk**: La presentacion final es un paso necesario, te permitirá contar con un video de tu proyecto, ademas te obligara a fijar una fecha de entrega y trabajar bajo presión. A veces invitamos potenciales empleadores a los GeekTalk que estan buscando talento para contratar.
+
+## Requisitos especificos según el programa:
+
+### Para Full-Stack Development: 
 
 > Nota: Solo leer esto si haces un bootcamp de full-stack o desarrollo web.
 
-- Alguien debe estar encargado de que las cosas se vean bien.
-- Intentar que el project no tenga muchas vistas ni funcionalidades, piensa bien: ¿Cuantas funcionalidades tiene netflix? o instagram? El corde de funcionalidades es pequeño.
+- Alguien debe estar encargado de que las cosas se vean bien en el proyecto, un especialista en CSS, Bootstrap y React.
+- Deberas contar con al menos 3 rutas, utilizar el Context API, los conceptos detrás de Flux para Modelo, Vista y Action.
+- Integrate con alguna API de un tercero.
+- Tener un sistema de autenticación con JWT o similar.
+- Intentar que el proyecto no tenga muchas vistas ni funcionalidades, piensa bien: ¿Cuantas funcionalidades tiene netflix? o instagram? El corde de funcionalidades es pequeño.
+
+> 🔥 Entra aqui para ver una lista de los [requerimientos del proyecto final Full-Stack](https://4geeks.com/interactive-coding-tutorial/full-stack-project-stories-and-wireframes).
 
 ### Para Data-Science: 
 
-> Nota: Solo leer esto si haces un bootcamp de data-science, machine learning o AI.
+> Nota: Solo leer esto si haces un bootcamp de data-science, Machine Learning / AI.
 
 - Lo mas importante es escoger el dataset ¿Con qué data cuentas?
 - Para asombar en datascience es bueno implementar predicciones en la salud (Ejemplo: detectar neumonia), en finanzas (detectar fraude, morosidad, etc), etc.
-- Predecir cosas de la vida real.
+- Deberas realizar predicciones con data de la vida real.
+
+> 🔥 Entra aqui para ver una lista de los [requerimientos del proyecto final Full-Stack](https://4geeks.com/interactive-coding-tutorial/machine-learning-final-project).
