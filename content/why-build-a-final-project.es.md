@@ -1,6 +1,6 @@
 # ¿Porqué construir un proyecto final?
 
-En este artículo vamos a explicarte por qué los "Capstone Projects" en nuestros bootcamps son tan importantes, haz clic aquí si [buscando como elegir o empezar tu proyecto](https://4geeks.com/lesson/pick-your-capstone-project). 
+En este artículo vamos a explicarte por qué los "Capstone Projects" en nuestros bootcamps son tan importantes, haz clic aquí si [buscando como elegir o empezar tu proyecto](https://4geeks.com/lesson/pick-your-capstone-project), tambien puedes revisar aqui los [proyectos anteriores que los alumnos han realizado](https://4geeksacademy.com/es/alumnos-y-proyectos?lang=es).
 
 Son varias razones que tienen sentido cuando [entiendes nuestro framework de enseñanza](https://4geeks.com/mastering-technical-knowledge). El beneficio principal es estabilizar tu memoria, pero muchos otros importantes como la motivacion, aprender a colaborar, etc.
 
