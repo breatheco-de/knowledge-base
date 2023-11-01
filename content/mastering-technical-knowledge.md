@@ -29,7 +29,6 @@ R(t) = I \times e^{-\frac{t}{S \times n}}
 $$
 
 > *The more time it passes without practice, the less your brain will retain.*
-> 
 
 After receiving new information, the brain's medial temporal lobe can save that information in memory for a few days or weeks. But, without using methods such as spaced repetition or active recall, your brain cannot store that memory for long due to memory trace decay and interference – a process more commonly known as “forgetting.”
 
@@ -122,7 +121,7 @@ As a second priority, exercises containing medium frequency but still very self-
 
 Lastly, exercises with some degree of social interaction are also encouraged as they [increase dopamine levels**¹**](#References),
 
-![Spaced Repetition.png](https://github.com/breatheco-de/knowledge-base/blob/main/images/spaced-repetition.png?raw=true)
+![Spaced Repetition](https://github.com/breatheco-de/knowledge-base/blob/main/images/spaced-repetition.png?raw=true)
 
 ## Feedback Quality and Frequency
 
@@ -146,7 +145,6 @@ If the implementation of micro-feedbacks **ensures a consistent level of high pe
 
 > *With micro-feedbacks, giving relevan and personalized feedback is not longer a concern. 
 Its a given.*
-> 
 
 The real-time nature of micro-feedback allows for a granular focus on individual tasks or lines of code, **making it highly relevant** to what the student is working on at any given moment. It can guide the learner toward best practices and correct misunderstandings or mistakes that might otherwise propagate into larger issues.
 
