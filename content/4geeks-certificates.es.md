@@ -116,3 +116,5 @@ Por último, queremos mostrarte algunos beneficios que te ofrece nuestro plan pr
 | Interacción con Inteligencia Artificial | Próximamente                    | Próximamente                         |
 | Certificados de Cursos          | No                                       | Sí                                     |
 | Acceso ilimitado a la comunidad  | No                                       | Sí (eventos, colaboraciones, Slack)  |
+
+Para más información acerca de las modalidades y precios has [clic aquí](https://4geeks.com/pricing)
