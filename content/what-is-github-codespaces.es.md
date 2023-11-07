@@ -50,6 +50,8 @@ Con los codespaces, tu código todavía se guardará en Github (usando git), per
 
 ## ¿Cómo abrir un GitHub Codespace?
 
+**Nota: este ejemplo es con fines educativos sobre como se trabaja en el ámbito profesional, cada proyecto que realizaremos tendrán sus instrucciones en el archivo Readme.es.md, lee con atención sobre como inicializarlos**
+
 Sigamos el proceso exactamente como lo haría un desarrollador de software real. Por ejemplo:
 
 **_María_** es contratada como desarrolladora para unirse a un proyecto en curso; durante el primer día de trabajo, necesita obtener acceso al código, por lo que le pide al líder del proyecto la URL del proyecto dentro de github.com.
