@@ -47,10 +47,9 @@ Nuestro compromiso con la actualización constante se traduce en la creación de
 
 | Certificado                          | Descripción                                           | Importancia                                                                                              |
 |-------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| Desarrollo Web Full Stack            | Validación de habilidades en frontend y backend de aplicaciones web. | Los desarrolladores full stack son altamente demandados y pueden trabajar en todos los aspectos de una aplicación web.           |
-| Desarrollo Frontend                  | Habilidades en la creación de interfaces de usuario atractivas y funcionales. | Importante para diseñar la experiencia del usuario y la apariencia de un sitio web.                          |
-| Desarrollo Backend                   | Habilidades en el desarrollo del lado del servidor y la gestión de bases de datos. | Esencial para el funcionamiento de servidores y bases de datos en aplicaciones web.                      |
-| Desarrollo de Aplicaciones Móviles   | Creación de aplicaciones móviles para plataformas como Android e iOS. | Con el aumento de las aplicaciones móviles, los desarrolladores de aplicaciones móviles son muy solicitados.          |
+| Desarrollo Web Full Stack            | Validación de habilidades en front-end y back-end de aplicaciones web. | Los desarrolladores full stack son altamente demandados y pueden trabajar en todos los aspectos de una aplicación web.           |
+| Desarrollo Front-end                  | Habilidades en la creación de interfaces de usuario atractivas y funcionales. | Importante para diseñar la experiencia del usuario y la apariencia de un sitio web.                          |
+| Desarrollo Back-end                   | Habilidades en el desarrollo del lado del servidor y la gestión de bases de datos. | Esencial para el funcionamiento de servidores y bases de datos en aplicaciones web.                      |
 | Ciencia de Datos                     | Habilidades en análisis de datos e inteligencia artificial. | La ciencia de datos es fundamental en la toma de decisiones basadas en datos y en la automatización de procesos.  |                   |
 | Seguridad Cibernética                | Habilidades en la protección de sistemas y datos contra amenazas cibernéticas. | Con el aumento de las amenazas cibernéticas, la seguridad cibernética es crítica para proteger la información. |
 | Programación en Python               | Habilidades de programación en Python. | Python es ampliamente utilizado en la ciencia de datos, desarrollo web y más, lo que lo hace valioso en múltiples campos. |
@@ -102,19 +101,19 @@ Una vez obtenidos los certificados, la clave está en saber cómo aprovechar al 
 
 > ⚠️ Asegúrate de que toda la información que incluyas en tu currículum sea precisa y verificable. Los empleadores pueden solicitar referencias o evidencia de tus certificados, por lo que es importante ser honesto acerca de tus logros.
 
-## 4Geeks Premium
+## 4Geeks con Feedback
 
-Por último, queremos mostrarte algunos beneficios que te ofrece nuestro plan premium para sacarle el máximo provecho a tu experiencia en 4Geeks.
+Por último, queremos mostrarte algunos beneficios que te ofrece nuestro plan con Feedback para sacarle el máximo provecho a tu experiencia en 4Geeks.
 
-| Característica                  | Plan Gratuito                            | Plan 4Geeks Premium                    |
+| Característica                  | Plan básico                            | Plan con Feedback                    |
 |---------------------------------|-----------------------------------------|---------------------------------------|
 | Costo                           | $0                                       | $49.99/mes                            |
 | Acceso a todo el contenido      | Sí                                       | Sí                                     |
-| Mentorías de expertos           | No                                       | 1 a 1 y grupal, expertos y retroalimentación |
+| Mentorías de expertos           | No                                       | 1 a 1 y grupal, con expertos y retroalimentación |
 | Talleres de Aprendizaje en Vivo  | 1 taller                                | 10 talleres mensuales                 |
 | Aprendizaje a tu ritmo           | Sí                                       | Sí                                     |
 | Interacción con Inteligencia Artificial | Próximamente                    | Próximamente                         |
 | Certificados de Cursos          | No                                       | Sí                                     |
 | Acceso ilimitado a la comunidad  | No                                       | Sí (eventos, colaboraciones, Slack)  |
 
-Para más información acerca de las modalidades y precios has [clic aquí](https://4geeks.com/pricing)
+Para más información acerca de las modalidades y precios haz [clic aquí](https://4geeks.com/es/pricing)
