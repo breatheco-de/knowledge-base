@@ -29,13 +29,9 @@ Los certificados de 4Geeks.com son altamente valorados y reconocidos en la indus
 
 - ✅ Calidad de la Formación: Nuestros certificados se basan en la calidad de la formación proporcionada. Los estudiantes reciben una retroalimentación constante y precisa a lo largo de sus cursos, lo que asegura que realmente dominen las habilidades técnicas.
 
-- ✅ Aval del Departamento de Educación de Florida: Algunos de nuestros certificados cuentan con el aval del Departamento de Educación de Florida, lo que agrega un nivel adicional de autenticidad y valor a las credenciales.
-
 - ✅ Reconocimiento de la Comunidad Tecnológica: Como Academia hemos establecido una sólida reputación en la comunidad tecnológica. Los empleadores confían en nuestros certificados debido a la calidad de nuestros graduados.
 
 Los certificados de 4Geeks.com son una forma efectiva de validar las habilidades adquiridas y mejorar la empleabilidad de los estudiantes en la industria tecnológica. La combinación de la calidad de la formación, el aval gubernamental y el reconocimiento de la comunidad tecnológica los convierte en valiosas credenciales para avanzar en sus carreras.
-
-> Si deseas leer más acerca de los reconocimientos de nuestra comunidad de programación [haz clic aquí](https://4geeksacademy.com/es/premios?lang=es).
 
 ## Certificados que ofrecemos
 
