@@ -38,7 +38,7 @@ Entendemos que prefieras mantener algunos proyectos en privado. Es una opción c
 5. Una vez en la página de tu repositorio, busca la pestaña de configuración y haz clic en ella.
 6. Una vez dentro de ajustes, desplázate hacia abajo hasta encontrar el botón "hacer público" y haz clic en él.
 
-> 🔥 Inmediatamente después de graduarte, los proyectos que hayas creado durante el bootcamp serán **programados para borrarse** en 30 días. Debes bifurcarlos en tu cuenta de Github para evitar perderlos.
+> 🔥🔥🔥 Inmediatamente después de graduarte, los proyectos que hayas creado durante el bootcamp serán **programados para borrarse** en 30 días. Debes bifurcarlos en tu cuenta de Github para evitar perderlos.
 
 ### Cómo hacer un fork de tus proyectos
 
