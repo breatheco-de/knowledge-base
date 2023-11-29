@@ -36,7 +36,7 @@ Por último, te recomendamos que leas nuestros [Términos y condiciones](https:/
 
 ## 📞 Soporte y Asistencia:
 
-Si tienes alguna pregunta o problema relacionado con tu cuenta, no dudes en ponerte en contacto con nosotros en nuestro [canal de Slack](https://4geeksacademy.slack.com/) o por correo electrónico a: support_email:support@4geeks.com.
+Si tienes alguna pregunta o problema relacionado con tu cuenta, no dudes en ponerte en contacto con nosotros en nuestro [canal de Slack](https://4geeksacademy.slack.com/) o por correo electrónico a: support_email: info@4geeks.com.
 
 ### ¡Eso es todo!
 
