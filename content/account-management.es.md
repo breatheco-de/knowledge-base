@@ -16,7 +16,7 @@ Además, una vez que entres en la configuración de tu perfil, verás a la izqui
 
 ¡Familiarízate con el dashboard! El dashboard es tu centro de control. Proporciona una visión general de su cuenta.
 
-Allí se mostrarán todos los **programas activos** disponibles que tengas. Cada programa se muestra claramente, lo que te permite acceder rápidamente a la información que necesites. Puedes navegar fácilmente por el panel de control para explorar los detalles del programa, como la cantidad de curso que has realizado hasta el momento, y realizar un seguimiento de cuántas pruebas, lecciones, proyectos y ejercicios has completado.
+Allí se mostrarán todos los **programas activos** disponibles que tengas. Cada programa se muestra claramente, lo que te permite acceder rápidamente a la información que necesites. Puedes navegar fácilmente por el dashboard para explorar los detalles del programa, como la cantidad de curso que has realizado hasta el momento, y realizar un seguimiento de cuántas pruebas, lecciones, proyectos y ejercicios has completado.
 
 ![dashboard](https://breathecode.herokuapp.com/v1/media/file/dasboard-png?raw=true)
 
@@ -32,7 +32,7 @@ Para garantizar la privacidad y seguridad de tu cuenta en 4Geeks.com, aquí tien
 - Incluye en tu contraseña una combinación de letras mayúsculas y minúsculas, números y caracteres especiales.
 - Como medida opcional, puede cambiar su contraseña con regularidad para minimizar el riesgo de acceso no autorizado.
 
-Por último, te recomendamos que leas nuestros [Términos y condiciones](https://4geeks.com/terms-and-conditions). Allí podrás conocer cómo manejamos tu información personal y cómo garantizamos la seguridad de cada estudiante.
+Por último, te recomendamos que leas nuestros [Términos y condiciones](https://4geeks.com/es/terms-and-conditions). Allí podrás conocer cómo manejamos tu información personal y cómo garantizamos la seguridad de cada estudiante.
 
 ## 📞 Soporte y Asistencia:
 
