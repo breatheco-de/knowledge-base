@@ -1,8 +1,8 @@
-# Manejo de cuentas
+# Manejo de Cuentas
 
 Si estás leyendo, es porque has decidido unirte a nuestra comunidad de geek's. Estamos encantados de tenerte a bordo. Para asegurarnos de que tengas una experiencia completa, estamos aquí para guiarte en la gestión de tu cuenta 4Geeks. En este artículo, te mostraremos a través de todos los pasos y funciones importantes que te ayudarán a navegar por tu viaje de programación como un profesional 😎. Así que, ¡empecemos y saquémosle el máximo provecho!
 
-> *Antes de empezar, si aún no has creado una cuenta, puedes leer el artículo [Empezando con 4Geeks](https://github.com/breatheco-de/knowledge-base/blob/main/content/empezando-con-4geeks.md); aquí te explicamos paso a paso cómo crearla ;)*
+> *Antes de empezar, si aún no has creado una cuenta, puedes leer el artículo [Empezando con 4Geeks](https://4geeks.com/es/docs/knowledge-base-4geeks/empezando-con-4geeks); aquí te explicamos paso a paso cómo crearla ;)*
 
 ## ⚙️ Configuración de la cuenta:
 
