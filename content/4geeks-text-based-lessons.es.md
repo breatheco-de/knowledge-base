@@ -20,6 +20,6 @@ Además, es importante que sepas que puedes encontrar todas nuestras lecciones d
 
 ![Lecciones basadas en texto](https://breathecode.herokuapp.com/v1/media/file/buscar-lecciones-png?raw=true)
 
-> *Para saber más sobre todo a lo que puedes acceder desde el panel de control [haz clic aquí](https://github.com/breatheco-de/knowledge-base/blob/main/content/account-management.es.md)* ;)
+> *Para saber más sobre todo a lo que puedes acceder desde el panel de control [haz clic aquí](4geeks.com/es/docs/knowledge-base-4geeks/manejo-de-cuentas)* ;)
 
 Nuestro principal objetivo es hacer que aprender sea entretenido y sencillo para ti. Tanto si estás en nuestros **Bootcamps** como si participas en **Cursos**, tenemos estas lecciones preparadas para ti. Proporcionan información esencial para ayudarte a empezar y seguir progresando sin problemas con tus prácticas. Tanto si eres un principiante como un programador experimentado, nuestras lecciones basadas en texto están aquí para ayudarte a tener éxito.
