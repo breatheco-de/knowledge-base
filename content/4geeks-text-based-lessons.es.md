@@ -6,7 +6,7 @@ Internet nos ofrece tanta información que a veces resulta difícil saber qué e
 
 Nuestras lecciones funcionan así: cada nuevo tema que estás aprendiendo se resume de forma clara. Tendrás la información más importante y precisa sobre lo que estás estudiando. Estas lecciones son cortas y van al grano, así que puede que no tengan todos los detalles. Pero no se preocupe. A menudo incluimos enlaces en las lecciones. Estos enlaces te llevan a otros artículos o páginas web con más información que nuestros profesores ya han aprobado. De este modo, podrás obtener más contenido valioso y fácil de entender siempre que lo necesites.
 
-Queremos ofrecerte una fuente de información fiable para que puedas aprender de forma más eficaz. Todo empieza por lo básico: si entendemos las ideas fundamentales, construimos una base sólida. En programación, tener los conceptos claros es vital porque las cosas cambian. Queremos ayudarte a desarrollar las habilidades necesarias para utilizar estos conceptos de forma flexible en diversas tareas. Se trata de ser capaz de adaptar tus conocimientos para resolver distintos retos.
+Queremos ofrecerte una fuente de información fiable para que puedas aprender de forma más eficaz. Todo empieza por lo básico: si entendemos las ideas fundamentales, construimos una base sólida. Queremos ayudarte a desarrollar las habilidades necesarias para utilizar estos conceptos de forma flexible en diversas tareas. Se trata de ser capaz de adaptar tus conocimientos para resolver distintos retos.
 
 ![4geeks](https://breathecode.herokuapp.com/v1/media/file/online-lessons-png?raw=true)
 
@@ -20,6 +20,6 @@ Además, es importante que sepas que puedes encontrar todas nuestras lecciones d
 
 ![Lecciones basadas en texto](https://breathecode.herokuapp.com/v1/media/file/buscar-lecciones-png?raw=true)
 
-> *Para saber más sobre todo a lo que puedes acceder desde el panel de control [haz clic aquí](4geeks.com/es/docs/knowledge-base-4geeks/manejo-de-cuentas)* ;)
+> *Para saber más sobre todo a lo que puedes acceder desde el panel de control [haz clic aquí](https://4geeks.com/es/docs/knowledge-base-4geeks/manejo-de-cuentas)* ;)
 
 Nuestro principal objetivo es hacer que aprender sea entretenido y sencillo para ti. Tanto si estás en nuestros **Bootcamps** como si participas en **Cursos**, tenemos estas lecciones preparadas para ti. Proporcionan información esencial para ayudarte a empezar y seguir progresando sin problemas con tus prácticas. Tanto si eres un principiante como un programador experimentado, nuestras lecciones basadas en texto están aquí para ayudarte a tener éxito.
