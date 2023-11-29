@@ -2,7 +2,7 @@
 
 Nuestros cursos siguen una estructura bien organizada que combina lecciones interactivas, proyectos prácticos y asistencia personalizada. No importa si eres principiante o si ya tienes algunos conocimientos en la materia. Te aseguramos que lo haremos lo más sencillo y entretenido posible. En este artículo explicaremos brevemente cómo funciona nuestro sistema.
 
-Tanto si eliges uno de nuestros bootcamps o cursos cortos, hemos trabajado basándonos en nuestra ***[fórmula especial](https://github.com/Lorenagubaira/knowledge-base/blob/main/content/mastering-technical-knowledge.es.md)*** para garantizar una curva de aprendizaje exponencial 📈. Verás que será entretenido, ¡y aprenderás cosas todo el tiempo sin darte cuenta!
+Tanto si eliges uno de nuestros bootcamps o cursos cortos, hemos trabajado basándonos en nuestra ***[fórmula especial](https://4geeks.com/es/mastering-technical-knowledge)*** para garantizar una curva de aprendizaje exponencial 📈. Verás que será entretenido, ¡y aprenderás cosas todo el tiempo sin darte cuenta!
 
 Así que, vamos a mostrarte lo que encontrarás a lo largo de este viaje 😎
 
