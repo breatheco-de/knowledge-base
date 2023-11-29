@@ -4,7 +4,7 @@ En esta ocasión, no queremos empezar el artículo contando toda nuestra histori
 
 Desde el principio, nuestra misión en [4Geeks](https://4geeks.com/es/sobre-nosotros) ha sido causar un impacto positivo cambiando los métodos de enseñanza tradicionales. Hicimos nuestros deberes y llegamos a la conclusión de que el sistema educativo tradicional ya no servía. No ofrecía a los estudiantes la experiencia práctica, las aplicaciones de la vida real y la motivación que necesitaban para prosperar. Fue entonces cuando supimos que había llegado el momento de cambiar.
 
-Creemos firmemente que el aprendizaje debe ser divertido, práctico y motivador. Por eso hemos ideado una forma especial de enseñar que combina los mejores aspectos de la educación. Nuestra ***[fórmula especial](https://github.com/breatheco-de/knowledge-base/blob/main/content/mastering-technical-knowledge.es.md)*** es un marco científico que se centra en la **Retención de la memoria** 🧠, la **Calidad de la retroalimentación** 🗣️, el **Dominio del aprendizaje** 💡 y la **Motivación** 💪. Con este enfoque, nos aseguramos de que obtendrás una experiencia de aprendizaje completa y eficaz. Hemos trabajado con expertos y estudiado cómo crear un entorno, un plan de estudios y unas herramientas que potencien la eficacia del aprendizaje y te ayuden a dominar tus habilidades técnicas.
+Creemos firmemente que el aprendizaje debe ser divertido, práctico y motivador. Por eso hemos ideado una forma especial de enseñar que combina los mejores aspectos de la educación. Nuestra ***[fórmula especial](https://4geeks.com/es/mastering-technical-knowledge)*** es un marco científico que se centra en la **Retención de la memoria** 🧠, la **Calidad de la retroalimentación** 🗣️, el **Dominio del aprendizaje** 💡 y la **Motivación** 💪. Con este enfoque, nos aseguramos de que obtendrás una experiencia de aprendizaje completa y eficaz. Hemos trabajado con expertos y estudiado cómo crear un entorno, un plan de estudios y unas herramientas que potencien la eficacia del aprendizaje y te ayuden a dominar tus habilidades técnicas.
 
 ### 😉 ¡Te cuidamos la espalda!
 
@@ -12,7 +12,7 @@ Lo entendemos... ¡la vida puede ser muy ajetreada a veces! Por eso te cubrimos 
 
 Así que... ¿te apuntas al reto? ¡Hagámoslo juntos!
 
-![programar GIF](../images/programming.GIF)
+![programar GIF](https://github.com/breatheco-de/knowledge-base/blob/1b3d5703379c4e96c2c4825ce32759c8a9f6ac57/images/programming.GIF)
 
 ## 🤔 ¿A qué te enfrentarás?
 
