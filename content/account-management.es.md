@@ -12,7 +12,7 @@ Una vez iniciada la sesión, en la parte superior derecha de la pantalla encontr
 
 Además, una vez que entres en la configuración de tu perfil, verás a la izquierda un menú donde podrás ver los certificados que has obtenido y tus suscripciones.
 
-## 💻 Visión general del panel de control:
+## 💻 Visión general del Dashboard:
 
 ¡Familiarízate con el dashboard! El dashboard es tu centro de control. Proporciona una visión general de su cuenta.
 
