@@ -1,8 +1,15 @@
+---
+title: "¿Por qué construir un Proyecto Final? Comprendiendo la Importancia de los Capstone Projects en 4Geeks"
+subtitle: "Descubre la importancia de los Proyectos de Fin de Curso en los bootcamps de 4Geeks y cómo mejoran tus habilidades de programación y tus perspectivas profesionales."
+tags: ["4geeks"]
+authors: ["alesanchezr"]
+---
+
 # ¿Por qué construir un proyecto final?
 
-En este artículo vamos a explicarte por qué los "Capstone Projects" en nuestros bootcamps son tan importantes, haz clic aquí si están [buscando como elegir o empezar tu proyecto](https://4geeks.com/lesson/pick-your-capstone-project), también puedes revisar aquí los [proyectos anteriores que los alumnos han realizado](https://4geeksacademy.com/es/alumnos-y-proyectos?lang=es).
+En este artículo vamos a explicarte por qué los "Capstone Projects" en nuestros bootcamps son tan importantes, haz clic aquí si están [buscando como elegir o empezar tu proyecto](https://4geeks.com/es/lesson/pick-your-capstone-project-es), también puedes revisar aquí los [proyectos anteriores que los alumnos han realizado](https://4geeksacademy.com/es/alumnos-y-proyectos?lang=es).
 
-Son varias razones que tienen sentido cuando [entiendes nuestro framework de enseñanza](https://4geeks.com/mastering-technical-knowledge). El beneficio principal es estabilizar tu memoria, pero muchos otros importantes como la motivación, aprender a colaborar, etc.
+Son varias razones que tienen sentido cuando [entiendes nuestro framework de enseñanza](https://4geeks.com/es/mastering-technical-knowledge). El beneficio principal es estabilizar tu memoria, pero muchos otros importantes como la motivación, aprender a colaborar, etc.
 
 Antes de que existiera el proyecto final el desempeño de los alumnos era dramáticamente mejor, incluirlo como requisito dentro del bootcamp ha sido el cambio que más ha incrementado la calidad del curso.
 
@@ -13,7 +20,7 @@ El proyecto capstone es un simulacro de un proyecto de la vida real, probablemen
 
 ## Objetivo principal del capstone project
 
-El aprendizaje de habilidades técnicas es como aprender a andar en 🚴🏿‍♀️ bicicleta. Muchas veces, solo leyendo un manual no es suficiente. Necesitas practicar en una bicicleta real para realmente aprender. Esto se llama "[active learning](https://files.eric.ed.gov/fulltext/ED336049.pdf)" y, a pesar de ser una práctica utilizada en los mejores ambientes educativos del mundo y documentada desde 1992, en 4Geeks la hemos perfeccionado e incluido como uno de [nuestros principios educativos](https://4geeks.com/mastering-technical-knowledge#how-active-recall-increases-stability).
+El aprendizaje de habilidades técnicas es como aprender a andar en 🚴🏿‍♀️ bicicleta. Muchas veces, solo leyendo un manual no es suficiente. Necesitas practicar en una bicicleta real para realmente aprender. Esto se llama "[active learning](https://files.eric.ed.gov/fulltext/ED336049.pdf)" y, a pesar de ser una práctica utilizada en los mejores ambientes educativos del mundo y documentada desde 1992, en 4Geeks la hemos perfeccionado e incluido como uno de [nuestros principios educativos](https://4geeks.com/es/mastering-technical-knowledge#cómo-aumenta-la-estabilidad-el-recuerdo-activo).
 
 > 🧠 Active Learning es la mejor manera de estabilizar tu memoria.
 
@@ -37,7 +44,7 @@ Estamos buscando ese [momento eureka](https://es.wikipedia.org/wiki/%C2%A1Eureka
 Los reclutadores son cada vez más difíciles de impresionar, debes asumir que todos los demás candidatos a tu puesto de trabajo soñado tienen un portafolio de calidad demostrando su experiencia, los proyectos "hola mundo" ya no son suficiente.
 ¡El capstone Projects es tu gran oportunidad para lucir y demostrar tus habilidades! Como estudiante, lo principal es elegir un proyecto que impresione y te entusiasme.
 Concentra tus esfuerzos en resolver un problema real que te interese y pon metas claras desde el inicio.
-Te sorprenderás sobre lo relativamente sencillo que puede ser crear algo innovador e impresionante, en lugar de ir por las rutas tradicionales más trabajosas, de esto hablamos más a detalle en este artículo sobre [cómo elegir tu proyecto final](https://4geeks.com/lesson/pick-your-capstone-project).
+Te sorprenderás sobre lo relativamente sencillo que puede ser crear algo innovador e impresionante, en lugar de ir por las rutas tradicionales más trabajosas, de esto hablamos más a detalle en este artículo sobre [cómo elegir tu proyecto final](https://4geeks.com/es/lesson/pick-your-capstone-project-es).
 
 ### Colaborar
 
@@ -65,7 +72,7 @@ Los empleadores valoran este tipo de conocimientos por encima de cualquier otro.
 ## Pide ayuda y feedback
 
 Sin ánimos de ser repetitivos, te imploramos que utilices todos los mecanismos disponibles en 4Geeks para obtener feedback y ayuda.
-[Obtener feedback frequentemente](https://4geeks.com/mastering-technical-knowledge#feedback-quality-and-frequency) es como 4Geeks te garantiza que puedas tener un aprendizaje auto-determinado.
+[Obtener feedback frequentemente](https://4geeks.com/es/mastering-technical-knowledge#calidad-y-frecuencia-del-feedback) es como 4Geeks te garantiza que puedas tener un aprendizaje auto-determinado.
 Los [micro-feedbacks](https://4geeks.com/mastering-technical-knowledge#micro-feedbacks) incrementarán tu aprendizaje dramáticamente.
 
 ## Empieza tu proyecto, ¡Y hazlo en público 💬 👨‍👩‍👧‍👦!
