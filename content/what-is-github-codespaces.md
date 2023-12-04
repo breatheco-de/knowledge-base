@@ -7,7 +7,7 @@ authors: ["alesanchezr"]
 
 # Github Codespaces Tutorial
 
-In this guide, we’ll provide a very straightforward explanation about Github Codespaces and why we think it’s an excellent tool for learning coding-related skills, that’s why it’s one of the leading [teaching tools](https://github.com/breatheco-de/knowledge-base/blob/main/content/4geeks-teaching-tools.md) we use at 4Geeks.
+In this guide, we’ll provide a very straightforward explanation about Github Codespaces and why we think it’s an excellent tool for learning coding-related skills, that’s why it’s one of the leading [teaching tools](4geeks.com/docs/knowledge-base-4geeks/4geeks-teaching-tools) we use at 4Geeks.
 
 ## What is GitHub Codespaces?
 
