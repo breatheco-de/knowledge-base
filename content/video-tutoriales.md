@@ -1,5 +1,5 @@
 ---
-title: "Tutoriales en Video: Desbloquea tu Potencial de Programación"
+title: "Video Tutoriales: Desbloquea tu Potencial de Programación"
 subtitle: "¡Potencia tu trayectoria de programación con autonomía! Sumérgete en los Video-tutoriales de 4Geeks para un aprendizaje integral a tu propio ritmo. 
 tags: ["4geeks"]
 authors: ["Lorenagubaira"]
