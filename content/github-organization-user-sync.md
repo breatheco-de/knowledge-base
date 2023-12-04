@@ -1,3 +1,10 @@
+---
+title:  "GitHub Organization Sync: Effortless User Management for 4Geeks"
+subtitle: "Explore the seamless integration of GitHub Organization Sync at 4Geeks.com. Learn how to automate user management, synchronize cohorts, and optimize your academy's GitHub experience."
+tags: ["4geeks", "github"]
+authors: ["alesanchezr"]
+---
+
 [4Geeks.com](http://4Geeks.com) academy portal can now automatically and optionally sync students as users of your Github organization.
 
 > 🐞 This is a beta feature that will be tested within the following weeks.
