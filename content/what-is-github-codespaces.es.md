@@ -1,3 +1,10 @@
+---
+title: "Tutorial de GitHub Codespaces: Una guía completa para programar en la nube"
+subtitle: "¡Potencia tu viaje de programación! Libera el potencial de GitHub Codespaces para un aprendizaje sin esfuerzo y un desarrollo optimizado."
+tags: ["4geeks", "github", "codespaces"]
+authors: ["alesanchezr"]
+---
+
 # Tutorial de Github Codespaces
 
 En esta guía, proporcionaremos una explicación sobre Github Codespaces y por qué creemos que es una excelente herramienta para aprender habilidades relacionadas con la programación, por eso es una de las principales [herramientas de enseñanza](https://github.com/breatheco-de/knowledge-base/blob/main/content/4geeks-teaching-tools.md) que usamos en 4Geeks.
@@ -57,7 +64,7 @@ Sigamos el proceso exactamente como lo haría un desarrollador de software real.
 **_María_** es contratada como desarrolladora para unirse a un proyecto en curso; durante el primer día de trabajo, necesita obtener acceso al código, por lo que le pide al líder del proyecto la URL del proyecto dentro de github.com.
 
 1. El líder del equipo dijo que el código se encuentra en el siguiente sitio web: [https://github.com/breatheco-de/exercise-postcard](https://github.com/breatheco-de/exercise-postcard).
-2. María abre su navegador y navega a ese sitio web; [Aquí hay una explicación de lo que verá una vez que abra el sitio web](https://github.com/breatheco-de/knowledge-base/blob/main/images/breatheco-de-exercise-postcard-The-ideal-first-project-for-anyone-interested-in-practicing-HTML-CSS-with-a-real-life-example-.png?raw=true).
+2. María abre su navegador y navega a ese sitio web; [Aquí]((https://github.com/breatheco-de/knowledge-base/blob/main/images/breatheco-de-exercise-postcard-The-ideal-first-project-for-anyone-interested-in-practicing-HTML-CSS-with-a-real-life-example-.png?raw=true)) hay una explicación de lo que verá una vez que abra el sitio web.
 3. María busca el botón "code" y crea el nuevo codespace.
 4. Una vez que se abra el codespace, María verá el editor de código VS-Code abierto con una copia del código del proyecto.
 
