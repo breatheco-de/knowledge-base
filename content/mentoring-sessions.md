@@ -1,4 +1,9 @@
-# Mentoring Sessions
+---
+title: "Effective Mentoring Sessions"
+subtitle: "Explore the world of Mentoring Sessions at 4Geeks.com. Elevate your learning experience by connecting with seasoned industry mentors."
+tags: ["4geeks", "4geeks-method"]
+authors: ["Lorenagubaira"]
+---
 
 In Mentoring sessions you get the opportunity to meet and learn from experienced tech industry mentors. These experts are super helpful, and they'll guide you through even the most challenging concepts. Whenever you feel stuck, they'll be right there to assist you, ensuring you level up your skills in no time.
 
