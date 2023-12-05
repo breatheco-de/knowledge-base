@@ -1,6 +1,11 @@
-# Preparing for a Session
+---
+title: "Maximizing Your Mentoring Session"
+subtitle: "Unlock the full potential of your mentoring sessions. Learn valuable tips to prepare, actively participate, and effectively apply your newfound knowledge."
+tags: ["4geeks"]
+authors: ["Lorenagubaira"]
+---
 
-Before we dive into the [Mentoring Sessions](https://4geeks.com/docs/mentoring-sessions), there are a few things you should totally keep in mind. Don't worry, it won't take long to go through them, but they'll definitely save you time and make your whole experience way smoother.
+Before we dive into the [Mentoring Sessions](https://4geeks.com/docs/knowledge-base-4geeks/mentoring-sessions), there are a few things you should totally keep in mind. Don't worry, it won't take long to go through them, but they'll definitely save you time and make your whole experience way smoother.
 
 In this article, we'll share some tips on how you can make the most out of your time with the mentors and supercharge your learning experience. Are you ready to level up your skills?!
 

@@ -1,6 +1,11 @@
-# Preparándote para una Sesión
+---
+title: "Maximizando tu Sesión de Mentoría"
+subtitle: "Desbloquea todo el potencial de tus sesiones de mentoría. Aprende consejos valiosos para prepararte, participar activamente y aplicar tus nuevos conocimientos."
+tags: ["4geeks"]
+authors: ["Lorenagubaira"]
+---
 
-Antes de sumergirnos en las [Sesiones de Tutoría](https://4geeks.com/es/docs/sesiones-de-tutoria), hay algunas cosas que debes tener en cuenta. No te preocupes, no te tomará mucho repasarlas, pero definitivamente te ahorrarán tiempo y harán que tu experiencia sea mucho más fluida.
+Antes de sumergirnos en las [Sesiones de Mentoría](https://4geeks.com/es/docs/knowledge-base-4geeks/sesiones-de-tutoria), hay algunas cosas que debes tener en cuenta. No te preocupes, no te tomará mucho repasarlas, pero definitivamente te ahorrarán tiempo y harán que tu experiencia sea mucho más fluida.
 
 En este artículo, compartiremos algunos consejos sobre cómo puedes aprovechar al máximo tu tiempo con los mentores y potenciar tu experiencia de aprendizaje. ¿Estás listo para mejorar tus habilidades?
 
