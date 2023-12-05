@@ -1,6 +1,11 @@
-# Aprendiendo con 4Geeks
+---
+title: "Aprendiendo con 4Geeks"
+subtitle: "Descubre el método de enseñanza único de 4Geeks y aprovecha nuestras certificaciones, cursos y bootcamps para una experiencia educativa envolvente y efectiva"
+tags: ["4geeks"]
+authors: ["Lorenagubaira"]
+---
 
-En 4Geeks nos esforzamos por hacer del aprendizaje una experiencia divertida y gratificante. Creemos que la educación debe ser práctica, motivadora y adaptada para personas como tú. Es por eso que hemos creado nuestro propio método de enseñanza que combina lo mejor de lo mejor. Nuestra **[fórmula especial](https://4geeksacademy.notion.site/4geeksacademy/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06)** se centra en la **Retención de la Memoria** 🧠, **Calidad de Retroalimentación** 🗣️, **Dominio del Aprendizaje** 💡 y **Motivación** 💪 - todos los ingredientes para un aprendizaje completo y efectivo. Hemos trabajado arduamente, colaborado con expertos y creado un entorno donde realmente puedas progresar.
+En 4Geeks nos esforzamos por hacer del aprendizaje una experiencia divertida y gratificante. Creemos que la educación debe ser práctica, motivadora y adaptada para personas como tú. Es por eso que hemos creado nuestro propio método de enseñanza que combina lo mejor de lo mejor. Nuestra **[fórmula especial](https://4geeks.com/es/mastering-technical-knowledge)** se centra en la **Retención de la Memoria** 🧠, **Calidad de Retroalimentación** 🗣️, **Dominio del Aprendizaje** 💡 y **Motivación** 💪 - todos los ingredientes para un aprendizaje completo y efectivo. Hemos trabajado arduamente, colaborado con expertos y creado un entorno donde realmente puedas progresar.
 
 ## 🥇 Certificaciones y Cursos
 
