@@ -1,11 +1,9 @@
 ---
-title: "¿Por qué construir un Proyecto Final? Comprendiendo la Importancia de los Capstone Projects en 4Geeks"
+title: "¿Por qué construir un Proyecto Final?"
 subtitle: "Descubre la importancia de los Proyectos de Fin de Curso en los bootcamps de 4Geeks y cómo mejoran tus habilidades de programación y tus perspectivas profesionales."
 tags: ["4geeks"]
 authors: ["alesanchezr"]
 ---
-
-# ¿Por qué construir un proyecto final?
 
 En este artículo vamos a explicarte por qué los "Capstone Projects" en nuestros bootcamps son tan importantes, haz clic aquí si están [buscando como elegir o empezar tu proyecto](https://4geeks.com/es/lesson/pick-your-capstone-project-es), también puedes revisar aquí los [proyectos anteriores que los alumnos han realizado](https://4geeksacademy.com/es/alumnos-y-proyectos?lang=es).
 
