@@ -1,4 +1,10 @@
-# Manejo de Cuentas
+---
+title: "Gestión de Cuenta"
+subtitle: "Explora los pasos y características para gestionar eficazmente tu cuenta en 4Geeks. Personaliza tu perfil, navega por el dashboard y asegura la privacidad y seguridad."
+tags: ["4geeks"]
+authors: ["Lorenagubaira"]
+
+---
 
 Si estás leyendo, es porque has decidido unirte a nuestra comunidad de geek's. Estamos encantados de tenerte a bordo. Para asegurarnos de que tengas una experiencia completa, estamos aquí para guiarte en la gestión de tu cuenta 4Geeks. En este artículo, te mostraremos a través de todos los pasos y funciones importantes que te ayudarán a navegar por tu viaje de programación como un profesional 😎. Así que, ¡empecemos y saquémosle el máximo provecho!
 

@@ -1,4 +1,10 @@
-# Account Management
+---
+title: "Account Management"
+subtitle: "Explore the steps and features to effectively manage your 4Geeks account. Personalize your profile, navigate the dashboard, and ensure privacy and security."
+tags: ["4geeks"]
+authors: ["Lorenagubaira"]
+
+---
 
 If you are reading, this is because you decided to join our geek's community! We're happy to have you on board. To make sure you have a full experience, we're here to guide you through managing your 4Geeks account. In this article, we'll walk you through all the important steps and features that will help you navigate your coding journey like a pro 😎. So, let's get started and make the most out of it!
 
@@ -36,7 +42,7 @@ Finally, familiarize yourself with our [Terms and conditions](https://4geeks.com
 
 ## 📞 Support and Assistance:
 
-If you have any questions or account-related issues, please do not hesitate to contact us at our [Slack Channel](https://4geeksacademy.slack.com/) or via E-mail to {% support_email:support@4geeks.com %}.
+If you have any questions or account-related issues, please do not hesitate to contact us at our [Slack Channel](https://4geeksacademy.slack.com/) or via E-mail to: [info@4geeks.com](mailto:info@4geeks.com).
 
 ### That's All!
 
