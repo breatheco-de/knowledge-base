@@ -1,4 +1,10 @@
-# Introducción sobre 4Geeks
+---
+title: "Introducción sobre 4Geeks"
+subtitle: "Conoce la visión de 4Geeks sobre la educación y cómo estamos revolucionando los métodos tradicionales para ofrecerte una experiencia de aprendizaje completa y efectiva"
+tags: ["4geeks"]
+authors: ["Lorenagubaira"]
+
+---
 
 En esta ocasión, no queremos empezar el artículo contando toda nuestra historia como 4geeks. Nuestro propósito aquí es ponerte un poco al día en lo que hemos estado trabajando durante muchos años, para ofrecerte la mejor educación desde una perspectiva diferente ;).
 
