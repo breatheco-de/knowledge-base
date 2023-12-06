@@ -3,6 +3,7 @@ title: "Cómo Iniciar un Proyecto de Programación en 4Geeks"
 subtitle: "Descubre las mejores alternativas para comenzar tu proyecto de programación en 4Geeks. Ya sea que estés utilizando plantillas, clonando repositorios o trabajando en la nube, tenemos la guía perfecta para ti."
 tags: ["4geeks", "codespaces"]
 authors: ["alesanchezr"]
+
 ---
 
 En 4Geeks entendemos que empezar un proyecto es una de las cosas más difíciles de hacer. Hay muchas maneras diferentes de empezar, tantas que es difícil saber cuál es la mejor o la "forma recomendada".
