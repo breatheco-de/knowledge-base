@@ -3,6 +3,7 @@ title: "4Geeks.com Eventos en vivo, Workshops y Clases"
 subtitle: "Descubre cómo superar desafíos técnicos y profesionales en tiempo real con los Eventos en Vivo, Workshops y Clases de 4Geeks.com. Obtén orientación de profesionales experimentados y eleva tus habilidades en un entorno de aprendizaje interactivo."
 tags: ["4geeks"]
 authors: ["alesanchezr"]
+
 ---
 
 Usualmente, los estudiantes tienen problemas creando proyectos, ya que se quedan atascados en el proceso. Un espacio para hacer preguntas y ver como se debe de hacer, ayuda al estudiante a implementar buenas prácticas y a no trabarse.
