@@ -3,6 +3,7 @@ title: "Tutorial de GitHub Codespaces: Una guía completa para programar en la n
 subtitle: "¡Potencia tu viaje de programación! Libera el potencial de GitHub Codespaces para un aprendizaje sin esfuerzo y un desarrollo optimizado."
 tags: ["4geeks", "github", "codespaces"]
 authors: ["alesanchezr"]
+
 ---
 
 En esta guía, proporcionaremos una explicación sobre Github Codespaces y por qué creemos que es una excelente herramienta para aprender habilidades relacionadas con la programación, por eso es una de las principales [herramientas de enseñanza](4geeks.com/es/docs/knowledge-base-4geeks/herramientas-de-ensenaza-4geeks).
