@@ -2,7 +2,8 @@
 title: "Sesiones de Mentoría Efectivas"
 subtitle: "Explora el mundo de las Sesiones de Mentoría en 4Geeks.com. Mejora tu experiencia de aprendizaje conectando con mentores experimentados de la industria."
 tags: ["4geeks"]
-authors: ["Lorenagubaira"] 
+authors: ["Lorenagubaira"]
+
 ---
 
 En las sesiones de mentoría, tienes la oportunidad de conocer y aprender de mentores experimentados de la industria tecnológica. Estos expertos serán de gran ayuda y te guiarán incluso en los conceptos más desafiantes. Siempre que te sientas atascado, estarán allí para ayudarte, asegurándote mejorar tus habilidades en poco tiempo.
