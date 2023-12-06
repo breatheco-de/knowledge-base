@@ -1,8 +1,14 @@
-# Getting Started with 4Geeks
+---
+title: "Getting Started with 4Geeks"
+subtitle: "Discover the essential steps to kickstart your coding journey with 4Geeks. Whether you're a beginner or have some programming experience, we have tailored resources to suit your needs."
+tags: ["4geeks"]
+authors: ["Lorenagubaira"]
+
+---
 
 We understand that choosing where to start your coding journey can feel like diving into a sea of endless options. But don't worry, we've got your back!
 
-We've dedicated years to studying the most effective ways of learning, and we've put all that knowledge into our courses. We've carefully crafted a ***[special formula](https://4geeksacademy.notion.site/4geeksacademy/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06)*** that maximizes your learning experience in every way. So, no need to stress about searching for multiple methods to learn programming. With 4Geeks, everything you need is right here, all in one place, and with a completely fresh approach. So let's make coding simple, fun, and exciting together!
+We've dedicated years to studying the most effective ways of learning, and we've put all that knowledge into our courses. We've carefully crafted a ***[special formula](https://4geeks.com/mastering-technical-knowledge)*** that maximizes your learning experience in every way. So, no need to stress about searching for multiple methods to learn programming. With 4Geeks, everything you need is right here, all in one place, and with a completely fresh approach. So let's make coding simple, fun, and exciting together!
 
 So...are you ready to start becoming a great programmer!?
 
