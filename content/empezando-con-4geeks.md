@@ -3,6 +3,7 @@ title: "Empezando con 4Geeks"
 subtitle: "Descubre los pasos esenciales para iniciar tu viaje de programación con 4Geeks. Ya seas principiante o tengas experiencia previa, contamos con recursos personalizados para satisfacer tus necesidades."
 tags: ["4geeks"]
 authors: ["Lorenagubaira"]
+
 ---
 
 Entendemos que elegir dónde comenzar tu viaje en el mundo de la programación es como sumergirse en un mar de infinitas opciones. ¡Pero no te preocupes, estamos aquí para ayudarte!
