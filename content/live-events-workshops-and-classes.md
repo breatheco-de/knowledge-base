@@ -1,4 +1,10 @@
-# 4Geeks.com Live Events, Workshops & Classes
+---
+title: "4Geeks.com Live Events, Workshops & Classes"
+subtitle: "Discover how to overcome technical and professional challenges in real-time with 4Geeks.com's Live Events, Workshops, and Classes. Gain guidance from experienced professionals and elevate your skills in an interactive learning environment"
+tags: ["4geeks"]
+authors: ["alesanchezr"]
+
+---
 
 Commonly students have problems creating projects, getting stuck in part of the process. A space to ask questions and watch how it should be done, helps a student to implement good practices and to get unstuck.
 
