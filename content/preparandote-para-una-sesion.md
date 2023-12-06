@@ -3,6 +3,7 @@ title: "Maximizando tu Sesión de Mentoría"
 subtitle: "Desbloquea todo el potencial de tus sesiones de mentoría. Aprende consejos valiosos para prepararte, participar activamente y aplicar tus nuevos conocimientos."
 tags: ["4geeks"]
 authors: ["Lorenagubaira"]
+
 ---
 
 Antes de sumergirnos en las [Sesiones de Mentoría](https://4geeks.com/es/docs/knowledge-base-4geeks/sesiones-de-tutoria), hay algunas cosas que debes tener en cuenta. No te preocupes, no te tomará mucho repasarlas, pero definitivamente te ahorrarán tiempo y harán que tu experiencia sea mucho más fluida.
