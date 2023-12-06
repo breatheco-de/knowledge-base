@@ -3,6 +3,7 @@ title: "Dominio de los Conocimientos Técnicos"
 subtitle: "Aprende el Poder del Aprendizaje Técnico: Un Marco Revolucionario para el Dominio, Eficiencia y Competencia en el Mundo Real"
 tags: ["4geeks"]
 authors: ["alesanchezr"]
+
 ---
 
 ## Resumen
