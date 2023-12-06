@@ -3,6 +3,7 @@ title: "Provisioning Environments for Teaching Coding-Related Skills"
 subtitle: "Learn how to effortlessly provision containers, leverage template repositories, and dive into hands-on coding experiences."
 tags: ["4geeks", "learn-to-code"]
 authors: ["alesanchezr"]
+
 ---
 
 Setting up the initial project codebase is one of the biggest obstacles to code. Junior -and sometimes even senior- struggles to configure all the tools, templates, languages, and environments needed to start coding. There is also an overwhelming amount of template starters and very different trends or schools of thought how best practices. For this and other reasons 4Geeks has, since day one, made a considerable effort to develop the tools needed to remove this friction from learners.
