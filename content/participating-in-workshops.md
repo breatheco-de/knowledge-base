@@ -1,4 +1,10 @@
-#  Participating in Workshops
+---
+title: "Participating in Workshops"
+subtitle: "Unlock the secrets to getting the most out of workshops. Dive into hands-on experiences, pro tips, and effective strategies to elevate your programming skills."
+tags: ["4geeks"]
+authors: ["Lorenagubaira"]
+
+---
 
 [Workshops](https://4geeks.com/lesson/live-events-workshops-and-classes#4geekscom-live-events-workshops-classes) are the best way to learn directly from the most pro experts out there! In programming, the theory is like learning to walk before running. It's essential to understand the foundational concepts and principles that make up coding. But let's be honest – the real fun begins when we get to run! That's when the magic happens. 
 
