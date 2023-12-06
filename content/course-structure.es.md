@@ -3,6 +3,7 @@ title: "Estructura del Curso"
 subtitle: "Explora el marco bien organizado de los cursos de 4Geeks, que combina lecciones interactivas, proyectos prácticos y apoyo personalizado. Descubre la estructura básica, módulos, lecciones, ejercicios interactivos, proyectos y cuestionarios que hacen que tu proceso de aprendizaje sea entretenido y efectivo."
 tags: ["4geeks"]
 authors: ["Lorenagubaira"]
+
 ---
 
 Nuestros cursos siguen una estructura bien organizada que combina lecciones interactivas, lecturas y proyectos prácticos. No importa si eres principiante o si ya tienes algunos conocimientos en la materia. Te aseguramos que lo haremos lo más sencillo y entretenido posible. En este artículo explicaremos brevemente cómo funciona nuestro sistema.
