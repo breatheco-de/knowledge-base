@@ -1,4 +1,10 @@
-# How to Choose a Final Project?
+---
+title: "Choosing a Final Project"
+subtitle: "Discover the key considerations and avoid common pitfalls when selecting your final project. Learn from experienced insights to ensure success in your project journey."
+tags: ["4geeks"]
+authors: ["alesanchezr"]
+
+---
 
 You're probably here because you're about to start building your final project, how exciting!
 
