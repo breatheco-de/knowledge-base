@@ -3,9 +3,10 @@ title:  "GitHub Organization Sync: Effortless User Management for 4Geeks"
 subtitle: "Explore the seamless integration of GitHub Organization Sync at 4Geeks.com. Learn how to automate user management, synchronize cohorts, and optimize your academy's GitHub experience."
 tags: ["4geeks", "github"]
 authors: ["alesanchezr"]
+
 ---
 
-[4Geeks.com](http://4Geeks.com) academy portal can now automatically and optionally sync students as users of your Github organization.
+[4Geeks.com](https://4Geeks.com) academy portal can now automatically and optionally sync students as users of your Github organization.
 
 > 🐞 This is a beta feature that will be tested within the following weeks.
 
@@ -22,11 +23,11 @@ Students are automatically `added` to the GitHub organization in the following s
 1. When a student is added to a cohort. 
 2. Every time the education status becomes `active`.
 
-You can also manually invite students to the organization from [Github.com](http://Github.com) and [4Geeks.com](http://4Geeks.com) will notice them when synching with Github; it will try fetching their cohorts and connecting them to your academy.
+You can also manually invite students to the organization from [Github.com](https://Github.com) and [4Geeks.com](https://4Geeks.com) will notice them when synching with Github; it will try fetching their cohorts and connecting them to your academy.
 
 ![4Geeks-Developers-Community-Admin (5).png](https://github.com/breatheco-de/knowledge-base/blob/main/images/4Geeks-Developers-Community-Admin_(5).png?raw=true)
 
-> ⚠️ If a user is found in a Github organization but is not reflected as a [4geeks.com](http://4geeks.com) user and does not belong to any cohort, the system will mark the user as ignored.
+> ⚠️ If a user is found in a Github organization but is not reflected as a [4geeks.com](https://4geeks.com) user and does not belong to any cohort, the system will mark the user as ignored.
 
 ### Deleting users
 
