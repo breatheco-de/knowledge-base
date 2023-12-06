@@ -3,6 +3,7 @@ title: "Text-Based Lessons"
 subtitle: "Explore the value of text-based lessons in online learning. Discover how 4Geeks provides structured and flexible lessons, delivering essential information to build a strong foundation in programming."
 tags: ["4geeks"]
 authors: ["Lorenagubaira"]
+
 ---
 
 With the internet giving us so much information, sometimes it's hard to know what's accurate. This info overload can be confusing, especially if we're new to something. Because of this, text-based lessons tend to be a valuable tool for many successful online learning platforms, and for good reasons. They provide a structured, in-depth, and flexible learning approach, accommodating a wide range of learners. Especially in programming, topics can become quite large and complex.
