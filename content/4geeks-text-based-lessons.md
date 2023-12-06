@@ -1,4 +1,9 @@
-# Text-Based Lessons
+---
+title: "Text-Based Lessons"
+subtitle: "Explore the value of text-based lessons in online learning. Discover how 4Geeks provides structured and flexible lessons, delivering essential information to build a strong foundation in programming."
+tags: ["4geeks"]
+authors: ["Lorenagubaira"]
+---
 
 With the internet giving us so much information, sometimes it's hard to know what's accurate. This info overload can be confusing, especially if we're new to something. Because of this, text-based lessons tend to be a valuable tool for many successful online learning platforms, and for good reasons. They provide a structured, in-depth, and flexible learning approach, accommodating a wide range of learners. Especially in programming, topics can become quite large and complex.
 
@@ -20,6 +25,6 @@ Also, it's important that you know that you can find all our lessons for free on
 
 ![Text-based Lessons](https://breathecode.herokuapp.com/v1/media/file/text-based-lessons-png?raw=true)
 
-> *To learn more about everything you can access from the dashboard [click here](https://github.com/breatheco-de/knowledge-base/blob/main/content/account-management.md)* ;)
+> *To learn more about everything you can access from the dashboard [click here](https://4geeks.com/docs/knowledge-base-4geeks/manage-your-4geeks-account)* ;)
 
 Our main goal is to make learning entertaining and simple for you. Whether you're in our **Bootcamps** or taking part in **Open Learning**, we've got these lessons ready for you. They provide essential info to help you get started and keep progressing smoothly with your practices. So, whether you're a beginner or an experienced coder, our text-based lessons are here to help you succeed
