@@ -1,11 +1,9 @@
 ---
-title: "¿Qué es LearnPack?: Eleva tu viaje de programación"
+title: "¿Qué es LearnPack?"
 subtitle: "Sumérgete en el reino de LearnPack, una herramienta dinámica que revoluciona la experiencia de aprendizaje en 4Geeks. Descubre cómo este potente compañero mejora tu práctica, haciendo que el proceso sea más suave y gratificante"
 tags: ["4geeks", "learnpack"]
 authors: ["Lorenagubaira"]
 ---
-
-# ¿Qué es Learnpack?
 
 LearnPack es una potente herramienta diseñada para mejorar tu experiencia de aprendizaje y hacer que tu práctica de la programación sea mucho más fluida. Es el resultado de esfuerzos dedicados a agilizar el proceso de aprendizaje aquí en 4Geeks. Sabemos que el [aprendizaje eficaz](https://4geeks.com/es/mastering-technical-knowledge) va más allá de la teoría: se trata de práctica, compromiso y experiencia práctica. Por eso LearnPack ha sido diseñado para ofrecerte un viaje de aprendizaje fluido y productivo.
 
