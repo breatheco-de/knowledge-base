@@ -3,6 +3,7 @@ title: "Getting Started with 4Geeks"
 subtitle: "Discover the essential steps to kickstart your coding journey with 4Geeks. Whether you're a beginner or have some programming experience, we have tailored resources to suit your needs."
 tags: ["4geeks"]
 authors: ["Lorenagubaira"]
+
 ---
 
 We understand that choosing where to start your coding journey can feel like diving into a sea of endless options. But don't worry, we've got your back!
