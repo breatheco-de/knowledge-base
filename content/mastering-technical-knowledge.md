@@ -3,6 +3,7 @@ title: "Mastering Technical Knowledge"
 subtitle: "Unleash the Power of Technical Learning: A Revolutionary Framework for Mastery, Efficiency, and Real-world Proficiency"
 tags: ["4geeks", "4geeks-method"]
 authors: ["alesanchezr"]
+
 ---
 
 ## Abstract
