@@ -3,6 +3,7 @@ title: "Course Structure"
 subtitle: "Explore the well-organized framework of 4Geeks courses, combining interactive lessons, hands-on projects, and personalized support. Discover the basic structure, modules, reading lessons, interactive exercises, projects, and quizzes that make your learning journey entertaining and effective."
 tags: ["4geeks", "4geeks-method"]
 authors: ["Lorenagubaira"]
+
 ---
 
 Our courses are followed by a well-organized framework that combines interactive lessons, hands-on projects, and personalized support. It doesn't matter if you are a beginner or already have some knowledge in the field. We assure you that we will make it as simple and entertaining as possible! In this article, we will briefly explain how our system works.
