@@ -8,7 +8,7 @@ Durante muchos años hemos estado trabajando arduamente para mejorar y aportar e
 
 En 4Geeks, aseguramos una alta calidad de aprendizaje adoptando un enfoque completo que considera la motivación y la eficiencia en el uso del tiempo.
 
-Es por eso que hemos trabajado con expertos y estudiado cómo crear un entorno, un plan de estudios y herramientas que potencien la efectividad del aprendizaje. Con base en eso hemos diseñado una forma especial de enseñar que combina los mejores aspectos de la educación. Nuestra **[fórmula especial](https://github.com/breatheco-de/knowledge-base/blob/main/content/mastering-technical-knowledge.es.md)** es un marco científico que se enfoca en la Retención de la Memoria 🧠, Calidad de la Retroalimentación 🗣️, Dominio del Aprendizaje 💡 y Motivación 💪. Con este enfoque, nos aseguramos de que obtengas una experiencia de aprendizaje completa y efectiva.
+Es por eso que hemos trabajado con expertos y estudiado cómo crear un entorno, un plan de estudios y herramientas que potencien la efectividad del aprendizaje. Con base en eso hemos diseñado una forma especial de enseñar que combina los mejores aspectos de la educación. Nuestra **[fórmula especial](https://4geeks.com/es/mastering-technical-knowledge)** es un marco científico que se enfoca en la Retención de la Memoria 🧠, Calidad de la Retroalimentación 🗣️, Dominio del Aprendizaje 💡 y Motivación 💪. Con este enfoque, nos aseguramos de que obtengas una experiencia de aprendizaje completa y efectiva.
 
 ## Valor de los certificados
 
