@@ -1,8 +1,9 @@
 ---
 title: "Learning with 4Geeks"
-subtitle: "Discover 4Geeks' unique teaching method, and take advantage of our certifications, courses and bootcamps for an immersive and effective educational experience."
+subtitle: "Discover 4Geeks' unique teaching method, and take advantage of our certifications, courses, and bootcamps for an immersive and effective educational experience."
 tags: ["4geeks", "4geeks-method"]
 authors: ["Lorenagubaira"]
+
 ---
 
 At 4Geek we're all about making learning a fun and fulfilling experience! We believe that education should be hands-on, motivating, and tailored for people just like you. That's why we've come up with our own teaching method that combines all the best. Our ***[special formula](https://4geeks.com/mastering-technical-knowledge)*** focuses on **Memory Retention** 🧠, **Feedback Quality** 🗣️, **Learning Mastery** 💡, and **Motivation** 💪 - all the ingredients for a well-rounded and effective learning journey. We've put in the hard work, collaborated with experts, and created an environment where you can truly thrive.
