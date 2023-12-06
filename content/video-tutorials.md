@@ -1,5 +1,5 @@
 ---
-title: "Video Tutorials: Unlock"
+title: "Video Tutorials"
 subtitle: "Empower your programming journey with autonomy! Get into 4Geeks' video tutorials for self-paced, comprehensive learning. 
 tags: ["4geeks"]
 authors: ["Lorenagubaira"]
