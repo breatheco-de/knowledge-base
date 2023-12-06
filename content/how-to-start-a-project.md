@@ -3,6 +3,7 @@ title: "How to Start a Programming Project at 4Geek"
 subtitle: "Discover the best alternatives to kickstart your programming project at 4Geeks. Whether you're using templates, cloning repositories, or working in the cloud, we have the perfect guide for you."
 tags: ["4geeks", "codespaces"]
 authors: ["alesanchezr"]
+
 ---
 
 At 4Geeks we understand that starting a project is one of the hardest things to do. There are many ways to start coding a new project, so many that it is tough to know the best or the "recommended way".
