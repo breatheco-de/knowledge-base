@@ -1,4 +1,9 @@
-# How to start a coding project
+---
+title: "How to Start a Programming Project at 4Geek"
+subtitle: "Discover the best alternatives to kickstart your programming project at 4Geeks. Whether you're using templates, cloning repositories, or working in the cloud, we have the perfect guide for you."
+tags: ["4geeks", "codespaces"]
+authors: ["alesanchezr"]
+---
 
 At 4Geeks we understand that starting a project is one of the hardest things to do. There are many ways to start coding a new project, so many that it is tough to know the best or the "recommended way".
 
@@ -20,11 +25,11 @@ Some repositories are meant to be re-used every time you start a new project, at
 
 You can tell if the repository is a template because it contains a `Use this template` button.
 
-![](https://raw.githubusercontent.com/breatheco-de/knowledge-base/main/images/template.png)
+![Using a template](https://raw.githubusercontent.com/breatheco-de/knowledge-base/main/images/template.png)
 
 If the repository is a template, you will start by creating a new repository based on the template. Click on the button that says `Use this template`; a dropdown menu will be displayed. You have to click the option that says `Create a new repository:
 
-![image](https://user-images.githubusercontent.com/109599459/230989999-aeba16c4-c1c1-460a-b1bb-94631de6ccc4.png)
+![create repository](https://user-images.githubusercontent.com/109599459/230989999-aeba16c4-c1c1-460a-b1bb-94631de6ccc4.png)
 
 You'll be redirected to a new view where you'll create your new repository. Click the `Select an owner` button; a dropdown menu will be displayed.
 
@@ -32,19 +37,19 @@ You'll be redirected to a new view where you'll create your new repository. Clic
 
 You have to give your repository a name: We strongly recommend prepending your Github username followed by the name of the project you'll be working on. For example `githubusername-my-project-name`:
 
-![image](https://user-images.githubusercontent.com/109599459/230991453-38566874-f844-4027-9e7d-3662c7548c66.png)
+![select an owner](https://user-images.githubusercontent.com/109599459/230991453-38566874-f844-4027-9e7d-3662c7548c66.png)
 
 Make sure you select the `public` option, and after that click the `Create repository from template` button:
 
-![image](https://user-images.githubusercontent.com/109599459/230991967-9c08afca-1355-41a5-8a12-0464b98d7bbd.png)
+![create from template](https://user-images.githubusercontent.com/109599459/230991967-9c08afca-1355-41a5-8a12-0464b98d7bbd.png)
 
 You'll be redirected to the repository URL. The first thing you need to do is to star the repository, so you'll be able to find it easier. You have to click the `Star` button:
 
-![image](https://user-images.githubusercontent.com/109599459/230993816-8f404028-b109-40d5-a47c-e149ae6c17ae.png)
+![star](https://user-images.githubusercontent.com/109599459/230993816-8f404028-b109-40d5-a47c-e149ae6c17ae.png)
 
 > 👉 Note: You can see your starred repositories by clicking on your profile button (where your picture or avatar is): a dropdown menu will be displayed, and you have to click the `Your stars` option.
 
-![image](https://user-images.githubusercontent.com/109599459/230994342-567b1526-c1fb-4d05-b108-f6f3ec4d4208.png)
+![your stars](https://user-images.githubusercontent.com/109599459/230994342-567b1526-c1fb-4d05-b108-f6f3ec4d4208.png)
 
 ## 3) Open the repository
 
@@ -59,7 +64,7 @@ There are 3 ways you can open a repository, please choose only one:
 Currently, this is the recommended way to open the repo.
 
 Then, you'll click the `<> Code` green button, and after that, the `Create codespace on main` button:
-![image](https://user-images.githubusercontent.com/109599459/230995122-1c00d010-b6d4-4810-852e-1e1524797a34.png)
+![codespace](https://user-images.githubusercontent.com/109599459/230995122-1c00d010-b6d4-4810-852e-1e1524797a34.png)
 
 A new tab will be opened with your Codespace ready for work! Start coding!
 
