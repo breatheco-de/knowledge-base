@@ -1,6 +1,12 @@
-# Github Codespaces Tutorial
+---
+title:  "GitHub Codespaces Tutorial: A Comprehensive Guide to Cloud-Based Coding"
+subtitle: "Empower Your Coding Journey! Unleash the Potential of GitHub Codespaces for Effortless Learning and Streamlined Development."
+tags: ["4geeks", "github", "codespaces"]
+authors: ["alesanchezr"]
 
-In this guide, we’ll provide a very straightforward explanation about Github Codespaces and why we think it’s an excellent tool for learning coding-related skills, that’s why it’s one of the leading [teaching tools](https://github.com/breatheco-de/knowledge-base/blob/main/content/4geeks-teaching-tools.md) we use at 4Geeks.
+---
+
+In this guide, we’ll provide a very straightforward explanation about Github Codespaces and why we think it’s an excellent tool for learning coding-related skills, that’s why it’s one of the leading [teaching tools](https://4geeks.com/docs/knowledge-base-4geeks/4geeks-teaching-tools) we use at 4Geeks.
 
 ## What is GitHub Codespaces?
 
@@ -58,7 +64,7 @@ Let’s follow the process exactly like a real-life software developer would do.
 **_Maria_** gets hired as a developer to join an ongoing project; during the first day of work she needs to get access to the code, so she asks the project leader for the project URL within github.com.
 
 1. Team leader said that the code is located on the following website: [https://github.com/breatheco-de/exercise-postcard](https://github.com/breatheco-de/exercise-postcard).
-2. Maria opens her browser and navigates to that website; [Here is an explanation on what you will see once you open the website](https://github.com/breatheco-de/knowledge-base/blob/main/images/breatheco-de-exercise-postcard-The-ideal-first-project-for-anyone-interested-in-practicing-HTML-CSS-with-a-real-life-example-.png?raw=true).
+2. Maria opens her browser and navigates to that website; [Here](https://github.com/breatheco-de/knowledge-base/blob/main/images/breatheco-de-exercise-postcard-The-ideal-first-project-for-anyone-interested-in-practicing-HTML-CSS-with-a-real-life-example-.png?raw=true) is an explanation on what you will see once you open the website.
 3. Maria then looks for the “code” button, and creates the new codespace. 
 4. Once the codespace is opened, Maria will see the VS-Code coding editor open with a copy of the project code.
 
