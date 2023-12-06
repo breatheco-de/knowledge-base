@@ -5,8 +5,6 @@ tags: ["4geeks"]
 authors: ["alesanchezr"]
 ---
 
-# Dominio de los conocimientos técnicos
-
 ## Resumen
 
 En la actualidad, los métodos de enseñanza tradicionales para lograr el dominio y la competencia técnica se centran principalmente en los fundamentos y los aspectos teóricos, **olvidando la importancia de la experiencia práctica y real, así como la motivación y el compromiso en el proceso de aprendizaje**. El sistema funciona hasta cierto punto, pero sigue sufriendo el aumento de las tasas de abandono y la disminución de las tasas de matriculación, al tiempo que se tarda varios años en graduar a los estudiantes en habilidades y tecnologías que evolucionan drásticamente año tras año.
