@@ -3,6 +3,7 @@ title:  "GitHub Codespaces Tutorial: A Comprehensive Guide to Cloud-Based Coding
 subtitle: "Empower Your Coding Journey! Unleash the Potential of GitHub Codespaces for Effortless Learning and Streamlined Development."
 tags: ["4geeks", "github", "codespaces"]
 authors: ["alesanchezr"]
+
 ---
 
 In this guide, we’ll provide a very straightforward explanation about Github Codespaces and why we think it’s an excellent tool for learning coding-related skills, that’s why it’s one of the leading [teaching tools](https://4geeks.com/docs/knowledge-base-4geeks/4geeks-teaching-tools) we use at 4Geeks.
