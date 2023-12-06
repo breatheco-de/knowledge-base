@@ -3,6 +3,7 @@ title: "Participando en Workshops"
 subtitle: "Descubre los secretos para aprovechar al máximo los workshops. Sumérgete en experiencias prácticas, consejos de profesionales y estrategias efectivas para elevar tus habilidades de programación."
 tags: ["4geeks"]
 authors: ["Lorenagubaira"]
+
 ---
 
 Los [Workshops](https://4geeks.com/es/lesson/eventos-en-vivo-workshops-y-clases) son la mejor manera de aprender directamente de los más experimentados. En la programación, la teoría es como aprender a caminar antes de correr. Es esencial comprender los conceptos y principios básicos que componen la programación. Pero seamos honestos - la verdadera diversión comienza cuando empezamos a correr ¡Ahí es cuando sucede la magia!
