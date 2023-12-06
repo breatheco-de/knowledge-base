@@ -1,11 +1,9 @@
 ---
-title: "Video Tutorials: Unlock Your Coding Potential"
+title: "Video Tutorials: Unlock"
 subtitle: "Empower your programming journey with autonomy! Get into 4Geeks' video tutorials for self-paced, comprehensive learning. 
 tags: ["4geeks"]
 authors: ["Lorenagubaira"]
 ---
-
-# Video Tutorials
 
 At 4Geeks, we encourage a bit more autonomy in your learning journey. You'll have the opportunity to decipher things on your own and become self-taught, which can be super beneficial. It's all about developing that capacity for understanding, which will not only benefit you in your programming journey but also in various aspects of life. So, embrace the challenge, because it's a fantastic skill that will stay with you forever! 
 
