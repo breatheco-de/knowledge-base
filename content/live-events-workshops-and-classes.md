@@ -5,8 +5,6 @@ tags: ["4geeks"]
 authors: ["alesanchezr"]
 ---
 
-# 4Geeks.com Live Events, Workshops & Classes
-
 Commonly students have problems creating projects, getting stuck in part of the process. A space to ask questions and watch how it should be done, helps a student to implement good practices and to get unstuck.
 
 Live Events are important because they help students overcome technical or career challenges in real-time. This allows participants to receive guidance and support from experienced professionals, which can help them to overcome obstacles that they might not be able to solve on their own.
