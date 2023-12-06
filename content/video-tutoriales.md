@@ -1,11 +1,9 @@
 ---
-title: "Video Tutoriales: Desbloquea tu Potencial de Programación"
+title: "Video Tutoriales"
 subtitle: "¡Potencia tu trayectoria de programación con autonomía! Sumérgete en los Video-tutoriales de 4Geeks para un aprendizaje integral a tu propio ritmo. 
 tags: ["4geeks"]
 authors: ["Lorenagubaira"]
 ---
-
-# Video Tutorials
 
 En 4Geeks, fomentamos un poco más de autonomía en tu proceso de aprendizaje. Tendrás la oportunidad de descifrar cosas por ti mismo y ser autodidacta, lo cual puede ser súper beneficioso. Todo se basa en desarrollar esa capacidad de comprensión, que no solo te beneficiará en tu viaje de programación, sino también en varios aspectos de la vida. Así que ¡acepta el desafío, porque es una habilidad fantástica que te acompañará siempre!
 
