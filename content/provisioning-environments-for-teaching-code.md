@@ -1,4 +1,10 @@
-# Provisioning environments for teaching coding-related skills
+---
+title: "Provisioning Environments for Teaching Coding-Related Skills"
+subtitle: "Learn how to effortlessly provision containers, leverage template repositories, and dive into hands-on coding experiences."
+tags: ["4geeks", "learn-to-code"]
+authors: ["alesanchezr"]
+
+---
 
 Setting up the initial project codebase is one of the biggest obstacles to code. Junior -and sometimes even senior- struggles to configure all the tools, templates, languages, and environments needed to start coding. There is also an overwhelming amount of template starters and very different trends or schools of thought how best practices. For this and other reasons 4Geeks has, since day one, made a considerable effort to develop the tools needed to remove this friction from learners.
 
@@ -27,7 +33,7 @@ Here's a list of each technology's [most common repository templates](https://gi
 
 We aim to provide students with explicit instructions on starting each coding project. Here is one example:
 
-~![how o start a coding project in 4geeks](https://github.com/breatheco-de/knowledge-base/blob/main/images/how-to-start-project.png?raw=true)
+![how o start a coding project in 4geeks](https://github.com/breatheco-de/knowledge-base/blob/main/images/how-to-start-project.png?raw=true)
 Note: These instructions are subject to changes; you may see something different on your 4Geeks account.
 
 Our goal is to provide clear instructions while keeping the process very close to real life; we want to allow students to experience browsing repositories, forking, cloning or any of the typical activities they will need to do when starting a project in a company.
