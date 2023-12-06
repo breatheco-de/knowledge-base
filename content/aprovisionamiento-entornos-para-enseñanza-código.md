@@ -3,6 +3,7 @@ title: "Provisión de Entornos para Enseñar Habilidades Relacionadas con la Pro
 subtitle: "Aprende cómo provisionar contenedores sin esfuerzo, aprovechar repositorios de plantillas y sumergirte en experiencias prácticas de programación"
 tags: ["4geeks", "programacion"]
 authors: ["alesanchezr"]
+
 ---
 
 Configurar la base de código inicial de un proyecto es uno de los mayores obstáculos para programar. Los principiantes, y a veces incluso los programadores senior, luchan por configurar todas las herramientas, plantillas, lenguajes y entornos necesarios para empezar a programar. También existe una abrumadora cantidad de plantillas iniciales y tendencias muy diferentes o corrientes de pensamiento sobre las mejores prácticas. Por estas y otras razones, desde el primer día, 4Geeks ha hecho un esfuerzo considerable para desarrollar las herramientas necesarias para eliminar esta fricción de los estudiantes.
