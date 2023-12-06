@@ -5,8 +5,6 @@ tags: ["4geeks"]
 authors: ["alesanchezr"]
 ---
 
-# 4Geeks.com Eventos en vivo, Talleres y Clases
-
 Usualmente, los estudiantes tienen problemas creando proyectos, ya que se quedan atascados en el proceso. Un espacio para hacer preguntas y ver como se debe de hacer, ayuda al estudiante a implementar buenas prácticas y a no trabarse.
 
 Los Eventos en Vivo son importantes porque ayudan al estudiante a superar desafíos técnicos o de carrera en tiempo real. Esto le permite a los participantes recibir una guía y apoyo de parte de profesionales, los cuales pueden ayudarlos a superar obstáculos que quizás ellos no sean capaces de superar por su cuenta.
