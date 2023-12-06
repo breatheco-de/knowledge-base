@@ -3,6 +3,7 @@ title:  "Sincronización de Organizaciones en GitHub: Gestión de Usuarios sin E
 subtitle: "Explora la integración fluida de la Sincronización de Organizaciones en GitHub en 4Geeks.com. Aprende a automatizar la gestión de usuarios, sincronizar cohortes y optimizar tu experiencia de GitHub."
 tags: ["4geeks", "github"]
 authors: ["alesanchezr"]
+
 ---
 
 El portal de la academia [4Geeks.com](http://4Geeks.com/es) ahora puede sincronizar automáticamente y opcionalmente a los estudiantes como usuarios de su organización de Github.
