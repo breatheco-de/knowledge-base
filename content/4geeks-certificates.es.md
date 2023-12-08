@@ -61,7 +61,7 @@ En 4Geeks.com, facilitamos el proceso para que los estudiantes obtengan certific
 
 1. **Plan de Estudio**: En 4Geeks ofrecemos diversos programas que se enfocan en habilidades específicas; al momento de elegir, es necesario adquirir un plan de estudio que incluya el certificado que **deseas obtener**. Los diferentes planes de estudio ofrecen acceso a una variedad de cursos y certificaciones. Asegúrate de seleccionar el plan que se adapte a tus objetivos.
 
-> Si quieres leer un poco mas acerca de Cursos y Bootcamps que ofrecemos junto con sus estructuras, [haz clic aquí](https://github.com/breatheco-de/knowledge-base/blob/main/content/aprendiendo-con-4geeks.md)
+> Si quieres leer un poco mas acerca de Cursos y Bootcamps que ofrecemos junto con sus estructuras, [haz clic aquí](https://4geeks.com/es/docs/knowledge-base-4geeks/aprendiendo-con-4geeks)
 
 2. **Curso y Tareas**: Una vez elegido el curso, asegúrate de completar todas las tareas obligatorias del curso. Esto te permitirá adquirir las habilidades necesarias.
 
