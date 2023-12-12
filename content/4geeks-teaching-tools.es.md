@@ -4,7 +4,7 @@ A la hora de empezar el viaje de aprender a programar, cada detalle cuenta. No e
 
 En este artículo, exploraremos estos recursos fundamentales que marcarán tu proceso de aprendizaje. Descubrirás los beneficios distintivos de cada uno de ellos, explorarás la diversidad de opciones de apoyo disponibles y te explicaremos por qué las seleccionamos. Prepárate para sumergirte en el universo de herramientas de 4Geeks, diseñadas para allanar tu camino hacia el éxito en el mundo de la programación.
 
-## 1. Visual Studio Code (VSCode): Tu Aliado en la Edición de Código
+## Visual Studio Code (VSCode)
 
 VSCode es como tu bolígrafo en el mundo de la programación. Es un editor de código que no te abrumará con características innecesarias pero que aún así tiene todo lo justo. ¿Por qué lo usamos? Porque queremos que te familiarices con una herramienta que usarás en el mundo real. Es fácil de usar, personalizable y se adapta a varios lenguajes de programación. No solo aprenderás a programar, sino que también te acostumbrarás a utilizar una plataforma empleada por profesionales en la actualidad.
 
@@ -26,39 +26,38 @@ Recomendamos a nuestros estudiantes el uso de Visual Studio Code (VSCode). Aunqu
 
 ![Visual Studio](https://breathecode.herokuapp.com/v1/media/file/visual-studio-png?raw=true)
 
-## 2. Git & GitHub: Colaborando y Rastreando Cambios
+## Git & GitHub
 
-Primero expliquemos que son: **Git** es un sistema de control de versiones distribuido que permite gestionar cambios en el código fuente durante el desarrollo de software. Permite realizar un seguimiento preciso de las modificaciones, facilita la colaboración en proyectos y ayuda a mantener un historial detallado de las versiones. Por otro lado, **GitHub** es una plataforma en línea basada en Git que proporciona servicios de alojamiento para repositorios Git. Ofrece herramientas adicionales para la colaboración, seguimiento de problemas, despliegue continuo y más. En otras palabras, es una forma de compartir y colaborar en proyectos utilizando la infraestructura de Git.
+Git es como tu asistente personal de control de versiones, ¡siempre listo para gestionar esos cambios en tu código mientras desarrollas software! Con la precisión de un relojero, realiza un seguimiento minucioso de cada modificación, lo que facilita la colaboración en proyectos y te brinda un historial detallado de todas las versiones. Y cuando se trata de colaborar en línea, tenemos a GitHub; esta plataforma basada en Git es como el hogar de tus repositorios, ofreciendo servicios de alojamiento y herramientas adicionales para una colaboración impecable, seguimiento de problemas, despliegue continuo y mucho más.
 
-Son como tu historial de cambios en un documento, pero para el código. Git facilita llevar un registro de las modificaciones que haces en tu código, lo cual es vital cuando trabajas en equipo. GitHub es como la carpeta central donde guardas y compartes tus archivos. Estas herramientas enseñan a los estudiantes sobre el control de versiones y la colaboración, habilidades cruciales en el desarrollo de software.
-
-Aquí tienes un cuadro comparativo que destaca algunas ventajas de usar GitHub y Git en 4Geeks:
-
-| **Ventajas**                          | **GitHub**                                      | **Git**                                            |
-|----------------------------------------|-------------------------------------------------|----------------------------------------------------|
-| **Control de Versiones Eficiente**     | Sólido sistema de control de versiones.        | Distribuido, permite llevar un historial detallado. |
-| **Colaboración Simplificada**          | Facilita la colaboración en equipos.           | Permite trabajar en proyectos de manera colaborativa.|
-| **Almacenamiento Seguro**              | Repositorios seguros y accesibles en la nube.  | Almacena proyectos de forma segura localmente.      |
-| **Aprendizaje Práctico de Git**        | Interfaz gráfica amigable para aprender Git.   | Uso directo de comandos Git, fomenta el aprendizaje.|
-| **Creación de Portafolios**            | Permite crear portafolios en línea (GitHub Pages).| Facilita la presentación de proyectos individuales. |
-
-Estas ventajas hacen que GitHub y Git sean elecciones estratégicas, ya que contribuyen a una experiencia educativa más completa
-
+¿Por qué amamos estas herramientas? Git es tu compañero ideal para mantener un historial organizado de tus cambios, crucial cuando trabajas en equipo. Además, con su capacidad para fusionar eficientemente cambios de diferentes colaboradores, hace que la colaboración sea pan comido. Por otro lado, GitHub, siendo una plataforma centralizada, simplifica el trabajo colaborativo, estructura las revisiones de código y ofrece integraciones para el despliegue continuo. Juntas, estas herramientas no solo hacen que el desarrollo de software sea más eficiente, sino que también son maestras en enseñar habilidades esenciales como el control de versiones y la colaboración. ¡Git y GitHub, el dúo dinámico que hace que el desarrollo sea aún más emocionante!
 
 ![Git & GitHub](https://breathecode.herokuapp.com/v1/media/file/github-png?raw=true)
 
-**3. LearnPack: Haciendo la Práctica más Efectiva**
+## LearnPack
 
-LearnPack es como tu gimnasio para practicar programación. ¿Por qué lo usamos? Porque sabemos que aprender a programar no es solo acerca de entender conceptos, sino de aplicarlos activamente. Dentro de LearnPack, encontrarás ejercicios diseñados para reforzar tus habilidades. Con pruebas automatizadas, obtienes retroalimentación inmediata, lo que significa que puedes aprender de tus errores y mejorar más rápido.
+En 4Geeks, la elección de LearnPack como herramienta educativa clave responde a nuestra búsqueda constante de optimizar el proceso de aprendizaje en programación. Más que simplemente un conjunto de instrucciones, LearnPack funciona como recurso integral que se adentra en la práctica activa, el compromiso y la aplicación efectiva de conocimientos. Desde la perspectiva del estudiante, esta herramienta no solo presenta ejercicios prácticos diseñados para fortalecer la comprensión y perfeccionar las habilidades de programación, sino que también elimina la complejidad mediante la automatización de pruebas y tutoriales paso a paso.
 
-**4. 4Geeks.com: Tu Depósito de Recursos Educativos**
+LearnPack no solo se limita a proporcionar un entorno de práctica; también se destaca por su integración directa con el editor de código, simplificando aún más la experiencia del usuario. Con funciones como compilación de código, tutoriales en vídeo, pruebas automáticas y soporte multilingüe, LearnPack se convierte en un aliado esencial tanto para estudiantes como para profesores, consolidándose como una herramienta versátil y centrada en el aprendizaje práctico.
+
+En otras palabras, es como tu gimnasio para practicar programación. ¿Por qué lo usamos? Porque sabemos que aprender a programar no es solo acerca de entender conceptos, sino de aplicarlos activamente. Dentro de LearnPack, encontrarás ejercicios diseñados para reforzar tus habilidades. Con pruebas automatizadas, obtienes retroalimentación inmediata, lo que significa que puedes aprender de tus errores y mejorar más rápido.
+
+Si quieres falimiarizarte un poco más con LearnPack haz clic [aquí](https://4geeks.com/es/docs/knowledge-base-4geeks/que-es-learnpack) para más información.
+
+![Learnpack](https://breathecode.herokuapp.com/v1/media/file/learnpack-jpg?raw=true)
+
+## 4Geeks.com
 
 Nuestra página web, 4Geeks.com, es como tu biblioteca personal de recursos educativos. Aquí, encontrarás herramientas que siempre están a tu disposición. ¿Qué puedes obtener?
 
-- Clases en vivo cada semana.
+- [Workshops](https://4geeks.com/es/docs/knowledge-base-4geeks/participando-en-workshops) cada semana.
 - Contenido para revisar cuando quieras.
 - Apuntes interactivos y tutoriales.
 - Artículos en el blog que abordan preguntas comunes de los estudiantes.
+
+> Puedes leer el artículo [Aprendido con 4Geeks](https://4geeks.com/es/docs/knowledge-base-4geeks/aprendiendo-con-4geeks) para enterarte un poco más de lo que puedes encontrar en 4Geeks.com
+
+![4Geeks.com](https://breathecode.herokuapp.com/v1/media/file/4geekss-png?raw=true)
 
 En resumen, nuestras herramientas educativas están diseñadas para facilitar el aprendizaje y fomentar la práctica activa. En 4Geeks, creemos que estas herramientas son como tus compañeras de viaje en tu travesía de aprendizaje. Únete a nosotros y descubre cómo estas herramientas pueden transformar tu experiencia educativa y prepararte para el mundo de la programación.
 
