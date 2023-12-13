@@ -83,7 +83,7 @@ Acceder a tus certificados en 4Geeks.com es fácil. Aquí te guiamos paso a paso
 
 1. **Inicia Sesión**: Comienza por iniciar sesión en tu cuenta de 4Geeks.com.
 
-![sign-in](../images/sign-in.png)
+![sign-in](https://shiny-acorn-4ppjg6jp4p52j9v6.github.dev/?raw=true)
 
 2. **Perfil de Estudiante**: Una vez que hayas iniciado sesión, ve a tu perfil de estudiante.
 
