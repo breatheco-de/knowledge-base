@@ -83,7 +83,7 @@ Accessing your certificates on 4Geeks.com is easy. Here is a step-by-step guide:
 
 1. **Sign-in**: Start by logging in to your 4Geeks.com account.
 
-![sign-in](../images/sign-in.png)
+![sign-in](https://shiny-acorn-4ppjg6jp4p52j9v6.github.dev/?raw=true)
 
 2. **Student Profile**: Once you are logged in, go to your student profile.
 
