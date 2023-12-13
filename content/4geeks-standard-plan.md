@@ -45,3 +45,6 @@ Here you will witness these pros live in action, doing what they do best – wor
 Ever find yourself stuck while learning or facing a challenge? Well, with this plan, you get the golden opportunity for **1** one-on-one mentoring session!
 
 You'll meet and learn from seasoned tech industry mentors during this mentoring session. They are not just knowledgeable, but also incredibly helpful. They'll guide you through even the trickiest concepts. So, when you find yourself facing a challenge, don't fret! With your mentoring session in 4Geeks Standard, you have the perfect opportunity to seek answers, clear your doubts, and truly experience the 4Geeks journey. We're confident that this live interaction will elevate your skills in the blink of an eye.
+
+## ⭐ Join the Community
+Learning is not just about lessons; it's about the people you meet and the connections you build. 4Geeks Standard gives you access to our vibrant community and Slack channel. Connect with like-minded individuals, share experiences, and collaborate on projects!
