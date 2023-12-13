@@ -1,5 +1,5 @@
 ---
-title: "Maximizing Your Mentoring Session"
+title: "Maximizing your mentoring session"
 subtitle: "Unlock the full potential of your mentoring sessions. Learn valuable tips to prepare, actively participate, and effectively apply your newfound knowledge."
 tags: ["4geeks"]
 authors: ["Lorenagubaira"]
