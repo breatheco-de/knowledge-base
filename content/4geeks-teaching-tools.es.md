@@ -48,7 +48,7 @@ LearnPack no solo se limita a proporcionar un entorno de práctica; también se 
 
 En otras palabras, es como tu gimnasio para practicar programación. ¿Por qué lo usamos? Porque sabemos que aprender a programar no es solo acerca de entender conceptos, sino de aplicarlos activamente. Dentro de LearnPack, encontrarás ejercicios diseñados para reforzar tus habilidades. Con pruebas automatizadas, obtienes retroalimentación inmediata, lo que significa que puedes aprender de tus errores y mejorar más rápido.
 
-Si quieres falimiarizarte un poco más con LearnPack haz clic [aquí](https://4geeks.com/es/docs/knowledge-base-4geeks/que-es-learnpack) para más información.
+Si quieres falimiarizarte un poco más con LearnPack haz clic [aquí](https://4geeks.com/es/lesson/que-es-learnpack) para más información.
 
 ![Learnpack](https://breathecode.herokuapp.com/v1/media/file/learnpack-jpg?raw=true)
 
