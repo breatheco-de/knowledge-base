@@ -18,18 +18,18 @@ Are you ready to embark on a journey of technical discovery? At [4Geeks.com](htt
 - Variety of Courses: Explore diverse topics aligned with your interests and career goals.
 - Self-Paced Learning: Progress at your speed, ensuring a thorough grasp of concepts.
 - Workshops: Access to live workshops from industry experts every week (included with subscription).
-- 1-1 Mentorship: Schedule private sessions with experienced tech industry experts.
+- 1-1 Mentorship: Schedule a private session with experienced tech industry expert.
 
 ## 4Geeks Premium: Elevate Your Technical Skills ($19.99 per month)
 
-4Geeks Premium is the ideal choice for a **comprehensive** approach to mastering technical skills with expert guidance and AI support. This plan includes all the benefits of 4Geeks Standard, such as community access, course library, private mentoring, and live workshops. What sets it apart is the unlimited access to live workshops, unrestricted AI feedback, and three monthly mentoring sessions with our experts and AI. This level of support ensures your success on your technical learning journey.
+4Geeks Premium is the ideal choice for a **comprehensive** approach to mastering technical skills with expert guidance and AI support. This plan includes all the benefits of 4Geeks Standard, such as community access, course library, private mentoring, and live workshops. What sets it apart is that you will hace access to 10 Live workshops p/mo, unrestricted AI feedback, and 2 monthly mentoring sessions with our experts and AI. This level of support ensures your success on your technical learning journey.
 
 ### ⭐ Benefits:
 
 - All Standard Plan Benefits.
-- Unlimited Live Workshops: Expand your horizons with 10 live workshops per month.
+- Live Workshops: Expand your horizons with 10 live workshops per month.
 - AI Feedback and Support: Get constant code feedback and personalized tips.
-- 3 Monthly Mentoring Sessions: Boost your skills with individualized mentorship.
+- 2 Monthly Mentoring Sessions: Boost your skills with individualized mentorship.
 - Community Access: Connect with like-minded individuals and industry professionals.
 - Certificates: Receive verifiable certificates upon completing courses.
 
