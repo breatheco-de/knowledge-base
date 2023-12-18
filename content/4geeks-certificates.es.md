@@ -20,14 +20,14 @@ Es por eso que hemos trabajado con expertos y estudiado cómo crear un entorno, 
 
 Como mencionamos anteriormente, los certificados desempeñan un papel fundamental para los estudiantes en su búsqueda de empleo, ya que proporcionan una validación concreta de las habilidades adquiridas a lo largo de su formación. Para comprender mejor su importancia, a continuación, veamos una tabla de datos que muestra la influencia positiva de los certificados en la contratación de profesionales:
 
-| **Métrica**                  | **Influencia de Certificados**   |
+| **Métricas** | **Influencia de Certificados** |
 |--------------------------|-------------------------------|
-| Tasa de Empleabilidad   | Aumento significativo.        |
-| Tasa de Ingreso Salarial | Mayor salario inicial.        |
-| Tiempo de Búsqueda de Empleo | Reducción del tiempo de búsqueda. |
-| Avance Profesional     | Mayor probabilidad de promoción. |
+Tasa de Empleabilidad | **Aumento estimado del 10 al 15%.**        |
+| Tasa de Ingresos Salariales | **Aumento estimado del 5 al 20% en el salario inicial.**        |
+| Tiempo de Búsqueda de Empleo | **Reducción estimada del 10 al 20% en el tiempo de búsqueda.** | |
+| Avance Profesional | **Aumento estimado del 10 al 36% en la probabilidad de ascenso.** |
 
-> 💡 Estos datos demuestran que contar con certificados de calidad mejora la empleabilidad, el salario inicial, acelera la búsqueda de empleo y promueve el avance en la carrera profesional de los estudiantes.
+> 💡 Nota: Ten en cuenta que estos números son estimados cercanos y pueden variar según el certificado y tu trayectoria profesional personal. Los certificados son cruciales para resaltar tus habilidades y conocimientos, desempeñando un papel clave en tu crecimiento y avance profesional.
 
 ## Reconocimiento en la Industria
 
