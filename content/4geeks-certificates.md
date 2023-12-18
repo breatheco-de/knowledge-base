@@ -22,12 +22,12 @@ As we mentioned earlier, certificates play a key role for students in their job 
 
 | **Metrics** | **Influence of Certificates** |
 |--------------------------|-------------------------------|
-Employability Rate | Significant increase.        |
-| Wage Income Rate | Increased starting salary.        |
-| Job Search Time | Reduction in search time. | |
-| Career Advancement | Increased probability of promotion. |
+Employability Rate | Estimated 10-15% increase.        |
+| Wage Income Rate | Estimated 5-20% increase in starting salary.       |
+| Job Search Time | Estimated 10-20% reduction in search time. | |
+| Career Advancement | Estimated 10-36% increased probability of promotion. |
 
-> 💡 This data demonstrates that having quality certificates improves employability, starting salary, accelerates job search, and promotes career advancement for students.
+> 💡 Note: Keep in mind that these numbers are close estimates and can change based on the certificate and your personal career journey. Certificates are crucial for highlighting your skills and knowledge, playing a key role in your professional growth and advancement.
 
 ## Industry Recognition
 
