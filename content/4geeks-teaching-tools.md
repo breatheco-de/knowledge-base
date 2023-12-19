@@ -1,2 +1,0 @@
-# 4Geeks Teaching Tools
-
