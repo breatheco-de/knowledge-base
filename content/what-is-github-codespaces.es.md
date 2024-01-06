@@ -6,7 +6,7 @@ authors: ["alesanchezr"]
 
 ---
 
-En esta guía, proporcionaremos una explicación sobre Github Codespaces y por qué creemos que es una excelente herramienta para aprender habilidades relacionadas con la programación, por eso es una de las principales [herramientas de enseñanza](https://4geeks.com/es/docs/knowledge-base-4geeks/herramientas-de-ensenaza-4geeks).
+En esta guía, proporcionaremos una explicación sobre Github Codespaces y por qué creemos que es una excelente herramienta para aprender habilidades relacionadas con la programación; por eso, es una de las principales [herramientas de enseñanza](https://4geeks.com/es/docs/knowledge-base-4geeks/herramientas-de-ensenaza-4geeks).
 
 ## ¿Qué es GitHub Codespaces?
 
