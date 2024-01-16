@@ -1,8 +1,8 @@
 ## Cómo Gestionar y Seguir tus Tareas en 4Geeks
 
-Para aprovechar al máximo tus cursos y programas en 4Geeks, es fundamental que te familiarices con el Dashboard. Esta pantalla es tu centro de control, donde encontrarás una serie de herramientas útiles diseñadas para ayudarte a mantenerte organizado y tener un control total de tu actividad en nuestra plataforma. El Dashboard es tu aliado en el camino hacia el [aprendizaje efectivo](https://github.com/breatheco-de/knowledge-base/blob/main/content/mastering-technical-knowledge.es.md) y el logro de tus objetivos educativos.
+Para aprovechar al máximo tus cursos y programas en 4Geeks, es fundamental que te familiarices con el Dashboard. Esta pantalla es tu centro de control, donde encontrarás una serie de herramientas útiles diseñadas para ayudarte a mantenerte organizado y tener un control total de tu actividad en nuestra plataforma. El Dashboard es tu aliado en el camino hacia el [aprendizaje efectivo](/es/mastering-technical-knowledge) y el logro de tus objetivos educativos.
 
-> Si deseas saber un poco más a profundidad todo acerca tu **Dashboard**, te invitamos a leer [Manejo de cuentas](https://github.com/breatheco-de/knowledge-base/blob/main/content/account-management.md).
+> Si deseas saber un poco más a profundidad todo acerca tu **Dashboard**, te invitamos a leer [Manejo de cuentas](/es/docs/knowledge-base-4geeks/manage-your-4geeks-account).
 
 ## Manejo de tus tareas
 
