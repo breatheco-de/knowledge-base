@@ -35,7 +35,7 @@ Entendemos que prefieras mantener algunos proyectos en privado. Es una opción c
 
 > Te recomendamos encarecidamente que hagas públicos todos tus repositorios desde el primer día.
 
-### Cómo hacer públicos tus proyectos
+### ¿Cómo hacer públicos tus proyectos?
 
 1. Inicia sesión en [tu cuenta de GitHub](https://github.com/settings/profile).
 2. Ve a [página del repositorio de la organización] de 4Geeks Academy(https://github.com/orgs/4GeeksAcademy/repositories).
@@ -46,7 +46,7 @@ Entendemos que prefieras mantener algunos proyectos en privado. Es una opción c
 
 > 🔥 Inmediatamente después de graduarte, los proyectos que hayas creado durante el bootcamp serán **programados para borrarse** en 30 días. Debes bifurcarlos en tu cuenta de Github para evitar perderlos.
 
-### Cómo hacer un fork de tus proyectos
+### ¿Cómo hacer un fork de tus proyectos?
 
 Para evitar perder el código de tus proyectos, puedes crear una copia en tu cuenta personal de GitHub, convirtiéndote en el único propietario de esta nueva copia que nadie podrá borrar ni a la que nadie tendrá acceso.
 
