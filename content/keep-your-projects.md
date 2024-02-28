@@ -33,7 +33,7 @@ We decided to keep students' projects for up to 30 days after graduation, which 
 
 We understand that you may prefer to keep some projects private. That is a completely valid choice, but it is important that you understand the implications. If you decide to keep your projects as **private repositories**, you will lose access to them once you are no longer a member of the 4Geeks Academy organization.
 
-> 🔥 We strongly recommend making all your repositories public from day one.
+> 👉 We strongly recommend making all your repositories public from day one.
 
 ### How to Make Your Projects Public
 
