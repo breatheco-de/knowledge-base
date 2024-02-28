@@ -10,11 +10,11 @@ Projects represent the work and experience in your professional portfolio. These
 
 Once you graduate from one of [4Geeks Academy bootcamps](https://4geeksacademy.com/us/programs), you will have access to the community and most of our benefits for life:
 
-- Career Support (Geekforce)
-- Mentorships (GeekPal)
-- Slack workspace and `#public-support` channels (GeekPal)
+- Career Support (Geekforce).
+- Mentorships (GeekPal).
+- Slack workspace and `#public-support` channels (GeekPal).
 - Online platform for lessons, exercises, and projects.
-- LearnPack exercise engine
+- LearnPack exercise engine.
 
 But, as you will understand after reading this article, we cannot keep giving you access to [4Geeks Academy's GitHub Organization as a member](https://github.com/4GeeksAcademy), which comes with several limitations.
 
