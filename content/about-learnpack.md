@@ -15,5 +15,5 @@ You can easily create exercises with interactive instructions and automated test
 * **Interactive instructions:** You can easily create great interactive instructions with LearnPack as we use markdown for the instructions file.
 
 ## Next Steps ⏭️
-- [ ] Watch this [video]() about LearnPack.
+- [ ] Watch this video about LearnPack.
 - [ ] Read this [Lesson](https://4geeks.com/lesson/what-is-learnpack) about LearnPack.
