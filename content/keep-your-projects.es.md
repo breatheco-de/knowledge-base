@@ -3,7 +3,6 @@ title: "Mantén Tus Proyectos en GitHub Después de Graduarte del Bootcamp"
 subtitle: "Maximiza el Valor de tus Proyectos y Destaca tu Perfil Profesional a Través de GitHub Después de graduarte del Bootcamp de 4Geeks Academy"
 tags: ["4geeks", "github"]
 authors: ["Lorenagubaira"]
-
 ---
 
 Los proyectos representan el trabajo y la experiencia en tu portafolio profesional. Estos proyectos muestran tus habilidades como programador y son una poderosa herramienta para demostrar lo que puedes lograr en el campo profesional. Son tu carta de presentación ante posibles empleadores o clientes.
@@ -29,13 +28,13 @@ Github limita el número de repositorios que puede tener una organización; no p
 
 Decidimos mantener los proyectos de los estudiantes hasta 30 días después de la graduación, lo que te da tiempo de sobra para hacer copias de seguridad de todo tu código porque el proceso no lleva más de 2 minutos.
 
-## Empieza por hacer públicos tus proyectos
+## Empieza por hacer públicos tus proyectos 😎
 
 Entendemos que prefieras mantener algunos proyectos en privado. Es una opción completamente válida, pero es importante que entiendas las implicaciones. Si decides mantener tus proyectos como **repositorios privados**, perderás el acceso a ellos cuando dejes de ser miembro de la organización.
 
 > Te recomendamos encarecidamente que hagas públicos todos tus repositorios desde el primer día.
 
-### Cómo hacer públicos tus proyectos
+### ¿Cómo hacer públicos tus proyectos?
 
 1. Inicia sesión en [tu cuenta de GitHub](https://github.com/settings/profile).
 2. Ve a [página del repositorio de la organización] de 4Geeks Academy(https://github.com/orgs/4GeeksAcademy/repositories).
@@ -46,7 +45,7 @@ Entendemos que prefieras mantener algunos proyectos en privado. Es una opción c
 
 > 🔥 Inmediatamente después de graduarte, los proyectos que hayas creado durante el bootcamp serán **programados para borrarse** en 30 días. Debes bifurcarlos en tu cuenta de Github para evitar perderlos.
 
-### Cómo hacer un fork de tus proyectos
+### ¿Cómo hacer un fork de tus proyectos?
 
 Para evitar perder el código de tus proyectos, puedes crear una copia en tu cuenta personal de GitHub, convirtiéndote en el único propietario de esta nueva copia que nadie podrá borrar ni a la que nadie tendrá acceso.
 
