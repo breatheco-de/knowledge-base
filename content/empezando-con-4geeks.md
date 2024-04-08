@@ -1,8 +1,14 @@
-# Empezando con 4Geeks
+---
+title: "Empezando con 4Geeks"
+subtitle: "Descubre los pasos esenciales para iniciar tu viaje de programación con 4Geeks. Ya seas principiante o tengas experiencia previa, contamos con recursos personalizados para satisfacer tus necesidades."
+tags: ["4geeks"]
+authors: ["Lorenagubaira"]
+
+---
 
 Entendemos que elegir dónde comenzar tu viaje en el mundo de la programación es como sumergirse en un mar de infinitas opciones. ¡Pero no te preocupes, estamos aquí para ayudarte!
 
-Hemos dedicado años al estudio de las formas más efectivas de aprender, y hemos incorporado todo ese conocimiento en nuestros cursos. Hemos creado cuidadosamente una **[fórmula especial](https://4geeksacademy.notion.site/4geeksacademy/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06)** que maximiza tu experiencia de aprendizaje en todos los sentidos. Así que no necesitas preocuparte por buscar múltiples métodos para aprender programación. Con 4Geeks, todo lo que necesitas está aquí, en un solo lugar y con un enfoque completamente fresco. ¡Entonces, juntos hagamos que la programación sea simple, divertida y emocionante!
+Hemos dedicado años al estudio de las formas más efectivas de aprender, y hemos incorporado todo ese conocimiento en nuestros cursos. Hemos creado cuidadosamente una **[fórmula especial](https://4geeks.com/es/mastering-technical-knowledge)** que maximiza tu experiencia de aprendizaje en todos los sentidos. Así que no necesitas preocuparte por buscar múltiples métodos para aprender programación. Con 4Geeks, todo lo que necesitas está aquí, en un solo lugar y con un enfoque completamente fresco. ¡Entonces, juntos hagamos que la programación sea simple, divertida y emocionante!
 
 Entonces... ¿Estás listo para empezar a convertirte en un gran programador?
 
@@ -31,7 +37,7 @@ Por otro lado, si buscas una experiencia centrada en la carrera, nuestros [Bootc
 
 Disfruta de todos los beneficios de los **Cursos** además de [soporte de carrera](https://4geeks.com/es/sobre-nosotros) de por vida. Elige el camino que se adapte a tus objetivos y prospera en la industria tecnológica con 4Geeks!
 
-> *Puedes leer más acerca de todos los beneficios y las diferentes modalidades [aquí](https://4geeks.com/es/docs/learning-with-4geeks)*
+> *Puedes leer más acerca de todos los beneficios y las diferentes modalidades [aquí](https://4geeks.com/es/docs/knowledge-base-4geeks/aprendiendo-con-4geeks)*
 
 ### 3. Únete a la Comunidad 4Geeks 👨‍👩‍👦‍👦:
 

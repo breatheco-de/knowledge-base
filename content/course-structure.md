@@ -1,8 +1,14 @@
-# Course Structure
+---
+title: "Course Structure"
+subtitle: "Explore the well-organized framework of 4Geeks courses, combining interactive lessons, hands-on projects, and personalized support. Discover the basic structure, modules, reading lessons, interactive exercises, projects, and quizzes that make your learning journey entertaining and effective."
+tags: ["4geeks", "4geeks-method"]
+authors: ["Lorenagubaira"]
+
+---
 
 Our courses are followed by a well-organized framework that combines interactive lessons, hands-on projects, and personalized support. It doesn't matter if you are a beginner or already have some knowledge in the field. We assure you that we will make it as simple and entertaining as possible! In this article, we will briefly explain how our system works.
 
-Whether you choose one of our bootcamps or short courses, we have worked based on our ***[special formula](https://4geeksacademy.notion.site/4geeksacademy/Mastering-Technical-Knowledge-984d2df394c44aedb05987311ccfcf06)*** in order to guarantee an exponential learning curve 📈. You will see that it will be entertaining, and you will learn things all the time without even realizing it!
+Whether you choose one of our bootcamps or short courses, we have worked based on our ***[special formula](https://4geeks.com/mastering-technical-knowledge)*** in order to guarantee an exponential learning curve 📈. You will see that it will be entertaining, and you will learn things all the time without even realizing it!
 
 So, let's show you what you will find along this journey 😎
 

@@ -1,3 +1,11 @@
+---
+title:  "Sincronización de Organizaciones en GitHub: Gestión de Usuarios sin Esfuerzo para 4Geeks"
+subtitle: "Explora la integración fluida de la Sincronización de Organizaciones en GitHub en 4Geeks.com. Aprende a automatizar la gestión de usuarios, sincronizar cohortes y optimizar tu experiencia de GitHub."
+tags: ["4geeks", "github"]
+authors: ["alesanchezr"]
+
+---
+
 El portal de la academia [4Geeks.com](http://4Geeks.com/es) ahora puede sincronizar automáticamente y opcionalmente a los estudiantes como usuarios de su organización de Github.
 
 > 🐞 Esta es una función beta que será probada en las próximas semanas.
@@ -15,7 +23,7 @@ Los estudiantes son automáticamente `agregados` a la organización de GitHub en
 1. Cuando se agrega un estudiante a una cohorte.
 2. Cada vez que el estado de educación se vuelve `activo`.
 
-También puedes invitar manualmente a estudiantes a la organización desde [Github.com](http://Github.com) y [4Geeks.com](http://4Geeks.com los reconocerá cuando se sincronicen con Github; intentará obtener información sobre sus cohortes y conectarlos con su academia.
+También puedes invitar manualmente a estudiantes a la organización desde [Github.com](http://Github.com) y [4Geeks.com](https://4geeks.com/es) los reconocerá cuando se sincronicen con Github; intentará obtener información sobre sus cohortes y conectarlos con su academia.
 
 ![Comunidad de Desarrolladores](https://github.com/breatheco-de/knowledge-base/blob/main/images/4Geeks-Developers-Community-Admin_(5).png?raw=true)
 
@@ -51,7 +59,7 @@ Por razones logísticas y porque un estudiante puede pertenecer a varias academi
 
 - **¿Qué sucede si los estudiantes en cohortes que nunca terminan no se gradúan y permanecen `activos` para siempre?**
 
-    El sistema seguirá asumiendo que el estudiante pertenece a tu academia. Permanecerá dentro de su organización de Github para siempre. Siempre puedes eliminar manualmente al estudiante desde el [panel de administración]((https://admin.4geeks.com/admin/github).
+    El sistema seguirá asumiendo que el estudiante pertenece a tu academia. Permanecerá dentro de su organización de Github para siempre. Siempre puedes eliminar manualmente al estudiante desde el [panel de administración](https://admin.4geeks.com/admin/github).
     
 - **¿Qué sucede si el usuario está en varias cohortes, pero es eliminado de una?**
     

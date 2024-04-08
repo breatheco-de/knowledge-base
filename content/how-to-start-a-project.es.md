@@ -1,4 +1,10 @@
-# Cómo empezar un proyecto de programación  
+---
+title: "Cómo Iniciar un Proyecto de Programación en 4Geeks"
+subtitle: "Descubre las mejores alternativas para comenzar tu proyecto de programación en 4Geeks. Ya sea que estés utilizando plantillas, clonando repositorios o trabajando en la nube, tenemos la guía perfecta para ti."
+tags: ["4geeks", "codespaces"]
+authors: ["alesanchezr"]
+
+---
 
 En 4Geeks entendemos que empezar un proyecto es una de las cosas más difíciles de hacer. Hay muchas maneras diferentes de empezar, tantas que es difícil saber cuál es la mejor o la "forma recomendada".
 
@@ -25,7 +31,7 @@ Puedes saber si el repositorio es una plantilla porque contiene un botón que di
 
 Si el repositorio es una plantilla, vas a empezar creando un nuevo repositorio basado en la plantilla. Haz clic al botón que dice `Use this template` (usar esta plantilla); se mostrará un menú desplegable. Debes que hacer clic en la opción que dice `Create a new repository` (crear un nuevo repositorio):
 
-![Usar esta plantilla](https://user-images.githubusercontent.com/109599459/230989999-aeba16c4-c1c1-460a-b1bb-94631de6ccc4.png)
+![crear repositorio](https://user-images.githubusercontent.com/109599459/230989999-aeba16c4-c1c1-460a-b1bb-94631de6ccc4.png)
 
 Serás redirigido a una nueva vista donde vas a crear tu nuevo repositorio. Haz clic en el botón que dice `Select an owner`; se mostrará un menú desplegable.
 

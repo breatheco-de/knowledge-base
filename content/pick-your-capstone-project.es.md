@@ -1,4 +1,10 @@
-# ¿Cómo elegir un proyecto final?
+---
+title: "Elegir un Proyecto Final"
+subtitle: "Descubre las consideraciones clave y evita errores comunes al elegir tu proyecto final. Aprende de estos consejos experimentados para asegurar el éxito en tu trayectoria de proyecto."
+tags: ["4geeks"]
+authors: ["alesanchezr"]
+
+---
 
 Probablemente, estás aquí porque estas por empezar a construir tu proyecto final, ¡Qué emoción!
 

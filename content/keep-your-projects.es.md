@@ -1,4 +1,9 @@
-# Mantener tus proyectos en GitHub después de graduarte del bootcamp ✅
+---
+title: "Mantén Tus Proyectos en GitHub Después de Graduarte del Bootcamp"
+subtitle: "Maximiza el Valor de tus Proyectos y Destaca tu Perfil Profesional a Través de GitHub Después de graduarte del Bootcamp de 4Geeks Academy"
+tags: ["4geeks", "github"]
+authors: ["Lorenagubaira"]
+---
 
 Los proyectos representan el trabajo y la experiencia en tu portafolio profesional. Estos proyectos muestran tus habilidades como programador y son una poderosa herramienta para demostrar lo que puedes lograr en el campo profesional. Son tu carta de presentación ante posibles empleadores o clientes.
 
