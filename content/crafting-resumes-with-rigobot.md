@@ -2,6 +2,8 @@ Hey Geeks! Today, you will learn how to create your resumes using Rigobot. Rigob
 
 ## Steps
 
+_Watch this [video](https://www.loom.com/share/186d5016f5c64582b4ede9773aca68ad?sid=c864431c-10a7-4858-a2e2-25884b76c7f6)._
+
 1. **Download Rigobot Chrome Extension:**
    - Start by downloading the Rigobot Chrome extension from the provided link.
    - Install and activate the extension in your browser.
