@@ -13,7 +13,7 @@ Una vez que te gradúes en uno de los [bootcamps de la Academia 4Geeks](https://
 - Tutorías (GeekPal).
 - Espacio de trabajo Slack y canales `#public-support` (GeekPal).
 - Plataforma en línea para lecciones, ejercicios y proyectos.
-- Motor de ejercicios LearnPack.
+- "Motor de ejercicios LearnPack."
 
 Pero, como comprenderás después de leer este artículo, no podemos seguir dándote acceso a la Organización GitHub de 4Geeks Academy como miembro, lo que conlleva varias limitaciones.
 
