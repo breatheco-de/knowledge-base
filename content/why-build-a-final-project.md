@@ -78,3 +78,6 @@ Getting feedback frequently is how 4Geeks ensures you can have self-determined l
 
 We have discussed before [why it's so important to learn in public](https://4geeks.com/lesson/learn-in-public#why-is-this-so-impotant). Share your project online so more people can see it. Demonstrate your commitment and skills throughout the project.
 Post a little every day. You can do it
+ 
+ 
+ agregando una correccion de ortografia. (proyecto/ jhonnytiamure/)
