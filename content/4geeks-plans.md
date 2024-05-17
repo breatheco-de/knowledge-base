@@ -7,3 +7,5 @@ Are you ready to embark on a journey of technical discovery? At 4Geeks.com, we'r
 **4Geeks Premium: Elevate Your Technical Skills ($50 per month)** is the ideal choice for a comprehensive approach to mastering technical skills with expert guidance and AI support. This plan includes all the benefits of 4Geeks Standard, such as community access, course library, private mentoring, and live workshops. What sets it apart is the unlimited access to live workshops, unrestricted AI feedback, and three monthly mentoring sessions with our experts and AI. This level of support ensures your success on your technical learning journey.
 
 In summary, at 4Geeks.com, we offer two distinct subscription plans to cater to your technical learning needs: **4Geeks Standard (FREE)** and **4Geeks Premium ($50 per month)**. Whichever plan you choose, you're taking a significant step toward technical excellence. [Join us on this journey of growth and learning](https://4geeks.com/pricing).
+
+Puro código
