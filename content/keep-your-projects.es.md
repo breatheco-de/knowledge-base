@@ -24,7 +24,7 @@ Pero no te preocupes, esto es totalmente solucionable.
 
 ## ¿Por qué borramos tus proyectos?
 
-GitHub limita el número de repositorios que puede tener una organización; no podemos guardar copias de todos los proyectos que hayan hecho todos los estudiantes; tendremos que borrarlos en algún momento. 
+GitHub limita el número de repositorios que puede tener una organización, no podemos guardar copias de todos los proyectos que hayan hecho todos los estudiantes; tendremos que borrarlos en algún momento. 
 
 Decidimos mantener los proyectos de los estudiantes hasta 30 días después de la graduación, lo que te da tiempo de sobra para hacer copias de seguridad de todo tu código porque el proceso no lleva más de 2 minutos.
 
