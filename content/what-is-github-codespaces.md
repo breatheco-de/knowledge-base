@@ -10,7 +10,7 @@ In this guide, we’ll provide a very straightforward explanation about Github C
 
 ## What is GitHub Codespaces?
 
-In plain English: Github Codespaces is a computer builder “on the go”. Instead of using your own computer or working on your code locally; instead, you can ask Github Codespaces to create a remote computer and give you access to it; you can use that remote computer to work on your project or code.
+In plain English: GitHub Codespaces is a computer builder “on the go”. Instead of using your own computer or working on your code locally; instead, you can ask Github Codespaces to create a remote computer and give you access to it; you can use that remote computer to work on your project or code.
 
 ![what is a github codespace](https://github.com/breatheco-de/knowledge-base/blob/main/images/github-codespaces-explanation.png?raw=true)
 
@@ -51,7 +51,7 @@ GitHub is a website that compliments Git significantly; Github will provide you 
 
 ### Work on a “codespace” instead of your computer
 
-With codespaces, your code will still be saved on Github (using git), but instead of downloading the code to work on your computer, you press a button to open a remote computer called a “Codespace”  that will contain the latest version of your code.
+With codespaces, your code will still be saved on GitHub (using git), but instead of downloading the code to work on your computer, you press a button to open a remote computer called a “Codespace”  that will contain the latest version of your code.
 
 ![github codespaces workflow](https://github.com/breatheco-de/knowledge-base/blob/main/images/codespaces.png?raw=true)
 
