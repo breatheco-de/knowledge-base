@@ -10,7 +10,7 @@ Watch this [video tutorial](https://www.loom.com/share/b2ba175beba446cd85d2859fd
    - Capture a screenshot of the bug you want to report, including the URL of the website.
 
 2. **Go to Bug Reporting Platform:**
-   - Visit [this link](#) and click on "New Issue".
+   - Visit [this link](https://github.com/breatheco-de/breatheco-de/issues) and click on "New Issue".
 
 3. **Select Bug Report:**
    - Choose the option that says "Bug report".
