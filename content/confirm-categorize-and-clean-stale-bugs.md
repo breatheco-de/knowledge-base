@@ -1,6 +1,6 @@
 ## Watch these Videos:
-- [Understanding Stale Issues in GitHub](https://www.loom.com/share/video1)
-- [Daily Task: Checking Unassigned Issues](https://www.loom.com/share/video2)
+- [Understanding Stale Issues in GitHub](https://www.loom.com/share/775c119625ee411ba2b2207c2693f192?sid=c1d1d53f-0de6-4e29-8168-35f5462913ea)
+- [Daily Task: Checking Unassigned Issues](https://www.loom.com/share/f666d418b10e4ea49948fd24ef7b9ca6?sid=dbba6ff1-ef0b-4165-995c-349f9e622dc1)
 
 ## Procedure:
 
