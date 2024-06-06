@@ -7,7 +7,7 @@ authors: ["Lorenagubaira"]
 
 Los proyectos representan el trabajo y la experiencia en tu portafolio profesional. Estos proyectos muestran tus habilidades como programador y son una poderosa herramienta para demostrar lo que puedes lograr en el campo profesional. Son tu carta de presentación ante posibles empleadores o clientes.
 
-Una vez que te gradúes en uno de los [bootcamps de la Academia 4Geeks](https://4geeksacademy.com/es/programas?lang=es) tendrás acceso a la comunidad y a la mayoría de sus beneficios de por vida:
+Una vez que te certificado en uno de los [bootcamps de la Academia 4Geeks](https://4geeksacademy.com/es/programas?lang=es) tendrás acceso a la comunidad y a la mayoría de sus beneficios de por vida:
 
 - Apoyo profesional (Geekforce).
 - Tutorías (GeekPal).
@@ -24,7 +24,7 @@ Pero no te preocupes, esto es totalmente solucionable.
 
 ## ¿Por qué borramos tus proyectos?
 
-GitHub limita el número de repositorios que puede tener una organización; no podemos guardar copias de todos los proyectos que hayan hecho todos los estudiantes; tendremos que borrarlos en algún momento. 
+GitHub limita el número de repositorios que puede tener una organización; no podemos guardar copias de todos los proyectos que hayan hecho todos los estudiantes; tendremos que borrarlos en algún momento.
 
 Decidimos mantener los proyectos de los estudiantes hasta 30 días después de la graduación, lo que te da tiempo de sobra para hacer copias de seguridad de todo tu código porque el proceso no lleva más de 2 minutos.
 
@@ -66,4 +66,3 @@ Para evitar perder el código de tus proyectos, puedes crear una copia en tu cue
 4. Encuentra tu repositorio en `https://github.com/<Tu-Nombre-de-Usuario>/<Tu-Repositorio>`.
 
 > Nota: Debes reemplazar `<Tu-Nombre-de-Usuario>` y `<Tu-Repositorio>` con tu nombre de usuario y nombre de repositorio reales.
-
