@@ -6,7 +6,7 @@ authors: ["alesanchezr"]
 
 ---
 
-At 4Geeks, you will be working on many coding projects simultaneously; if you don't organize yourself, it can quickly become a mess. **Don't be the person who has to wait until you lose the project code to learn your lesson.** A well-structured workflow and setup will help you:
+As a developer, you will work on many coding projects simultaneously; it can quickly become a mess if you don't organize yourself. **Don't be the person who has to wait until you lose the project code to learn your lesson.** A well-structured workflow and setup will help you:
 
 - Never lose your project code (it happens a lot).
 - Reduce the time spent on setup and configuration.
@@ -57,7 +57,7 @@ We strongly recommend using virtual environments for every project you build, to
 ## Platform-Specific Instructions
 
 ### Windows
-     ```
+     
 
 2. **Git and Environment Management**:
    - Install Git from [git-scm.com](https://git-scm.com/download/win) and configure your user settings:
