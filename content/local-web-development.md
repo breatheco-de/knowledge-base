@@ -85,7 +85,7 @@ Once you have your environment ready, it is standard to create a file called `.e
 - VSCode is a popular that is probably used at your potential employer companies.
 - Customize your editor settings to match your workflow and team conventions.
 
-## Install your programming languages
+## 5) Install your programming languages
 
 These instructions vary depending on the programming language you choose to install; our recommendation is to have at least Node and Python, so here are the instructions for both languages.
 
