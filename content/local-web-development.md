@@ -1,35 +1,53 @@
+---
+title: "Local Web Development Setup And Best Practices"
+description: "How to start and setup your local web development environment across Windows, Mac, and Linux. Optimize your coding workflow: Project organization, Version control, IDE configuration, etc."
+tags: ["javascript", "node", "python", "nvm", "pyenv", "git"]
+authors: ["alesanchezr"]
 
+---
 
-At 4Geeks, you will be working on many coding projects simultaneously; if you don't organize yourself, it can become a mess pretty quickly. **Don't be the type of person who has to wait until you lose the project code to learn your lesson.** A well-structured workflow and setup will help you:
+At 4Geeks, you will be working on many coding projects simultaneously; if you don't organize yourself, it can quickly become a mess. **Don't be the person who has to wait until you lose the project code to learn your lesson.** A well-structured workflow and setup will help you:
 
-- Never lose your project code again.
-- Reduces the time spent on setup and configuration.
-- Makes it easier to switch between projects.
+- Never lose your project code (it happens a lot).
+- Reduce the time spent on setup and configuration.
+- Easily switch between projects.
 - Ensures your projects are portable and easily shared or moved.
-- Helps in avoiding conflicts and errors, especially when working with multiple dependencies.
+- Helps avoid conflicts and errors, especially when working with multiple dependencies.
 
-In this lesson, we will discuss the best practices for setting up your local development environment on any operating system (Windows, Mac, and Linux computers).
+This lesson will discuss the best practices for setting up your local development environment and workflow on any operating system (Windows, Mac, and Linux computers).
 
 ## **Consistent Directory Structure**: 
 
-Use a consistent directory structure to organize your projects. This makes it easier to navigate and manage your code. Recommended directories:
+Use a consistent directory structure to organize your projects. This makes switching between projects and navigating and managing your code easier. The following are the recommended directories to save your projects and code:
+
  - **Windows**: `C:\Users\<YourUsername>\MyDocuments\Code`
  - **Mac**: `/Users/<YourUsername>/Documents/Code`
  - **Linux**: `/home/<YourUsername>/Documents/Code`
 
-Setting Up Directories:
+### Creating your project code directory:
 
 ```windows
  - Navigate to `C:\Users\<YourUsername>\MyDocuments` and create a folder named `Code`.
- - This can be done via File Explorer or using the command line: `$ mkdir C:\Users\<YourUsername>\MyDocuments\Code`
+ - This can be done via File Explorer or using [the command line](https://4geeks.com/lesson/the-command-line-the-terminal): `$ mkdir C:\Users\<YourUsername>\MyDocuments\Code`
+```
+```macos
+Open Terminal and create the `Code` directory: `$ mkdir -p ~/Documents/Code`
+```
+```linux
+Open your terminal and create the `Code` directory: `$ mkdir -p ~/Documents/Code`
 ```
 
-## Version Control:
- - Use Git and GitHub for version control. Initialize a Git repository in your project directory using `git init`.
+## Version Control
+
+We strongly recommend you use [Git](https://4geeks.com/technology/git) and [Github](https://4geeks.com/technology/github) to manage your project files.
+
+- Make sure to [install git on your Windows, MacOS or Linux computer](/how-to/install-git-on-windows-macos-and-linux).
+- Initialize a Git repository separate for every project directory, this will be done later, by [cloning a current repository](https://4geeks.com/how-to/github-clone-repository) or creating a new one.
  - Regularly commit your changes with meaningful commit messages.
 
 ## Environment Management:
- - Use virtual environments to manage dependencies and avoid conflicts. For Python projects, tools like `venv` or `pipenv` are recommended.
+
+We strongly recommend using virtual environments for every project you build, to manage dependencies and avoid conflicts. For Python projects, tools like `venv` or `pipenv` are recommended.
  - Store environment-specific variables in a `.env` file and use a tool like `dotenv` to load them.
 
 ## Editor and IDE Configuration:
@@ -39,11 +57,6 @@ Setting Up Directories:
 ## Platform-Specific Instructions
 
 ### Windows
-1. **Setting Up Directories**:
-   - Navigate to `C:\Users\<YourUsername>\MyDocuments` and create a folder named `Code`.
-   - This can be done via File Explorer or using the command line:
-     ```sh
-     mkdir C:\Users\<YourUsername>\MyDocuments\Code
      ```
 
 2. **Git and Environment Management**:
@@ -55,11 +68,6 @@ Setting Up Directories:
    - Install Python from [python.org](https://www.python.org/downloads/windows/) and use `pipenv` or `venv` for virtual environments.
 
 #### Mac
-1. **Setting Up Directories**:
-   - Open Terminal and create the `Code` directory:
-     ```sh
-     mkdir -p ~/Documents/Code
-     ```
 
 2. **Git and Environment Management**:
    - Install Git using Homebrew:
@@ -73,11 +81,6 @@ Setting Up Directories:
      ```
 
 #### Linux
-1. **Setting Up Directories**:
-   - Open your terminal and create the `Code` directory:
-     ```sh
-     mkdir -p ~/Documents/Code
-     ```
 
 2. **Git and Environment Management**:
    - Install Git using your package manager (e.g., `apt` for Ubuntu):
