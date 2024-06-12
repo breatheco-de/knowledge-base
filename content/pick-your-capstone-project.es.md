@@ -15,7 +15,7 @@ El proyecto capstone es un simulacro de un proyecto de la vida real, probablemen
 
 Antes de hablarte de los requisitos del proyecto, consideramos más importante dejarte saber como evitar fracasar y garantizar que entregues a tiempo.
 
-## ¿Razones que hacen a un proyecto de Full-Stack fracazar?
+## ¿Razones que hacen a un proyecto de Full-Stack fracasar?
 
 Si estudias datascience salta a la próxima sección. Luego de 8 años viendo proyectos finales ser exitosos o fracasar, hemos compilado la siguiente lista de sugerencias:
 
