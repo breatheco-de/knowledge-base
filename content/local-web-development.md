@@ -31,10 +31,10 @@ The following steps will guide you on how to create this root directory dependin
 
 This folder can be created via File Explorer or using the following command `mkdir C:\Users\<YourUsername>\MyDocuments\Code`
 ```
-```macos
+```macos runable=true
 Open Terminal and create the `Code` directory using the following command: `$ mkdir -p ~/Documents/Code`
 ```
-```linux
+```linux runable=true
 Open your terminal and create the `Code` directory using the following command: `$ mkdir -p ~/Documents/Code`
 ```
 
