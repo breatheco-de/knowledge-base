@@ -27,11 +27,11 @@ Use a **consistent directory structure** to organize your projects. This makes s
 The following steps will guide you on how to create this root directory depending on your operating system:
 
 ```windows runable=true
- - Navigate to `C:\Users\<YourUsername>\MyDocuments` and create a folder named `Code`.
+Navigate to `C:\Users\<YourUsername>\MyDocuments` and create a folder named `Code`.
 
 This folder can be created via File Explorer or using the following command `mkdir C:\Users\<YourUsername>\MyDocuments\Code`
 ```
-```macos runable=true
+```mac runable=true
 Open Terminal and create the `Code` directory using the following command: `$ mkdir -p ~/Documents/Code`
 ```
 ```linux runable=true
