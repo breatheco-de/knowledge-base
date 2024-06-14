@@ -55,7 +55,7 @@ Every time you start working on a project, you will make changes to the files an
 - Initialize a separate Git repository for every project directory: This step will be done later as you start working on projects by [cloning a current repository](https://4geeks.com/how-to/github-clone-repository) or creating a new one.
  - Regularly commit your changes with meaningful commit messages.
 
-## 3) Each project must be a have different environment
+## 3) Each project must have different environment
 
 An "environment" refers to the setup or configuration under which a project runs. Ideally, you have one environment for one project, which means you will have as many environments as projects.
 
