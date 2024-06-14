@@ -87,13 +87,13 @@ Once you have your environment ready, it is standard to create a file called `.e
 
 ## 5) Install your programming languages
 
-These instructions vary depending on the programming language you choose to install; our recommendation is to have at least Node and Python, so here are the instructions for both languages.
+These instructions vary depending on the programming language you choose to install; we recommend having at least `Node` and `Python`, so here are the instructions for both languages.
 
-We strongly recommend installing node and python using a vier
+We strongly recommend installing `Node` and `Python` using version managers instead of installing the programming language in an isolated way.
 
 ### Install Python using Pyenv
 
-Pyenv is a tool for managing different versions of Python on our computer. It makes it easy to switch between versions as needed for the environment we are developing in. Click here to learn [how to install PyEnv on your local computer](https://4geeks.com/how-to/what-is-pyenv-and-how-to-install-pyenv).
+Pyenv is a tool for managing different versions of Python on our computer. It makes it easy to switch between versions as needed for our developing environment. Click here to learn [how to install PyEnv on your local computer](https://4geeks.com/how-to/what-is-pyenv-and-how-to-install-pyenv).
 
 ### Install Node using NVM
 
