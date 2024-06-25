@@ -40,7 +40,7 @@ Open your terminal and create the `Code` directory using the following command: 
 
 ## 2) Each project must be a new folder and git repository
 
-You cannot work and/or collaborate on multiple projects without using a version control system like [Git](https://4geeks.com/technology/git) and [Github](https://4geeks.com/technology/github).
+You cannot work and/or collaborate on multiple projects without using a version control system like [Git](https://4geeks.com/lesson/how-to-use-git-version-control-system) and [Github](https://4geeks.com/lesson/welcome-to-github).
 
 Every time you start working on a project, you will make changes to the files and those updates will be recorded and tracked by git:
 
