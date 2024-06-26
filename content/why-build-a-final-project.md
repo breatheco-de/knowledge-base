@@ -10,7 +10,7 @@ In this article, we will explain why "Capstone Projects" in our bootcamps are so
 
 There are several reasons that make sense when you [understand our teaching framework](https://4geeks.com/mastering-technical-knowledge). The main benefit is to stabilize your memory, but many other important aspects, such as motivation, learning to collaborate, etc., come into play.
 
-Before the final project existed, student performance was dramatically better. Including it as a requirement within the bootcamp has been the change that has most increased the course's quality.
+Before the final project existed, student performance was not dramatically better. Including it as a requirement within the bootcamp has been the change that has most increased the course's quality.
 
 ## What Is a Capstone Project?
 
