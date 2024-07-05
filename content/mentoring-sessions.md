@@ -8,15 +8,15 @@ authors: ["Lorenagubaira"]
 
 Many studies have proven that mentorship sessions are the most efficient method to speed up learning technical skills. Research in various educational contexts consistently highlights the profound impact of mentorship. For instance, a systematic review found that mentoring significantly enhances professional identity formation by providing both emotional and instrumental support, thereby boosting confidence and self-efficacy in mentees​ ([BioMed Central](https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-022-03589-z))​. Similarly, studies in STEM education have shown that mentored students develop a stronger scientific identity, linking them to essential career resources and research opportunities​ ([SpringerOpen](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-020-00242-3))​.
 
-<quote>At 4Geeks Academy, we take mentorship very seriously and have tailored the whole learning experience around it.  -- Alejandro Sanchez</quote>
+<quote>At 4Geeks Academy, we take [mentorship](https://4geeks.com/mentorships) very seriously and have tailored the whole learning experience around it.  -- Alejandro Sanchez</quote>
 
 We believe that personalized guidance is key to mastering technical skills efficiently. Depending on the learning plan, students can choose from specific or unlimited 1-1 mentorship sessions and group mentorship options. This flexibility ensures that each student receives the support they need to thrive in their learning journey.
 
-## Expertise
+## Our mentors are experts
 
 All of our mentors are experts in the syllabus they are mentoring. They have previously completed all or most of the projects the students work on, ensuring they can provide relevant, hands-on advice and solutions. This direct experience with the coursework enables our mentors to guide students through challenges effectively and share insights from their professional journeys.
 
-## Availability
+## Our mentors are availabile
 
 We are proud of our extensive network of mentors. With dozens of mentors distributed around the world, students always have access to the help they need without having to wait for several days. Our global presence also means that mentorship sessions can be adapted to the student's timezone, providing maximum convenience and support.
 
