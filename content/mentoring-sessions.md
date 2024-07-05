@@ -6,17 +6,25 @@ authors: ["Lorenagubaira"]
 
 ---
 
-In Mentoring sessions you get the opportunity to meet and learn from experienced tech industry mentors. These experts are super helpful, and they'll guide you through even the most challenging concepts. Whenever you feel stuck, they'll be right there to assist you, ensuring you level up your skills in no time.
+Many studies have proven that mentorship sessions are the most efficient method to speed up learning technical skills. Research in various educational contexts consistently highlights the profound impact of mentorship. For instance, a systematic review found that mentoring significantly enhances professional identity formation by providing both emotional and instrumental support, thereby boosting confidence and self-efficacy in mentees​ ([BioMed Central](https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-022-03589-z))​. Similarly, studies in STEM education have shown that mentored students develop a stronger scientific identity, linking them to essential career resources and research opportunities​ ([SpringerOpen](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-020-00242-3))​.
 
-What's even better is that these sessions are conducted with real everyday developers who know what they are doing and are trained to be able to teach you in the clearest way possible. So, any burning questions you have, they've got the answers! Plus, you have the freedom to choose a time that perfectly fits your schedule. 🤓
+<quote>At 4Geeks Academy, we take mentorship very seriously and have tailored the whole learning experience around it.  -- Alejandro Sanchez</quote>
 
-No matter which modality you go for, you have the chance to clarify any doubts you may have with a real pro in the field! We care deeply about your learning journey, and we believe that when you can get all your questions answered, it'll help you build rock-solid foundations.
+We believe that personalized guidance is key to mastering technical skills efficiently. Depending on the learning plan, students can choose from specific or unlimited 1-1 mentorship sessions and group mentorship options. This flexibility ensures that each student receives the support they need to thrive in their learning journey.
 
-That's why we've made sure you can have these mentoring sessions whenever it suits you best. We want your learning experience to be as convenient as possible, so you can focus on growing and killing it out there!
+## Expertise
 
-### 📆 Steps to Schedule a Mentoring Session
+All of our mentors are experts in the syllabus they are mentoring. They have previously completed all or most of the projects the students work on, ensuring they can provide relevant, hands-on advice and solutions. This direct experience with the coursework enables our mentors to guide students through challenges effectively and share insights from their professional journeys.
 
-1. Once you're in your program, look to the right-hand side. There, you'll find the **cohort** section. Right below it, you'll see a block titled **Schedule a 1-1 mentoring session**. That's where you can set up a personal mentoring session.
+## Availability
+
+We are proud of our extensive network of mentors. With dozens of mentors distributed around the world, students always have access to the help they need without having to wait for several days. Our global presence also means that mentorship sessions can be adapted to the student's timezone, providing maximum convenience and support.
+
+That's why we've ensured you can have these mentoring sessions whenever suits you best. We want your learning experience to be as convenient as possible, so you can focus on growing and killing it out there!
+
+## 📆 Steps to Schedule a Mentoring Session
+
+1. Once you're in your program dashboard, look to the right-hand sidebar. There, you'll find the **cohort** section. Right below it, you'll see a block titled **Schedule a 1-1 mentoring session**. That's where you can set up a personal mentoring session.
 
 ![Mentoring Sessions](https://breathecode.herokuapp.com/v1/media/file/mentoring-sessions-png?raw=true)
 
@@ -34,6 +42,13 @@ That's why we've made sure you can have these mentoring sessions whenever it sui
 
 So, there you go! Now you have an incredibly useful tool to help you learn to code. Feel free to use it as often as you need. And remember, we'll be here supporting you every step of the way. 😉
 
+## How many mentorships do you have available?
 
+Depending on your program, you may have mentorships that range from 0 to unlimited.
 
+You can find out how many mentorship sessions you have by clicking the following link, which will take you to [your profile subscriptions summary](https://4geeks.com/profile/subscriptions).
+
+![4geeks profile subscriptions](https://raw.githubusercontent.com/breatheco-de/knowledge-base/main/images/My%20Subscriptions.png).
+
+If you don't see any box referring to the number of mentorships available, it probably means that you have unlimited, but you can always check with our  support team by sending an email to support@4geeks.com or speaking with your program manager.
 
