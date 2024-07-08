@@ -46,7 +46,7 @@ So, there you go! Now you have an incredibly useful tool to help you learn to co
 
 Depending on your program, you may have mentorships ranging from 0 to unlimited. Sometimes the number of mentorships automatically resets every month, and you get more, or sometimes, they don't reset on their own, and you may have to buy more if needed.
 
-You can find out how many mentorship sessions you have by clicking the following link, which will take you to [your profile subscriptions summary](https://4geeks.com/profile/subscriptions).
+You can find out how many mentorship sessions you have by clicking the following link, which will take you to your [profile subscriptions summary](https://4geeks.com/profile/subscriptions).
 
 ![4geeks profile subscriptions](https://raw.githubusercontent.com/breatheco-de/knowledge-base/main/images/My%20Subscriptions.png).
 
