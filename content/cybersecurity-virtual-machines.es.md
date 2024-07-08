@@ -1,6 +1,6 @@
 ---
 technologies: ["ciberseguridad", "linux", "debian"]
-description: "Una colección de máquinas virtuales disponibles"
+description: "Una colección de máquinas virtuales disponibles para aprender ciberseguridad desde 4Geeks.com"
 authors: ["alesanchezr"]
 
 ---
