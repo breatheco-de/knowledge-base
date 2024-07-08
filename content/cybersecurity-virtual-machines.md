@@ -1,3 +1,8 @@
+---
+technologies: ["cybersecurity", "linux"]
+
+---
+
 # Cybersecurity Virtual Machines
 
 
