@@ -7,7 +7,7 @@ authors: ["alesanchezr"]
 
 # Máquinas Virtuales de Ciberseguridad
 
-Además de las [máquinas virtuales conocidas públicamente para practicar ciberseguridad](https://4geeks.com/lesson/virtual-machines-for-cybersecurity), hemos preparado una lista adicional de computadoras que son ideales para aprender Ciberseguridad:
+Además de las [máquinas virtuales conocidas públicamente para practicar ciberseguridad](https://4geeks.com/es/lesson/maquinas-virtuales-para-aprender-ciberseguridad), hemos preparado una lista adicional de computadoras que son ideales para aprender Ciberseguridad:
 
 ## Máquina Virtual Debian
 
