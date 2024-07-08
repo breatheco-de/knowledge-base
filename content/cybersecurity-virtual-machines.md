@@ -5,6 +5,7 @@ technologies: ["cybersecurity", "linux"]
 
 # Cybersecurity Virtual Machines
 
+Aside from the publicly known [virtual machines to practice cybersecurity](/lesson/virtual-machines-for-cybersecurity) we have prepared an additional list of computers that are ideal for learning CyberSecurity:
 
 ## Debian Virtual Machine
 
