@@ -42,7 +42,7 @@ That's why we've ensured you can have these mentoring sessions whenever suits yo
 
 So, there you go! Now you have an incredibly useful tool to help you learn to code. Feel free to use it as often as you need. And remember, we'll be here supporting you every step of the way. 😉
 
-## How many mentorships do you have available?
+## How many 1-on-1 mentorships do you have available?
 
 Depending on your program, you may have mentorships that range from 0 to unlimited.
 
