@@ -1,5 +1,7 @@
 ---
-technologies: ["cybersecurity", "linux"]
+technologies: ["cybersecurity", "linux", "debian"]
+description: ""
+authors: ["alesanchezr"]
 
 ---
 
@@ -18,7 +20,7 @@ Depending on your operating system:
 
 A) Windows and Linux computers can [download the OVA file](https://storage.googleapis.com/breathecode/virtualbox/deb.ova) and must import it to VirtualBox to create the Debian virtual machine. It is a heavy file, so it is advisable to download it in advance to save time when doing the practice.  
 
-B) Mac computers can download the ISO file (heavier) and use UTM to `emulate` (not virtualize) the machine.
+B) Mac computers can [download the ISO file](https://storage.googleapis.com/breathecode/virtualbox/deb-iso.zip) (heavier) and use UTM to `emulate` (not virtualize) the machine.
 
 ```txt
 Information to access the Debian machine
