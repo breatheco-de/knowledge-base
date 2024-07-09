@@ -9,6 +9,12 @@ authors: ["alesanchezr"]
 
 Aside from the publicly known [virtual machines to practice cybersecurity](https://4geeks.com/lesson/virtual-machines-for-cybersecurity) we have prepared an additional list of computers that are ideal for learning CyberSecurity:
 
+## Kali Linux Virtual Machine
+
+Kali Linux is a specialized Linux distribution designed for penetration testing, security research, computer forensics, and reverse engineering.
+
+We don't have a special procedure for installing Kali Linux; we follow the standard installation process suggested on the main page. You can follow it from this project: [Installing Kali Linux on a Virtual Machine](https://github.com/breatheco-de/installing-kali-linux-on-virtual-machine/tree/main).
+
 ## Debian Virtual Machine
 
 We have prepared a machine with Debian installed, with some basic settings that will be used during the bootcamp.  
