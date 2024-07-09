@@ -9,6 +9,12 @@ authors: ["alesanchezr"]
 
 Además de las [máquinas virtuales conocidas públicamente para practicar ciberseguridad](https://4geeks.com/es/lesson/maquinas-virtuales-para-aprender-ciberseguridad), hemos preparado una lista adicional de computadoras que son ideales para aprender Ciberseguridad:
 
+## Máquina Virtual de Kali Linux
+
+Kali Linux es una distribución de Linux especializada, diseñada para pruebas de penetración, investigación de seguridad, análisis forense informático y ingeniería inversa.
+
+No tenemos un procedimiento especial para instalar Kali Linux; seguimos el proceso de instalación estándar sugerido en la página principal. Puedes seguirlo desde este proyecto: [Instalando Kali Linux en una Máquina Virtual](https://github.com/breatheco-de/installing-kali-linux-on-virtual-machine/blob/main/README.es.md).
+
 ## Máquina Virtual Debian
 
 Hemos preparado una máquina con Debian instalado, con algunas configuraciones básicas que se utilizarán durante el bootcamp.  
