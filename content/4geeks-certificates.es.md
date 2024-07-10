@@ -65,7 +65,7 @@ En 4Geeks.com, facilitamos el proceso para que los estudiantes obtengan certific
 
 2. **Curso y Tareas**: Una vez elegido el curso, asegúrate de completar todas las tareas obligatorias del curso. Esto te permitirá adquirir las habilidades necesarias.
 
-> 🤓 No todas las tareas que encontrarás en el curso son obligatorias; aún así, es recomendable que las hagas para reforzar mejor lo aprendido en el proceso!
+> ¡No todas las tareas que encontrarás en el curso son obligatorias; aún así, es recomendable que las hagas para reforzar mejor lo aprendido en el proceso!
 
 3. **Aprobación de proyectos**: Una vez que hayas realizado y enviado tus proyectos obligatorios, el equipo de 4Geeks revisará tu trabajo. Las tareas deben ser aprobadas para avanzar en el proceso de obtención del certificado.
 
@@ -97,7 +97,7 @@ Una vez obtenidos los certificados, la clave está en saber cómo aprovechar al 
 
 - **Destaca el aval gubernamental**: Si tus certificados cuentan con el aval del Departamento de Educación de Florida, asegúrate de mencionarlo en tu currículum. Esto agrega un nivel adicional de autenticidad y valor a tus credenciales.
 
-- **Enumera las tecnologías dominadas**: Además de mencionar los certificados, detalla las tecnologías, herramientas y lenguajes de programación que has dominado durante tu formación. Por ejemplo, si has obtenido el certificado de "Desarrollo Frontend", enumera las tecnologías como HTML, CSS y JavaScript que has aprendido.
+- **Enumera las tecnologías dominadas**: Además de mencionar los certificados, detalla las tecnologías, herramientas y lenguajes de programación que has dominado durante tu formación. Por ejemplo, si has obtenido el certificado de "Desarrollo Front-end", enumera las tecnologías como HTML, CSS y JavaScript que has aprendido.
 
 > ⚠️ Asegúrate de que toda la información que incluyas en tu currículum sea precisa y verificable. Los empleadores pueden solicitar referencias o evidencia de tus certificados, por lo que es importante ser honesto acerca de tus logros.
 
