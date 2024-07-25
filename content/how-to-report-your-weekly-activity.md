@@ -11,10 +11,10 @@ Every week, you are required to update the document by adding each of the bugs t
    - Add the date you worked on each bug.
    - Provide the link to the bug.
    - Add a label that describes the activity. It could be one of the following:
-     - Reported
-     - Closed
-     - Confirmed
-     - Solved
-     - Suggestion
+			- `Reported`
+			- `Closed`
+			- `Confirmed`
+			- `Solved`
+			- `Suggestion`
 
 Consistently updating the Bug Reporting and Management Spreadsheet will ensure that all reported bugs are properly tracked and addressed. This organized approach will contribute to the overall effectiveness of the bug resolution process.
