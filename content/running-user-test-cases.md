@@ -6,4 +6,4 @@ A test case, is a detailed description of a scenario or interaction that a user 
 - [ ] Check the "Role" with which you must register (you will be assigned the necessary credentials): - Anonymous - Student - Teacher.
 - [ ] Follow the "Flow" and the "Step by Step" which will be your instructions to check whether there is a bug or not.
 - [ ] Check the "Done" box when done and the "Working" box if everything works. If not, report the bug in the "Bugs Found" box and the "Issues Report" tab.
-- [ ] Remember to add the bug to Github by reporting it in this link
+- [ ] Remember to add the bug to Github by reporting it in this [link](https://github.com/breatheco-de/breatheco-de/issues)
