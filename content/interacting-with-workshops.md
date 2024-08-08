@@ -1,5 +1,5 @@
 ---
-title: "Participating in Workshops"
+title: "Interacting with Workshops"
 subtitle: "Unlock the secrets to getting the most out of workshops. Dive into hands-on experiences, pro tips, and effective strategies to elevate your programming skills."
 tags: ["4geeks"]
 authors: ["Lorenagubaira"]
