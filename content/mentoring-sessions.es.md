@@ -8,7 +8,7 @@ authors: ["Lorenagubaira"]
 
 Muchos estudios han demostrado que las sesiones de mentoría son el método más eficiente para aprender habilidades técnicas. La investigación en varios contextos educativos destaca consistentemente el profundo impacto de la mentoría. Por ejemplo, una revisión sistemática encontró que la mentoría mejora significativamente la formación de la identidad profesional al proporcionar tanto apoyo emocional como instrumental, aumentando así la confianza y la autoeficacia en los mentees​ ([BioMed Central](https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-022-03589-z))​. De manera similar, estudios en la educación STEM han demostrado que los estudiantes con mentores desarrollan una identidad científica más fuerte, vinculándolos con recursos esenciales para su carrera y oportunidades de investigación​ ([SpringerOpen](https://stemeducationjournal.springeropen.com/articles/10.1186/s40594-020-00242-3))​.
 
-<quote>En 4Geeks Academy, tomamos [la mentoría](https://4geeks.com/mentorships) muy en serio y hemos adaptado toda la experiencia de aprendizaje en torno a ella.  -- Alejandro Sanchez</quote>
+<quote>En 4Geeks Academy, tomamos la mentoría muy en serio y hemos adaptado toda la experiencia de aprendizaje en torno a ella.  -- Alejandro Sanchez</quote>
 
 Creemos que la orientación personalizada es clave para dominar las habilidades técnicas de manera eficiente. Dependiendo del plan de aprendizaje, los estudiantes pueden elegir entre sesiones de mentoría 1-1 específicas o ilimitadas y opciones de mentoría grupal. Esta flexibilidad asegura que cada estudiante reciba el apoyo que necesita para prosperar en su viaje de aprendizaje.
 
