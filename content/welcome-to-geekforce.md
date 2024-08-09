@@ -20,7 +20,8 @@ We will guide you through the job search process, networking strategies, and muc
 We are here to support you every step of the way.
 
 ### Our Resources 🚀
-Let me share with you one of our most powerful resources, the [**GeekFORCE**](https://4geeksacademy.notion.site/GeekFORCE-Page-471f602753ca4d668f08fd205d044b9e?pvs=4) page, where you'll find everything you need to excel in the job search. **Please save this page to your favorites and review each section as recommended in the program.**
+Let me share with you one of our most powerful resources, the [**GeekFORCE**](https://4geeksacademy.notion.site/GeekFORCE-Page-471f602753ca4d668f08fd205d044b9e?pvs=4) page, where you'll find everything you need to excel in the job search. **Please save this page to your favorites and review each section as recommended in the program.** ⬇️
+![Screenshot 2024-08-09 153358](https://github.com/user-attachments/assets/bd80a560-105e-4d33-81e7-bdbbcf6d64ea)
 
 **⚠️Before you start, please read this section ➡️ [Learn how to identify a Job Scam]( https://4geeksacademy.notion.site/Learn-how-to-identify-a-Job-Scam-dd2c48e79eba405e9452a33b173c6a4d?pvs=4)**
 
