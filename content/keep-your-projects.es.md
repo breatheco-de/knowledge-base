@@ -7,7 +7,7 @@ authors: ["Lorenagubaira"]
 
 Los proyectos representan el trabajo y la experiencia en tu portafolio profesional. Estos proyectos muestran tus habilidades como programador y son una poderosa herramienta para demostrar lo que puedes lograr en el campo profesional. Son tu carta de presentación ante posibles empleadores o clientes.
 
-Una vez que estes certificado en uno de los [bootcamps de la Academia 4Geeks](https://4geeksacademy.com/es/programas?lang=es) tendrás acceso a la comunidad y a la mayoría de sus beneficios de por vida:
+Una vez que estés certificado en uno de los [bootcamps de la Academia 4Geeks](https://4geeksacademy.com/es/programas?lang=es) tendrás acceso a la comunidad y a la mayoría de sus beneficios de por vida:
 
 - Apoyo profesional (Geekforce).
 - Tutorías (GeekPal).
@@ -15,7 +15,7 @@ Una vez que estes certificado en uno de los [bootcamps de la Academia 4Geeks](ht
 - Plataforma en línea para lecciones, ejercicios y proyectos.
 - Motor de ejercicios LearnPack.
 
-Pero, como comprenderás después de leer este artículo, no podemos seguir dándote acceso a la Organización GitHub de 4Geeks Academy como miembro, lo que conlleva varias limitaciones.
+Además, como comprenderás después de leer este artículo, no podemos seguir dándote acceso a la Organización GitHub de 4Geeks Academy como miembro, lo que conlleva varias limitaciones.
 
 1. Perderás el acceso a los proyectos privados que hayas creado durante tu bootcamp.
 2. Cualquier proyecto que no hayas hecho "Fork" en tu cuenta personal será borrado pronto.
@@ -43,7 +43,7 @@ Entendemos que prefieras mantener algunos proyectos en privado. Es una opción c
 5. Una vez en la página de tu repositorio, busca la pestaña de configuración y haz clic en ella.
 6. Una vez dentro de ajustes, desplázate hacia abajo hasta encontrar el botón "hacer público" y haz clic en él.
 
-> Nota: Puede que encuentres que el botón dice "hacer privado" en lugar de "hacer público", lo que significa que tu repositorio ya estaba público y no necesitas hacer nada para hacerlo público.
+> Nota: Si el botón dice 'hacer privado' en lugar de 'hacer público', significa que tu repositorio ya es público y no necesitas realizar ningún cambio.
 
 ## 🚫 Evita que se borren tus proyectos al graduarte
 
