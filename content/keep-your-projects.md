@@ -8,7 +8,7 @@ authors: ["Lorenagubaira"]
 
 Projects represent the work and experience in your professional portfolio. These projects showcase your skills as a programmer and are a powerful tool to demonstrate what you can achieve in the professional field. They are your introduction to potential employers or clients.
 
-Once you graduate from one of [4Geeks Academy bootcamps](https://4geeksacademy.com/us/programs), you will have access to the community and most of our benefits for life:
+Once you graduate from one of the [4Geeks Academy bootcamps](https://4geeksacademy.com/us/programs), you will have access to the community and most of our benefits for life:
 
 - Career Support (Geekforce).
 - Mentorships (GeekPal).
