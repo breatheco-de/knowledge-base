@@ -27,7 +27,7 @@ But don't worry; this is entirely fixable.
 
 GitHub limits the number of repositories an organization can have; we cannot keep copies of every project every student ever made; we will have to delete them at some point. 
 
-We decided to keep students' projects for up to 30 days after graduation, which gives you plenty of time to backup all your code because the process takes no more than 2 minutes.
+We decided to keep students' projects for up to 30 days after graduation, which gives you plenty of time to back up all your code because the process takes no more than 2 minutes.
 
 ## Start by making your projects public
 
