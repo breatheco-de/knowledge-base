@@ -56,7 +56,7 @@ El proyecto final es un ambiente de colaboración muy similar al mundo real, ten
 
 Probablemente, durante el curso te has sentido bruto, tu [sindrome del impostor](https://4geeks.com/es/lesson/intro-to-4geeks-full-stack-es) está descontrolado. ¡🙂 Es normal!
 
-La confianza se logra cuando te das cuenta de que si haa aprendido, cuando eres útil sin necesidad de depender de los demás.
+La confianza se logra cuando te das cuenta de que si has aprendido, cuando eres útil sin necesidad de depender de los demás.
 
 Completar con éxito una parte o todo proyecto final afectará tu confianza de forma dramática. Por otro lado, debido a la estrecha colaboración con tus compañeros, te darás cuenta de que están en niveles de entendimiento similares al tuyo, y esto también tendrá un impacto muy positivo en tu confianza.
 
