@@ -28,7 +28,7 @@ GitHub limita el número de repositorios que puede tener una organización; no p
 
 Decidimos mantener los proyectos de los estudiantes hasta 30 días después de la graduación, lo que te da tiempo de sobra para hacer copias de seguridad de todo tu código porque el proceso no lleva más de 2 minutos.
 
-## Empieza por hacer públicos tus proyectos 😎
+## Empieza por hacer públicos tus proyectos 
 
 Entendemos que prefieras mantener algunos proyectos en privado. Es una opción completamente válida, pero es importante que entiendas las implicaciones. Si decides mantener tus proyectos como **repositorios privados**, perderás el acceso a ellos cuando dejes de ser miembro de la organización.
 
