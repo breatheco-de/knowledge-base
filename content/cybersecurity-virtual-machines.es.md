@@ -30,7 +30,7 @@ B) Las computadoras Mac pueden [descargar el archivo ISO](https://storage.google
 
 ```txt
 Información para acceder a la máquina Debian
-Usuario: deb
+Usuario: debian
 Contraseña: 123456
 Contraseña de root: 123456
 ```

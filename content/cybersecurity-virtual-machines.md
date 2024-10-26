@@ -30,7 +30,7 @@ B) Mac computers can [download the ISO file](https://storage.googleapis.com/brea
 
 ```txt
 Information to access the Debian machine
-User: deb
+User: debian
 Password: 123456
 RootPassword: 123456
 ```
