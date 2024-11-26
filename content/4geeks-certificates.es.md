@@ -1,4 +1,10 @@
-# Válida tus Conocimientos con Certificados de 4Geeks.com
+---
+title: "Valida tus Conocimientos con Certificados"
+subtitle: "Explora la importancia de la validación del conocimiento en el mercado laboral y cómo los certificados pueden mejorar tu carrera."
+tags: ["4geeks"]
+authors: ["Lorenagubaira"]
+
+---
 
 ¡La importancia de la validación de conocimientos en la búsqueda de empleo no puede subestimarse! Hoy en día, en un mercado laboral altamente competitivo, es **esencial** que los profesionales demuestren su experiencia y habilidades de manera efectiva. La **validación** de conocimientos se ha convertido en un activo clave para destacar en el proceso de contratación, y es aquí donde en [4Geeks.com](https://4geeks.com/) queremos desempeñar un papel crucial en tu carrera.
 
@@ -14,14 +20,14 @@ Es por eso que hemos trabajado con expertos y estudiado cómo crear un entorno, 
 
 Como mencionamos anteriormente, los certificados desempeñan un papel fundamental para los estudiantes en su búsqueda de empleo, ya que proporcionan una validación concreta de las habilidades adquiridas a lo largo de su formación. Para comprender mejor su importancia, a continuación, veamos una tabla de datos que muestra la influencia positiva de los certificados en la contratación de profesionales:
 
-| **Métrica**                  | **Influencia de Certificados**   |
+| **Métricas** | **Influencia de Certificados** |
 |--------------------------|-------------------------------|
-| Tasa de Empleabilidad   | Aumento significativo.        |
-| Tasa de Ingreso Salarial | Mayor salario inicial.        |
-| Tiempo de Búsqueda de Empleo | Reducción del tiempo de búsqueda. |
-| Avance Profesional     | Mayor probabilidad de promoción. |
+Tasa de Empleabilidad | Aumento estimado del 10 al 15%.        |
+| Tasa de Ingresos Salariales | Aumento estimado del 5 al 20% en el salario inicial.      |
+| Tiempo de Búsqueda de Empleo | Reducción estimada del 10 al 20% en el tiempo de búsqueda. | |
+| Avance Profesional | Aumento estimado del 10 al 36% en la probabilidad de ascenso. |
 
-> 💡 Estos datos demuestran que contar con certificados de calidad mejora la empleabilidad, el salario inicial, acelera la búsqueda de empleo y promueve el avance en la carrera profesional de los estudiantes.
+> 💡 Nota: Ten en cuenta que estos números son estimados cercanos y pueden variar según el certificado y tu trayectoria profesional personal. Los certificados son cruciales para resaltar tus habilidades y conocimientos, desempeñando un papel clave en tu crecimiento y avance profesional.
 
 ## Reconocimiento en la Industria
 
@@ -61,7 +67,7 @@ En 4Geeks.com, facilitamos el proceso para que los estudiantes obtengan certific
 
 1. **Plan de Estudio**: En 4Geeks ofrecemos diversos programas que se enfocan en habilidades específicas; al momento de elegir, es necesario adquirir un plan de estudio que incluya el certificado que **deseas obtener**. Los diferentes planes de estudio ofrecen acceso a una variedad de cursos y certificaciones. Asegúrate de seleccionar el plan que se adapte a tus objetivos.
 
-> Si quieres leer un poco mas acerca de Cursos y Bootcamps que ofrecemos junto con sus estructuras, [haz clic aquí](https://github.com/breatheco-de/knowledge-base/blob/main/content/aprendiendo-con-4geeks.md)
+> Si quieres leer un poco mas acerca de Cursos y Bootcamps que ofrecemos junto con sus estructuras, [haz clic aquí](https://4geeks.com/es/docs/knowledge-base-4geeks/aprendiendo-con-4geeks)
 
 2. **Curso y Tareas**: Una vez elegido el curso, asegúrate de completar todas las tareas obligatorias del curso. Esto te permitirá adquirir las habilidades necesarias.
 
@@ -77,7 +83,7 @@ Acceder a tus certificados en 4Geeks.com es fácil. Aquí te guiamos paso a paso
 
 1. **Inicia Sesión**: Comienza por iniciar sesión en tu cuenta de 4Geeks.com.
 
-![sign-in](../images/sign-in.png)
+![sign-in](https://shiny-acorn-4ppjg6jp4p52j9v6.github.dev/?raw=true)
 
 2. **Perfil de Estudiante**: Una vez que hayas iniciado sesión, ve a tu perfil de estudiante.
 
