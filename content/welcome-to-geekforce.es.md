@@ -1,6 +1,6 @@
 # ¡Bienvenido a GeekForce!
 
-Hola, joven Padawan!👋🏻 Bienvenido a **GeekForce**, el área oficial de apoyo a la carrera profesional de 4Geeks. Si estás leyendo esto, probablemente estés **buscando una transición a una carrera en TI.** ¡Te tenemos! Estás en el lugar adecuado.
+Hola, joven Padawan!👋🏻 Bienvenido a **GeekForce**, el área oficial de apoyo a la carrera profesional de 4Geeks. Si estás leyendo esto, probablemente estés **buscando una transición a una carrera en tecnología.** ¡Te tenemos! Estás en el lugar adecuado.
 
 Durante más de 6 años, hemos ayudado con éxito a personas de todos los orígenes a alcanzar sus objetivos y obtener empleos en el mundo de la codificación. **Construimos desarrolladores de software, científicos de datos y profesionales de ciberseguridad, y sabemos cómo hacer ese trabajo.
 
