@@ -1,8 +1,10 @@
-Hey Geeks! Today, you will learn how to create your resumes using Rigobot. Rigobot is an AI-powered tool designed to assist you in crafting compelling resumes that effectively showcase your skills and accomplishments. Follow the steps outlined below to navigate through the resume-building process independently.
+Hey Geeks! Today, you will learn how to create your resumes using Rigobot. 
 
-## Steps
+[Rigobot](https://4geeks.com/rigobot) is an AI-powered tool designed by 4Geeks to assist you in crafting compelling resumes that effectively showcase your skills and accomplishments. 
 
-_Watch this [video](https://www.loom.com/share/186d5016f5c64582b4ede9773aca68ad?sid=c864431c-10a7-4858-a2e2-25884b76c7f6)._
+Follow the steps outlined below to navigate through the resume-building process independently:
+
+> 📹 Watch this [video tutorial](https://www.loom.com/share/186d5016f5c64582b4ede9773aca68ad?sid=c864431c-10a7-4858-a2e2-25884b76c7f6).
 
 1. **Download Rigobot Chrome Extension:**
    - Start by downloading the Rigobot Chrome extension from the provided link.
