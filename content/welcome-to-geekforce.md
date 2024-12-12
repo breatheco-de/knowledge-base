@@ -1,8 +1,8 @@
 # Welcome to GeekForce!
 
-Hi there, young Padawan!👋🏻 Welcome to **GeekForce**, the official 4Geeks career support area. If you’re reading this, you’re probably **looking to transition into a career in IT.** We’ve got you! You’re in the right place.
+Hi there, young Padawan!👋🏻 Welcome to **GeekForce**, the official 4Geeks career support area. If you’re reading this, you’re probably **looking to transition into a career in tech.** We’ve got you! You’re in the right place.
 
-For over 6 years, we have successfully helped people from every background achieve their goals and land jobs in the coding world. **We build software developers, Data Scientists, and cybersecurity professionals, and we know how to get that work done!**
+For over 8 years, we have successfully helped people from every background achieve their goals and land jobs in the coding world. **We build software developers, Data Scientists, and cybersecurity professionals, and we know how to get that work done!**
 
 Here, we introduce you to all of our assets, resources, and tips to **find a job** in tech, kickstart your **freelance** career, and, of course, **benefit from the great alumni community** you belong to!
 
