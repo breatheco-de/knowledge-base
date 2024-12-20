@@ -85,7 +85,7 @@ Dependiendo del programa que cursando vas a encontrar diferentes requisitos, per
 - Deberás contar con al menos 3 rutas, utilizar el Context API, los conceptos detrás de Flux para Modelo, Vista y Action.
 - Intégrate con alguna API de un tercero.
 - Tener un sistema de autenticación con JWT o similar.
-- Intentar que el proyecto no tenga muchas vistas ni funcionalidades, piensa bien: ¿Cuántas funcionalidades tiene netflix? o instagram? El corde de funcionalidades es pequeño.
+- Intentar que el proyecto no tenga muchas vistas ni funcionalidades, piensa bien: ¿Cuántas funcionalidades tiene netflix? o instagram? El core de funcionalidades es pequeño.
 
 > 🔥 Entra aquí para ver una lista de los [requerimientos del proyecto final Full-Stack](https://4geeks.com/es/interactive-coding-tutorial/full-stack-project-stories-and-wireframes-es).
 
