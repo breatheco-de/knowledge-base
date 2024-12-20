@@ -70,7 +70,7 @@ Dependiendo del programa que cursando vas a encontrar diferentes requisitos, per
 - **Ser desplegados en línea**: Ya sea, heroku.com, render.com, Vercel, Azure, AWS, etc. Debes hacer que tu proyecto quede disponible en línea bajo algún URL y proporcionar un enlace para que puedas incluirlo en tu curriculum vitae como una muestra de tu trabajo.
 - **Ser realizados en grupos de 2 a 3 (recomendado) personas**: Si trabajas solo dejarás de aprender como trabajar de forma colaborativa, que es uno de los requisitos más importantes de las empresas. Tampoco serán necesarias muchas de las mejores prácticas. En fin, tu experiencia no será parecida a la vida real.
 
-> 🔥 Es importante trabajar en concenvar a tus compañeros de unirse a tu proyecto, después de todo los proyectos son en grupo y no todas las ideas se van a realizar, algunos alumnos deberán desistir de su ideal para unirse al equipo de un compañero.
+> 🔥 Es importante trabajar en convencer a tus compañeros de unirse a tu proyecto, después de todo los proyectos son en grupo y no todas las ideas se van a realizar, algunos alumnos deberán desistir de su ideal para unirse al equipo de un compañero.
 
 - **Ser subido a 4Geeks.com**: Cuando entres al dashboard de tu cohort, encontrarás una sección para subir la información de tu proyecto final.
 - **Ser presentado en un GeekTalk**: La presentación final es un paso necesario, te permitirá contar con un video de tu proyecto, además te obligará a fijar una fecha de entrega y trabajar bajo presión. A veces invitamos potenciales empleadores a los GeekTalk que están buscando talento para contratar.
