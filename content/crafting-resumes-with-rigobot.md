@@ -6,21 +6,21 @@ Follow the steps outlined below to navigate through the resume-building process 
 
 > 📹 Watch this [video tutorial](https://www.loom.com/share/186d5016f5c64582b4ede9773aca68ad?sid=c864431c-10a7-4858-a2e2-25884b76c7f6).
 
-1 **Download Rigobot Chrome Extension:**
-- [ ] Start by downloading the Rigobot Chrome extension from the provided link.
+**Download Rigobot Chrome Extension:**
+- [ ] Start by downloading the Rigobot Chrome extension from the provided [link](https://chromewebstore.google.com/detail/rigobot-gpt/nafkfoblmejhkpamppohfglpkiohikbb).
 - [ ] Install and activate the extension in your browser.
 
-2 **Login with 4Geeks Credentials:**
+**Login with 4Geeks Credentials:**
 - [ ] Log in using your 4Geeks Academy credentials to access personalized features.
 
-3 **Select Resume Builder:**
+**Select Resume Builder:**
 - [ ] Once logged in, select the "Resume Builder" option.
 
-4 **Choose Purpose:**
+**Choose Purpose:**
 - [ ] You will be asked, "What type of help do you need?"
 - [ ] Choose "Use a Template" to begin.
 
-5 **Resume Experience Section:**
+**Resume Experience Section:**
 - [ ] You'll have two options: "Generate a Resume Experience" and "Generate Project Description".
 - [ ] Focus on "Generate a Resume Experience" first.
 - [ ] Fill out the following blanks:
@@ -30,10 +30,10 @@ Follow the steps outlined below to navigate through the resume-building process 
      - Technologies: Name the technologies and tools you used in your previous roles.
 - [ ] Provide detailed and quantifiable information.
 
-6 **Generate with GPT-4:**
+**Generate with GPT-4:**
 - [ ] After filling out the details, click on "Generate" and then "Generate with GPT-4" for enhanced results.
 
-7 **Projects Description Section:**
+**Projects Description Section:**
 - [ ] Now, focus on the "Generate Project Description" option.
 - [ ] Fill out the following blanks:
      - Role: Specify your role within the project.
