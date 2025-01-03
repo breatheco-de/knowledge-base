@@ -44,10 +44,10 @@ Follow the steps outlined below to navigate through the resume-building process 
      - Small Description: Provide a brief overview of the project.
   - [ ] Showcase relevant skills and achievements.
 
-8 **Generate with GPT-4:**
+**Generate with GPT-4:**
 - [ ] Click on "Generate" and then "Generate with GPT-4" for refined outputs.
 
-9 **Start a Conversation:**
+**Start a Conversation:**
 - [ ] Finally, select "Start a Conversation".
 - [ ] Upload a PNG of your resume.
 - [ ] Use the prompt to ask Rigobot to craft an executive summary.
