@@ -22,7 +22,7 @@ Pero, como comprenderás después de leer este artículo, no podemos seguir dán
 
 Pero no te preocupes, esto es totalmente solucionable.
 
-## ¿Por qué borramos tus proyectos?
+## ¿Por qué borramos tus proyectos? 😎
 
 GitHub limita el número de repositorios que puede tener una organización; no podemos guardar copias de todos los proyectos que hayan hecho todos los estudiantes; tendremos que borrarlos en algún momento.
 
