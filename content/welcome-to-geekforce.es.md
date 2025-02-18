@@ -1,3 +1,8 @@
+---
+subtitle: "¡GeekForce te ayuda a entrar en tech! Optimiza tu perfil, prepárate para entrevistas y domina la búsqueda de empleo con guía experta y una gran comunidad."
+tags: ["soporte-profesional", "geekforce"]
+
+---
 # ¡Bienvenido a GeekForce!
 
 Hola, joven Padawan!👋🏻 Bienvenido a **GeekForce**, el área oficial de apoyo a la carrera profesional de 4Geeks. Si estás leyendo esto, probablemente estés **buscando una transición a una carrera en tecnología.** ¡Te tenemos! Estás en el lugar adecuado.
