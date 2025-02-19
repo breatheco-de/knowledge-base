@@ -5,7 +5,7 @@ tags: ["4geeks"]
 authors: ["alesanchezr"]
 ---
 
-En este artículo vamos a explicarte por qué los "Capstone Projects" en nuestros bootcamps son tan importantes, haz clic aquí si están [buscando como elegir o empezar tu proyecto](https://4geeks.com/es/lesson/pick-your-capstone-project-es), también puedes revisar aquí los [proyectos anteriores que los alumnos han realizado](https://4geeksacademy.com/es/alumnos-y-proyectos?lang=es).
+En este artículo vamos a explicarte por qué los "Capstone Projects" en nuestros bootcamps son tan importantes, haz clic aquí si estás [buscando como elegir o empezar tu proyecto](https://4geeks.com/es/lesson/pick-your-capstone-project-es), también puedes revisar aquí los [proyectos anteriores que los alumnos han realizado](https://4geeksacademy.com/es/alumnos-y-proyectos?lang=es).
 
 Son varias razones que tienen sentido cuando [entiendes nuestro framework de enseñanza](https://4geeks.com/es/mastering-technical-knowledge). El beneficio principal es estabilizar tu memoria, pero muchos otros importantes como la motivación, aprender a colaborar, etc.
 
