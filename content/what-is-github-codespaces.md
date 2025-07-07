@@ -43,7 +43,7 @@ Are you familiar with GitHub and what a Git Repository is? If you already know w
 
 **Git**: You can think of GIT like “Google Docs but for code”. Software developers don’t like to save their progress on their own personal computers. Saving your code in your local hard drive makes it hard to share with your teammates; everyone in your team should have access to the code almost in real-time. Git was created to help share your project code among the team, track changes from everyone and help merge and sync those changes back into every single developer in the team. 
 
-**Github**: On the other hand, you can think about GitHub as a social network for coders and development teams; instead of sharing images like Instagram or videos like Tiktok you will be sharing code; people can review and comment on your code, and you can invite people to contribute to your code, etc. 
+**Github**: On the other hand, you can think about GitHub as a social network for coders and development teams; instead of sharing images like Instagram or videos like TikTok you will be sharing code; people can review and comment on your code, and you can invite people to contribute to your code, etc. 
 
 GitHub is a website that compliments Git significantly; Github will provide you with an online website or URL where you can upload your code (using Git) and invite other people to review it.
 
