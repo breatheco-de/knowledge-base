@@ -43,7 +43,7 @@ Entendemos que prefieras mantener algunos proyectos en privado. Es una opción c
 5. Una vez en la página de tu repositorio, busca la pestaña de configuración y haz clic en ella.
 6. Una vez dentro de ajustes, desplázate hacia abajo hasta encontrar el botón "hacer público" y haz clic en él.
 
-> Nota: Puede que encuentres que el botón dice "hacer privado" en lugar de "hacer público", lo que significa que tu repositorio ya estaba público y no necesitas hacer nada para hacerlo público.
+> Nota: Puede que veas que el botón dice "hacer privado" en lugar de "hacer público", lo que significa que tu repositorio ya estaba público y no necesitas hacer nada para hacerlo público.
 
 ## 🚫 Evita que se borren tus proyectos al graduarte
 
