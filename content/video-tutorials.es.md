@@ -10,7 +10,7 @@ En 4Geeks, fomentamos un poco más de autonomía en tu proceso de aprendizaje. T
 
 ![cat-coding GIF](https://breathecode.herokuapp.com/v1/media/file/cat-coding-gif?raw=true)
 
-## 😎 Estamos aquí para ti
+## 😎 Estamos aquí para ti (sobretodo el guapo de Erwin y el loco de Dani)
 
 Sabemos que aprender en línea puede ser desafiante y aún más cuando hablamos de programación. ¡Por eso queremos facilitártelo al máximo! Siempre que te sientas estancado, te tenemos cubierto con videos súper útiles que te guiarán en tu viaje de programación. Proporcionarán explicaciones claras sobre cómo hacer las cosas paso a paso + consejos valiosos para que avances con confianza.
 
