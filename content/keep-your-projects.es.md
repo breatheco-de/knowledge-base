@@ -64,5 +64,4 @@ Para evitar perder el código de tus proyectos, puedes crear una copia en tu cue
 3. Haz clic en el botón "Fork" en la esquina superior derecha.
 
 4. Encuentra tu repositorio en `https://github.com/<Tu-Nombre-de-Usuario>/<Tu-Repositorio>`.
-
-> Nota: Debes reemplazar `<Tu-Nombre-de-Usuario>` y `<Tu-Repositorio>` con tu nombre de usuario y nombre de repositorio reales.
+> Nota: Debes reemplazar `(Tu-Nombre-de-Usuario)` y `(Tu-Repositorio)` con tu nombre de usuario y nombre de repositorio reales.
