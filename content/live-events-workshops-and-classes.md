@@ -20,7 +20,7 @@ You will be able to find the events in your dashboard:
 
 1. In your dashboard, at the top right of the screen, there is a box showing the closest upcoming workshop. Below that, click on **Other Upcoming Live Events** to see more options.
 2. Check out the list of all upcoming workshops we offer, and see which ones interest you the most.
-3. When you find a workshop you like, click on it's name. A new window will pop up with all the details about that workshop.
+3. When you find a workshop you like, click on its name. A new window will pop up with all the details about that workshop.
 4. On the right side, you'll see a counter for the next closest workshop. Under it, click on **Reserve Your Spot** in the blue box, and you're good to go!
 
 ## What events formats are available?
@@ -29,7 +29,7 @@ You will be able to find the events in your dashboard:
 2. What is a live event: A Live Event is an online event typically used to present different subjects non related with technical or career challenges, like GeekTalks.
 3. What is a live class: A Live Class is a recurrent online class from a cohort where only the users that belongs to the cohort will have access to it.
 
-## What types events can you expect
+## What of types events can you expect
 
 There are many Event Types, they are related to technologies, career support, GeekTalks, and more. Technology oriented Event Types will be divided by a technology, language, and its level expertise in the technology, i.e.: We have JavaScript Beginner in English and JavaScript Level 2 in English.
 
