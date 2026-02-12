@@ -1,3 +1,5 @@
+En el título principal dice: "Evita que se borren tus projectos de Github". Debería ser proyecto, no projecto.
+
 ---
 title: "Mantén Tus Proyectos en GitHub Después de Graduarte del Bootcamp"
 subtitle: "Maximiza el Valor de tus Proyectos y Destaca tu Perfil Profesional a Través de GitHub Después de graduarte del Bootcamp de 4Geeks Academy"
