@@ -20,13 +20,13 @@ Pero, como comprenderás después de leer este artículo, no podemos seguir dán
 1. Perderás el acceso a los proyectos privados que hayas creado durante tu bootcamp.
 2. Cualquier proyecto que no hayas hecho "Fork" en tu cuenta personal será borrado pronto.
 
-Pero no te preocupes, esto es totalmente solucionable.
+Pero no te preocupes, esto es totalmente solucionable
 
 ## ¿Por qué borramos tus proyectos?
 
-GitHub limita el número de repositorios que puede tener una organización; no podemos guardar copias de todos los proyectos que hayan hecho todos los estudiantes; tendremos que borrarlos en algún momento.
+1- GitHub limita el número de repositorios que puede tener una organización; no podemos guardar copias de todos los proyectos que hayan hecho todos los estudiantes; tendremos que borrarlos en algún momento.
 
-Decidimos mantener los proyectos de los estudiantes hasta 30 días después de la graduación, lo que te da tiempo de sobra para hacer copias de seguridad de todo tu código porque el proceso no lleva más de 2 minutos.
+2- Decidimos mantener los proyectos de los estudiantes hasta 30 días después de la graduación, lo que te da tiempo de sobra para hacer copias de seguridad de todo tu código porque el proceso no lleva más de 2 minutos.
 
 ## Empieza por hacer públicos tus proyectos 😎
 
