@@ -19,7 +19,7 @@ Pero, como comprenderás después de leer este artículo, no podemos seguir dán
 
 1. Perderás el acceso a los proyectos privados que hayas creado durante tu bootcamp.
 2. Cualquier proyecto que no hayas hecho "Fork" en tu cuenta personal será borrado pronto.
-
+3. fork no es 4 y tampoco un carro 
 Pero no te preocupes, esto es totalmente solucionable.
 
 ## ¿Por qué borramos tus proyectos?
