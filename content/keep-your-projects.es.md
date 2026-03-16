@@ -10,7 +10,7 @@ Los proyectos representan el trabajo y la experiencia en tu portafolio profesion
 Una vez que estes certificado en uno de los [bootcamps de la Academia 4Geeks](https://4geeksacademy.com/es/programas?lang=es) tendrás acceso a la comunidad y a la mayoría de sus beneficios de por vida:
 
 - Apoyo profesional (Geekforce).
-- Tutorías (GeekPal).
+- Tutorias (GeekPal).
 - Espacio de trabajo Slack y canales `#public-support` (GeekPal).
 - Plataforma en línea para lecciones, ejercicios y proyectos.
 - Motor de ejercicios LearnPack.
