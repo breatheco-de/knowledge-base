@@ -19,7 +19,7 @@ Antes de hablarte de los requisitos del proyecto, consideramos más importante d
 
 Si estudias datascience salta a la próxima sección. Luego de 8 años viendo proyectos finales ser exitosos o fracasar, hemos compilado la siguiente lista de sugerencias:
 
-### No agregar demasiadas funionalidades
+### No agregar demasiadas funcionalidades
 
 El error más común de un estudiante es pensar que la calidad de tu proyecto final está determinada por el número de funcionalidades que tiene. Nada puede ser más falso, ¡¡Es todo lo contrario!! Mientras más funcionalidades tengas, peor será la calidad de tu proyecto. Todos los grandes productos tienen solo unas pocas funcionalidades.
 
