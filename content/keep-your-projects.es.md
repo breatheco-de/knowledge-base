@@ -45,7 +45,7 @@ Entendemos que prefieras mantener algunos proyectos en privado. Es una opción c
 
 > Nota: Puede que encuentres que el botón dice "hacer privado" en lugar de "hacer público", lo que significa que tu repositorio ya estaba público y no necesitas hacer nada para hacerlo público.
 
-## 🚫 Evita que se borren tus proyectos al graduarte
+## 🚫 Evita que se borren tus proyectos al graduarte🚫
 
 > 🔥 Inmediatamente después de graduarte, los proyectos que hayas creado durante el bootcamp serán **programados para borrarse** en 30 días. Debes copiarlos (hacer Fork) en tu cuenta de GitHub para evitar perderlos.
 
