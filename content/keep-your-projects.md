@@ -16,7 +16,7 @@ Once you graduate from one of [4Geeks Academy bootcamps](https://4geeksacademy.c
 - Online platform for lessons, exercises, and projects.
 - LearnPack exercise engine.
 
-But, as you will understand after reading this article, we cannot keep giving you access to [4Geeks Academy's GitHub Organization as a member](https://github.com/4GeeksAcademy), which comes with several limitations.
+But as you will understand after reading this article, we cannot keep giving you access to [4Geeks Academy's GitHub Organization as a member](https://github.com/4GeeksAcademy), which comes with several limitations.
 
 1. You will lose access to the private projects you created during your bootcamp.
 2. Any project you didn't fork into your personal account will be deleted soon.
