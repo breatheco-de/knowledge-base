@@ -39,10 +39,13 @@ Estamos buscando ese [momento eureka](https://es.wikipedia.org/wiki/%C2%A1Eureka
 
 ### Empleabilidad
 
-Los reclutadores son cada vez más difíciles de impresionar, debes asumir que todos los demás candidatos a tu puesto de trabajo soñado tienen un portafolio de calidad demostrando su experiencia, los proyectos "hola mundo" ya no son suficiente.
-¡El capstone Projects es tu gran oportunidad para lucir y demostrar tus habilidades! Como estudiante, lo principal es elegir un proyecto que impresione y te entusiasme.
-Concentra tus esfuerzos en resolver un problema real que te interese y pon metas claras desde el inicio.
-Te sorprenderás sobre lo relativamente sencillo que puede ser crear algo innovador e impresionante, en lugar de ir por las rutas tradicionales más trabajosas, de esto hablamos más a detalle en este artículo sobre [cómo elegir tu proyecto final](https://4geeks.com/es/lesson/pick-your-capstone-project-es).
+Los reclutadores son cada vez más difíciles de impresionar. Debes asumir que todos los demás candidatos a tu puesto de trabajo soñado tienen un portafolio de calidad que demuestra su experiencia; los proyectos “hola mundo” ya no son suficientes.
+
+¡El Capstone Project es tu gran oportunidad para lucir y demostrar tus habilidades! Como estudiante, lo principal es elegir un proyecto que impresione y te entusiasme.
+
+Concentra tus esfuerzos en resolver un problema real que te interese y establece metas claras desde el inicio.
+
+Te sorprenderá lo relativamente sencillo que puede ser crear algo innovador e impresionante, en lugar de optar por las rutas tradicionales, que suelen ser más trabajosas. De esto hablamos con más detalle en este artículo sobre [cómo elegir tu proyecto final].(https://4geeks.com/es/lesson/pick-your-capstone-project-es).
 
 ### Colaborar
 
