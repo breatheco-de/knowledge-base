@@ -28,11 +28,11 @@ GitHub limita el número de repositorios que puede tener una organización; no p
 
 Decidimos mantener los proyectos de los estudiantes hasta 30 días después de la graduación, lo que te da tiempo de sobra para hacer copias de seguridad de todo tu código porque el proceso no lleva más de 2 minutos.
 
-## Empieza por hacer públicos tus proyectos 😎
+## Empieza por hacer públicos tus proyectos 
 
 Entendemos que prefieras mantener algunos proyectos en privado. Es una opción completamente válida, pero es importante que entiendas las implicaciones. Si decides mantener tus proyectos como **repositorios privados**, perderás el acceso a ellos cuando dejes de ser miembro de la organización.
 
-> 👉 Recomendamos seriamente hacer públicos todos tus repositorios desde el primer día.
+>  Recomendamos seriamente hacer públicos todos tus repositorios desde el primer día.
 
 ### ¿Cómo hacer públicos tus proyectos?
 
@@ -45,9 +45,9 @@ Entendemos que prefieras mantener algunos proyectos en privado. Es una opción c
 
 > Nota: Puede que encuentres que el botón dice "hacer privado" en lugar de "hacer público", lo que significa que tu repositorio ya estaba público y no necesitas hacer nada para hacerlo público.
 
-## 🚫 Evita que se borren tus proyectos al graduarte
+##  Evita que se borren tus proyectos al graduarte
 
-> 🔥 Inmediatamente después de graduarte, los proyectos que hayas creado durante el bootcamp serán **programados para borrarse** en 30 días. Debes copiarlos (hacer Fork) en tu cuenta de GitHub para evitar perderlos.
+>  Inmediatamente después de graduarte, los proyectos que hayas creado durante el bootcamp serán **programados para borrarse** en 30 días. Debes copiarlos (hacer Fork) en tu cuenta de GitHub para evitar perderlos.
 
 ### ¿Cómo hacer un fork de tus proyectos?
 
