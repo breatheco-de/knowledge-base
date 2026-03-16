@@ -57,12 +57,12 @@ Para evitar perder el código de tus proyectos, puedes crear una copia en tu cue
 
 1. Accede a tu cuenta de GitHub.
 
-2. Visita el repositorio que quieres copiar (por ejemplo, `https://github.com/4GeeksAcademy/<Tu-Repositorio>`).
+2. Visita el repositorio que quieres copiar (por ejemplo, `https://github.com/4GeeksAcademy/<tu-repositorio>`).
 
-> Nota: Debes sustituir `<Tu-Repositorio>` por el nombre real de tu repositorio.
+> Nota: Debes sustituir `<tu-repositorio>` por el nombre real de tu repositorio.
 
 3. Haz clic en el botón "Fork" en la esquina superior derecha.
 
-4. Encuentra tu repositorio en `https://github.com/<Tu-Nombre-de-Usuario>/<Tu-Repositorio>`.
+4. Encuentra tu repositorio en `https://github.com/<tu-nombre-de-usuario>/<tu-repositorio>`.
 
-> Nota: Debes reemplazar `<Tu-Nombre-de-Usuario>` y `<Tu-Repositorio>` con tu nombre de usuario y nombre de repositorio reales.
+> Nota: Debes reemplazar `<tu-nombre-de-usuario>` y `<tu-repositorio>` con tu nombre de usuario y nombre de repositorio reales.
