@@ -45,7 +45,7 @@ Are you familiar with GitHub and what a Git Repository is? If you already know w
 
 **Github**: On the other hand, you can think about GitHub as a social network for coders and development teams; instead of sharing images like Instagram or videos like Tiktok you will be sharing code; people can review and comment on your code, and you can invite people to contribute to your code, etc. 
 
-GitHub is a website that compliments Git significantly; Github will provide you with an online website or URL where you can upload your code (using Git) and invite other people to review it.
+GitHub is a website that complements Git significantly; Github will provide you with an online website or URL where you can upload your code (using Git) and invite other people to review it.
 
 ![github explanation](https://github.com/breatheco-de/knowledge-base/blob/main/images/github-exaplantion.png?raw=true)
 
