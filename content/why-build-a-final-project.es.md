@@ -11,9 +11,9 @@ Son varias razones que tienen sentido cuando [entiendes nuestro framework de ens
 
 Antes de que existiera el proyecto final el desempeño de los alumnos era dramáticamente mejor, incluirlo como requisito dentro del bootcamp ha sido el cambio que más ha incrementado la calidad del curso.
 
-## Que es un Capstone Project
+## Que es un Capstone Project?
 
-Podemos definirlos como un único proyecto que integra y utiliza todas las habilidades y conocimientos que se han impartido durante el curso. 🍒 La cereza 🍰 del pastel al finalizar el bootcamp.
+Podemos definirlos como un único proyecto que integra y utiliza todas las habilidades y conocimientos que se han impartido durante el curso. La cereza del pastel al finalizar el bootcamp.
 El proyecto capstone es un simulacro de un proyecto de la vida real, probablemente tu experiencia al desarrollarlo será similar a tu trabajo dentro de una empresa en el futuro.
 
 ## Objetivo principal del capstone project
@@ -54,7 +54,7 @@ El proyecto final es un ambiente de colaboración muy similar al mundo real, ten
 
 ### Ganar confianza
 
-Probablemente, durante el curso te has sentido bruto, tu [sindrome del impostor](https://4geeks.com/es/lesson/intro-to-4geeks-full-stack-es) está descontrolado. ¡🙂 Es normal!
+Probablemente, durante el curso te has sentido bruto, tu [sindrome del impostor](https://4geeks.com/es/lesson/intro-to-4geeks-full-stack-es) está descontrolado. ¡Es normal!
 
 La confianza se logra cuando te das cuenta de que si haa aprendido, cuando eres útil sin necesidad de depender de los demás.
 
