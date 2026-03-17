@@ -33,6 +33,7 @@ Decidimos mantener los proyectos de los estudiantes hasta 30 días después de l
 Entendemos que prefieras mantener algunos proyectos en privado. Es una opción completamente válida, pero es importante que entiendas las implicaciones. Si decides mantener tus proyectos como **repositorios privados**, perderás el acceso a ellos cuando dejes de ser miembro de la organización.
 
 > 👉 Recomendamos seriamente hacer públicos todos tus repositorios desde el primer día.
+> <3
 
 ### ¿Cómo hacer públicos tus proyectos?
 
