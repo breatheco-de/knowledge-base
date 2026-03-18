@@ -46,7 +46,7 @@ Asegúrate de seleccionar la opción `public`, y luego de eso haz clic en el bot
 
 ![Crear repositorio de la plantilla](https://user-images.githubusercontent.com/109599459/230991967-9c08afca-1355-41a5-8a12-0464b98d7bbd.png)
 
-Serás redirigido a la URL del repositorio. La primera cosa que necesitas hacer es destacar el repositorio, de esta marera lo podrás encontrar más fácil. Tienes que darle clic al botón que dice `star` (destacar):
+Serás redirigido a la URL del repositorio. La primera cosa que necesitas hacer es destacar el repositorio, de esta manera lo podrás encontrar más fácil. Tienes que darle clic al botón que dice `star` (destacar):
 
 ![Destacar](https://user-images.githubusercontent.com/109599459/230993816-8f404028-b109-40d5-a47c-e149ae6c17ae.png)
 
