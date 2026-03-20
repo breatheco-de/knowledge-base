@@ -7,7 +7,7 @@ authors: ["Lorenagubaira"]
 
 Los proyectos representan el trabajo y la experiencia en tu portafolio profesional. Estos proyectos muestran tus habilidades como programador y son una poderosa herramienta para demostrar lo que puedes lograr en el campo profesional. Son tu carta de presentación ante posibles empleadores o clientes.
 
-Una vez que estes certificado en uno de los [bootcamps de la Academia 4Geeks](https://4geeksacademy.com/es/programas?lang=es) tendrás acceso a la comunidad y a la mayoría de sus beneficios de por vida:
+Una vez que estés certificado en uno de los [bootcamps de la Academia 4Geeks](https://4geeksacademy.com/es/programas?lang=es) tendrás acceso a la comunidad y a la mayoría de sus beneficios de por vida:
 
 - Apoyo profesional (Geekforce).
 - Tutorías (GeekPal).
@@ -26,7 +26,7 @@ Pero no te preocupes, esto es totalmente solucionable.
 
 GitHub limita el número de repositorios que puede tener una organización; no podemos guardar copias de todos los proyectos que hayan hecho todos los estudiantes; tendremos que borrarlos en algún momento.
 
-Decidimos mantener los proyectos de los estudiantes hasta 30 días después de la graduación, lo que te da tiempo de sobra para hacer copias de seguridad de todo tu código porque el proceso no lleva más de 2 minutos.
+Decidimos mantener los proyectos de los estudiantes hasta 30 días después de la graduación, lo que te da tiempo de sobra para hacer copias de seguridad de todo tu código por que el proceso no lleva más de 2 minutos.
 
 ## Empieza por hacer públicos tus proyectos 😎
 
@@ -43,7 +43,7 @@ Entendemos que prefieras mantener algunos proyectos en privado. Es una opción c
 5. Una vez en la página de tu repositorio, busca la pestaña de configuración y haz clic en ella.
 6. Una vez dentro de ajustes, desplázate hacia abajo hasta encontrar el botón "hacer público" y haz clic en él.
 
-> Nota: Puede que encuentres que el botón dice "hacer privado" en lugar de "hacer público", lo que significa que tu repositorio ya estaba público y no necesitas hacer nada para hacerlo público.
+> Nota: Puede que encuentres que el botón dice "hacer privado" en lugar de "hacer público", lo que significa que tu repositorio ya estaba público y no necesitas hacer nada para lograrlo.
 
 ## 🚫 Evita que se borren tus proyectos al graduarte
 
