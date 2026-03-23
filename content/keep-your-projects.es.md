@@ -18,7 +18,7 @@ Una vez que estes certificado en uno de los [bootcamps de la Academia 4Geeks](ht
 Pero, como comprenderás después de leer este artículo, no podemos seguir dándote acceso a la Organización GitHub de 4Geeks Academy como miembro, lo que conlleva varias limitaciones.
 
 1. Perderás el acceso a los proyectos privados que hayas creado durante tu bootcamp.
-2. Cualquier proyecto que no hayas hecho "Fork" en tu cuenta personal será borrado pronto.
+2. Cualquier proyecto que no hayas hecho el "Fork" en tu cuenta personal será borrado pronto.
 
 Pero no te preocupes, esto es totalmente solucionable.
 
