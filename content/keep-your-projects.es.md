@@ -7,18 +7,18 @@ authors: ["Lorenagubaira"]
 
 Los proyectos representan el trabajo y la experiencia en tu portafolio profesional. Estos proyectos muestran tus habilidades como programador y son una poderosa herramienta para demostrar lo que puedes lograr en el campo profesional. Son tu carta de presentación ante posibles empleadores o clientes.
 
-Una vez que estes certificado en uno de los [bootcamps de la Academia 4Geeks](https://4geeksacademy.com/es/programas?lang=es) tendrás acceso a la comunidad y a la mayoría de sus beneficios de por vida:
+Una véz que estes certificado en uno de los [bootcamps de la Academia 4Geeks](https://4geeksacademy.com/es/programas?lang=es) tendrás acceso a la comunidad y a la mayoría de sus beneficios de por vida:
 
 - Apoyo profesional (Geekforce).
 - Tutorías (GeekPal).
-- Espacio de trabajo Slack y canales `#public-support` (GeekPal).
+- Espacio de trabajo en Slack y canales `#public-support` (GeekPal).
 - Plataforma en línea para lecciones, ejercicios y proyectos.
 - Motor de ejercicios LearnPack.
 
 Pero, como comprenderás después de leer este artículo, no podemos seguir dándote acceso a la Organización GitHub de 4Geeks Academy como miembro, lo que conlleva varias limitaciones.
 
 1. Perderás el acceso a los proyectos privados que hayas creado durante tu bootcamp.
-2. Cualquier proyecto que no hayas hecho "Fork" en tu cuenta personal será borrado pronto.
+2. Cualquier proyecto que no hayas hecho un "Fork" en tu cuenta personal será borrado pronto.
 
 Pero no te preocupes, esto es totalmente solucionable.
 
