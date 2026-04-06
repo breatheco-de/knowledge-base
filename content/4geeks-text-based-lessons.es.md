@@ -1,7 +1,7 @@
 ---
 title: "Lecciones Basadas en Texto"
 subtitle: "Explora la importancia de las lecciones basadas en texto en el aprendizaje en línea. Descubre cómo 4Geeks ofrece lecciones estructuradas y flexibles, proporcionando información esencial para construir una base sólida en programación."
-tags: ["4geeks"]
+tags: ["4Geeks"]
 authors: ["Lorenagubaira"]
 
 ---
