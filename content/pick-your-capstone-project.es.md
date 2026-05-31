@@ -6,9 +6,9 @@ authors: ["alesanchezr"]
 
 ---
 
-Probablemente, estás aquí porque estas por empezar a construir tu proyecto final, ¡Qué emoción!
+Probablemente, estás aquí porque estás por empezar a construir tu proyecto final, ¡Qué emoción!
 
-> 👓 Si todavia no estas claro de [porque el proyecto final es tan importante](https://4geeks.com/es/lesson/porque-construir-un-proyecto-final), te recomendamos leer este otro artículo.
+> 👓 Si todavía no estás claro de [por qué el proyecto final es tan importante](https://4geeks.com/es/lesson/porque-construir-un-proyecto-final), te recomendamos leer este otro artículo.
 
 Para ayudarte mejor a elegir, debes saber que tu proyecto final es un esfuerzo que integra y utiliza todas las habilidades y conocimientos que se han impartido durante el curso. 🍒 La cereza 🍰 del pastel al finalizar el bootcamp. 
 El proyecto capstone es un simulacro de un proyecto de la vida real, probablemente tu experiencia al desarrollarlo será similar a tu trabajo dentro de una empresa en el futuro.
@@ -19,7 +19,7 @@ Antes de hablarte de los requisitos del proyecto, consideramos más importante d
 
 Si estudias datascience salta a la próxima sección. Luego de 8 años viendo proyectos finales ser exitosos o fracasar, hemos compilado la siguiente lista de sugerencias:
 
-### No agregar demasiadas funionalidades
+### No agregar demasiadas funcionalidades
 
 El error más común de un estudiante es pensar que la calidad de tu proyecto final está determinada por el número de funcionalidades que tiene. Nada puede ser más falso, ¡¡Es todo lo contrario!! Mientras más funcionalidades tengas, peor será la calidad de tu proyecto. Todos los grandes productos tienen solo unas pocas funcionalidades.
 
@@ -65,17 +65,17 @@ Dado que estamos en un ambiente educativo, tus recursos de procesamiento serán 
 
 ## Requisitos generales de los capstone projects
 
-Dependiendo del programa que cursando vas a encontrar diferentes requisitos, pero, en general, todos los proyectos finales deben:
+Dependiendo del programa que estés cursando vas a encontrar diferentes requisitos, pero, en general, todos los proyectos finales deben:
 
 - **Ser desplegados en línea**: Ya sea, heroku.com, render.com, Vercel, Azure, AWS, etc. Debes hacer que tu proyecto quede disponible en línea bajo algún URL y proporcionar un enlace para que puedas incluirlo en tu curriculum vitae como una muestra de tu trabajo.
 - **Ser realizados en grupos de 2 a 3 (recomendado) personas**: Si trabajas solo dejarás de aprender como trabajar de forma colaborativa, que es uno de los requisitos más importantes de las empresas. Tampoco serán necesarias muchas de las mejores prácticas. En fin, tu experiencia no será parecida a la vida real.
 
-> 🔥 Es importante trabajar en concenvar a tus compañeros de unirse a tu proyecto, después de todo los proyectos son en grupo y no todas las ideas se van a realizar, algunos alumnos deberán desistir de su ideal para unirse al equipo de un compañero.
+> 🔥 Es importante trabajar en convencer a tus compañeros de unirse a tu proyecto, después de todo los proyectos son en grupo y no todas las ideas se van a realizar, algunos alumnos deberán desistir de su ideal para unirse al equipo de un compañero.
 
 - **Ser subido a 4Geeks.com**: Cuando entres al dashboard de tu cohort, encontrarás una sección para subir la información de tu proyecto final.
 - **Ser presentado en un GeekTalk**: La presentación final es un paso necesario, te permitirá contar con un video de tu proyecto, además te obligará a fijar una fecha de entrega y trabajar bajo presión. A veces invitamos potenciales empleadores a los GeekTalk que están buscando talento para contratar.
 
-## Requisitos especificos según el programa:
+## Requisitos específicos según el programa:
 
 ### Para Full-Stack Development: 
 
@@ -94,7 +94,7 @@ Dependiendo del programa que cursando vas a encontrar diferentes requisitos, per
 > Nota: Solo leer esto si haces un bootcamp de data-science, Machine Learning / IA.
 
 - Lo más importante es escoger el dataset ¿Con qué data cuentas?
-- Para asombrar en datascience es bueno implementar predicciones en la salud (Ejemplo: detectar neumonia), en finanzas (detectar fraude, morosidad, etc), etc.
+- Para asombrar en datascience es bueno implementar predicciones en la salud (Ejemplo: detectar neumonía), en finanzas (detectar fraude, morosidad, etc), etc.
 - Deberás realizar predicciones con data de la vida real.
 
-> 🔥 Entra aqui para ver una lista de los [requerimientos del proyecto final de Machine Learning](https://4geeks.com/es/interactive-coding-tutorial/proyecto-final-machine-learning).
+> 🔥 Entra aquí para ver una lista de los [requerimientos del proyecto final de Machine Learning](https://4geeks.com/es/interactive-coding-tutorial/proyecto-final-machine-learning).
